@@ -1,0 +1,27 @@
+<html> … </html> — The root element. ...
+<head> … </head> — The document head. ...
+<title> … </title> — The page title. ...
+<body> … </body> — The page's content. ...
+<h1> … </h1> — A section heading. ...
+HTML defines six levels of headings. A heading element implies all the font changes, paragraph breaks before and after, and any white space necessary to render the heading. The heading elements are H1, H2, H3, H4, H5, and H6 with H1 being the highest (or most important) level and H6 the least.
+<p> … </p> — A paragraph. ...
+<a> … </a> — A link. ...
+<img> — An image.
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Example page</title>
+  </head>
+  <body>
+    <h1>Hello world</h1>
+  </body>
+</html>
+
+https://webplatform.github.io/docs/html/
+https://webplatform.github.io/docs/guides/the_basics_of_html/ 
+The document starts with a document type element, or doctype, in this case the HTML5 doctype. This mainly serves to get the browser to render the HTML in what is called "standards mode", so it will work correctly. It also lets validation software know what version of HTML to validate your code against.
+Next, you can see the opening tag of the <html> element. This is a wrapper around the entire document. The closing </html> tag is the last thing in any HTML document. The html element should always have a lang attribute. This specifies the primary language for the page. For example, en means "English", fr means "French". There are tools available to help you find the right language tag, such as Richard Ishida’s Language Subtag Lookup tool.
+Inside the html element, there is the head element. This is a wrapper that contains other information about the document such as internal or external styles and scripts. This is described in more detail in The HTML head element. Inside the head is the title element, which defines the “Example page” heading in the brower’s title bar. The head element should always contain a meta element with a charset attribute that identifies the character encoding of the page. (The one exception is when the page is encoded in UTF-16, but you should avoid that encoding anyway.) You should use UTF-8 whenever possible. See this W3C article for more about character encodings.
+After the head element there is a body element, which is the wrapper that surrounds the actual content of the page — in this case, a level-one heading (h1) element, which contains the text "Hello world".
