@@ -1,13 +1,49 @@
+<!doctype html>
+a) Technically it is not a tag but an instruction to the brower on how to interpret the rest of the document. For HTML 5 we simply refer to the type as html. For previous versions of HTML there were different types that it could be so it was important to specify which.
 <html> … </html> — The root element. ...
 <head> … </head> — The document head. ...
+a) The head of the html document is where ancilliary information goes. This is information relating to the document but not directly part of the document. There are many items which can go here but the template above includes the basic items which every page should have.
 <title> … </title> — The page title. ...
-<body> … </body> — The page's content. ...
+a) The title tag allows us to give the document a title. This is used in several places:The browser will include it at the top of the window.
+b) If you save the page as a favourite the title will be used here.
+c) Search engines use the title when they list your page in their search results.
+d) Other sites may use the title when someone links to your page.
+<meta name="description" value="">
+<meta name="keywords" value="">
+Next in the head we have the two meta tags for description and keywords. These are used by search engines (to varying degrees) and can also be used by other systems (such as when your page is linked to on social media and other sharing sites).
+The description is used to provide a summary of what the page is about. Search engines will typically place this under your title in their results pages.
+<head> </head>
 <h1> … </h1> — A section heading. ...
-HTML defines six levels of headings. A heading element implies all the font changes, paragraph breaks before and after, and any white space necessary to render the heading. The heading elements are H1, H2, H3, H4, H5, and H6 with H1 being the highest (or most important) level and H6 the least.
+HTML defines six levels of headings. A heading implies all the font changes, paragraph breaks before and after, and any white space necessary to render the heading. The heading elements are H1, H2, H3, H4, H5, and H6 with H1 being the highest (or most important) level and H6 the least.
+<body> … </body> — The page's content. ...
+a) This is where the actual content of your page goes. Typically this content would all be contained within tags to explain what type of content it is. 
+b) It is important that all of your content is between the opening and closing body tags.
 <p> … </p> — A paragraph. ...
 <a> … </a> — A link. ...
 <img> — An image.
 
+
+###TEMPLATE 1###
+<!doctype html>
+<html>
+<head>
+<title>Our Funky HTML Page</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+</head>
+<body>
+Content goes here.
+</body>
+</html>
+Line 13 - This is a special tag which goes at the very top of the document and identifies what type of code is being used.
+Lines 14 and 23 - The html tags open and close the HTML document. Everything contained within is part of the document.
+Lines 15 and 19 - The head tags define the head of the document. Items here are extra data that goes along with the document.
+Line 16 - The title tag defines the title of the document. You'll notice it shows up at the top of the browser window.
+Lines 17 and 18 - The meta tags are used to describe the document.
+Lines 20 and 22 - The body tags enclose the actual content which is the document.
+SOURCE: https://ryanstutorials.net/html-tutorial/html-template.php
+
+###TEMPLATE 2###
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -18,8 +54,7 @@ HTML defines six levels of headings. A heading element implies all the font chan
     <h1>Hello world</h1>
   </body>
 </html>
-
-https://webplatform.github.io/docs/html/
+SOURCE: https://webplatform.github.io/docs/html/
 https://webplatform.github.io/docs/guides/the_basics_of_html/ 
 The document starts with a document type element, or doctype, in this case the HTML5 doctype. This mainly serves to get the browser to render the HTML in what is called "standards mode", so it will work correctly. It also lets validation software know what version of HTML to validate your code against.
 Next, you can see the opening tag of the <html> element. This is a wrapper around the entire document. The closing </html> tag is the last thing in any HTML document. The html element should always have a lang attribute. This specifies the primary language for the page. For example, en means "English", fr means "French". There are tools available to help you find the right language tag, such as Richard Ishida’s Language Subtag Lookup tool.
