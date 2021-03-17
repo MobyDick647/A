@@ -1,23 +1,24 @@
 #EXTM3U
-#EXTINF:0,TV-kanal 1
+#####POLAND######
+#EXTINF:0,TV-kanal 1 BBC Earth 
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6100/index.m3u8
-#EXTINF:0,TV-kanal 2
+#EXTINF:0,TV-kanal 2 Canal+Film 
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6101/index.m3u8
-#EXTINF:0,TV-kanal 3
+#EXTINF:0,TV-kanal 3 Discovery HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6102/index.m3u8
 #EXTINF:0,TV-kanal 4
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6103/index.m3u8
-#EXTINF:0,TV-kanal 5
+#EXTINF:0,TV-kanal 5 Canal+Seriale
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6104/index.m3u8
-#EXTINF:0,TV-kanal 6
+#EXTINF:0,TV-kanal 6 Canal+Family
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6105/index.m3u8
-#EXTINF:0,TV-kanal 7
+#EXTINF:0,TV-kanal 7 FoxComedy HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6106/index.m3u8
-#EXTINF:0,TV-kanal 8
+#EXTINF:0,TV-kanal 8 FoxComedy FHD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6107/index.m3u8
-#EXTINF:0,TV-kanal 9
+#EXTINF:0,TV-kanal 9 FoxPremiera
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6108/index.m3u8
-#EXTINF:0,TV-kanal 10
+#EXTINF:0,TV-kanal 10 SuperPolsat HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6109/index.m3u8
 #EXTINF:0,TV-kanal 11
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6110/index.m3u8
@@ -283,41 +284,41 @@ http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6239/index.m3u8
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6240/index.m3u8
 #EXTINF:0,TV-kanal 142
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6241/index.m3u8
-#EXTINF:0,TV-kanal 143
+#EXTINF:0,TV-kanal 143 PlayboyInternational FHD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6242/index.m3u8
-#EXTINF:0,TV-kanal 144
+#EXTINF:0,TV-kanal 144 XXX
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6243/index.m3u8
-#EXTINF:0,TV-kanal 145
+#EXTINF:0,TV-kanal 145 XXX HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6244/index.m3u8
-#EXTINF:0,TV-kanal 146
+#EXTINF:0,TV-kanal 146 Private.com FHD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6245/index.m3u8
-#EXTINF:0,TV-kanal 147
+#EXTINF:0,TV-kanal 147 PublicAgent FHD (SUB) 
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6246/index.m3u8
-#EXTINF:0,TV-kanal 148
+#EXTINF:0,TV-kanal 148 RealityKings FHD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6247/index.m3u8
-#EXTINF:0,TV-kanal 149
+#EXTINF:0,TV-kanal 149 RealityKings FHD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6248/index.m3u8
-#EXTINF:0,TV-kanal 150
+#EXTINF:0,TV-kanal 150 RealityKings FHD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6249/index.m3u8
-#EXTINF:0,TV-kanal 151
+#EXTINF:0,TV-kanal 151 XXX
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6250/index.m3u8
-#EXTINF:0,TV-kanal 152
+#EXTINF:0,TV-kanal 152 XXX
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6251/index.m3u8
-#EXTINF:0,TV-kanal 153
+#EXTINF:0,TV-kanal 153 SexWithMuslims HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6252/index.m3u8
-#EXTINF:0,TV-kanal 154
+#EXTINF:0,TV-kanal 154 SexArt HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6253/index.m3u8
-#EXTINF:0,TV-kanal 155
+#EXTINF:0,TV-kanal 155 XXX HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6254/index.m3u8
-#EXTINF:0,TV-kanal 156
+#EXTINF:0,TV-kanal 156 Sinematica HD
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6255/index.m3u8
-#EXTINF:0,TV-kanal 157
+#EXTINF:0,TV-kanal 157 XXX
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6256/index.m3u8
-#EXTINF:0,TV-kanal 158
+#EXTINF:0,TV-kanal 158 XXX
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6257/index.m3u8
-#EXTINF:0,TV-kanal 159
+#EXTINF:0,TV-kanal 159 Tiny4K
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6258/index.m3u8
-#EXTINF:0,TV-kanal 160
+#EXTINF:0,TV-kanal 160 TransAngels
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6259/index.m3u8
 #EXTINF:0,TV-kanal 161
 http://8f5d0aba.akadatel.com/iptv/CCBL9PMMTLG9TL/6260/index.m3u8
