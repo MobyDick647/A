@@ -422,6 +422,7 @@ http://cdntv.online/low/9mlxywika2/741.mpeg
 #EXTINF:0 tvg-id="742" tvg-logo="http://epg.cdntv.online/img/742.png" group-title="Adult", Visit-X TV
 #EXTGRP:Adult
 http://cdntv.online/low/9mlxywika2/742.mpeg
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", A&E
 #EXTGRP:USA
 http://185.134.22.131:8080/joel123/joel123/39200
@@ -680,6 +681,7 @@ http://185.134.22.131:8080/joel123/joel123/690
 http://185.134.22.131:8080/joel123/joel123/689
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", WE TV+
 http://185.134.22.131:8080/joel123/joel123/46287
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS
 #EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/33786
@@ -712,28 +714,40 @@ http://185.134.22.131:8080/joel123/joel123/993
 http://185.134.22.131:8080/joel123/joel123/991
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN U
 http://185.134.22.131:8080/joel123/joel123/989
+#EXTGRP:Sports
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPORTS TV
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/10496
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FIGHT NETWORK
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/6422
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FLORACING
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/48280
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX DEPORTES
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/6423
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX SOCCER PLUS
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/921
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX SPORTS 1
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/918
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports",FOX SPORTS 2
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/917
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GAME +
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/41460
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GOL TV
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/9246
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GOLF CHANNEL
 http://185.134.22.131:8080/joel123/joel123/12353
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", UFC TV
+#EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/697
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS GIRLS GONE WILD
 #EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/45618
@@ -785,223 +799,333 @@ http://185.134.22.131:8080/joel123/joel123/45633
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS ULTIMATE SURRENDER
 #EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45634
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS XTRASMALL 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS XTRASMALL
+#EXTGRP:Adult  
 http://185.134.22.131:8080/joel123/joel123/45635
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",BLACKED.COM TWO WHITE CHICKS
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45665
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",BLONDE AMATEUR
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45666
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 01 GEMITI DI
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45693
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 03 IL SEGRETO DI
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45694
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 06 LA CLONAZIONE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45695
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 07 ROSSANA
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45696
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA TURISTE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45697
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 01 ANGELICA BELLA
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45698
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 02 CALDA PIOGGIA DI SESSA
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45699
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 03 ETERNA PASSIONE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45700
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 04 FILOMENA MARTUSANO
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45701
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 06 LA MAGLIE DEL DENTISTA
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45703
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 07 LE AVVENTURE EROTIX DI CAPPUCCETTO ROSSA
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45704
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 08 LE PARCONE VOLANTI
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45705
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",PORNO ITALIA 09 PRAMESSI SPASI
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45706
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", ALBA XXX 1
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/8409
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", ALBA XXX 2
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/8410
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", ALBA XXX 3
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/8412
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", ALBA XXX 4
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/8413
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", ALBA XXX 5
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/8414
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", AST TV 2
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13464
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BALKAN EROTIC
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/7849
-#EXTINF:-1 tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="ADULTS ONLY",XXX | BANGERZ
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BANGERZ
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13469
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BARELY LEGAL TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13470
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BIG ASS
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13472
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BIG DICK
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13473
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BIG TITS
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13474
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BLACK TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/40190
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BLOWJOB
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13476
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BRAZZERS TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/6188
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BRUNETTE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13492
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", CANDY TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/12208
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", CANDY TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13494
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", CENTO X CENTO
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13496
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", CUCKOLD
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13500
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", DORCEL
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/7123
 #EXTINF:-1 tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", DREAM PORN
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13507
 #EXTINF:-1 tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="Adult", DUSK!
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13509
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", EMANUELLE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9567
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", ERO X
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/12210
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", EROTIC 5 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", EROTIC 5
+#EXTGRP:Adult  
 http://185.134.22.131:8080/joel123/joel123/45636
 #EXTINF:-1 tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", EROX XXX
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13527
 #EXTINF:-1 tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", EVIL ANGEL
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13529
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", FAP TV 2
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13536
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", FAP TV 3
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13537
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", FAP TV 4
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13538
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", FAP TV ANAL
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13539
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", FAST BOYZ GAY
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/39272
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", FRENCH LOVER
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9563
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", GANGBANG
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13551
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", HARDCORE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13554
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", HOTCLUB 3
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45637
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", HUSTLER
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/6166
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", INTERRACIAL
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13574
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", JASMIN
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/7112
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", JASMIN TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45638
 #EXTINF:-1 tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="Adult", LEO TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13578
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", MAX XXX +18
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13585
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", MAX XXX 1
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45639
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", MILF TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9564
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", NET XX
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10526
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", OH AH
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/12207
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", OH AH TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13599
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", OHAH 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", OHAH
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45640
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", OLDTIMER
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9565
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PASSION
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13605
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PASSION XXX
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/8408
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", MAX XXX 1
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45641
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PENTHOUSE 1
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45642
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PENTHOUSE GOLD
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13610
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PENTHOUSE GOLD
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45643
 #EXTINF:-1 tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="Adult", PENTHOUSE QUICKIES
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13611
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PENTHOUSE QUICKIES
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/7103
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 1
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10518
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 2
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10519
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 3
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10520
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 4
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10521
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 5
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10522
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 6
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10523
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 7
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10524
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PINK EROTIC 8
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/10525
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PLAYBOY EUROPE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13617
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PLAYBOY EUROPE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/12211
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PREMIUM PORN
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13623
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PRIVATE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/7111
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", PRIVATE TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45644
 #EXTINF:-1 tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="Adult", PRIVE TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13633
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", REALITY KINGS TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/12174
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", REDLIGHT
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/45645
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", REDTRAFFIC MILF
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13662
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", ROUGH
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13672
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", RUSSIAN
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13675
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", RUSSKAYA NOCH
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/12209
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", SCT
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13677
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", SCT
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9085
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", SHALUN TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13686
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", SINSATIONS BLACKED
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/28179
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", SINSATIONS BLACKED2
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/28178
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", TEEN
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13692
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", THREESOME
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13693
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", VISIT X TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13838
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", VIVID TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13840
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", VIVID TV EUROPE
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9083
 #EXTINF:-1 tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="Adult", X1
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13846
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", XXL TV
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9080
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", XY MAX
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/13850
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", XY MAX
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/9082
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", XY MIX
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/12206
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", XY PLUS
+#EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/11865
