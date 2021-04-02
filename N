@@ -295,7 +295,6 @@ http://cdntv.online/low/9mlxywika2/1091.mpeg
 #EXTINF:0 tvg-id="1092" tvg-logo="http://epg.cdntv.online/img/1092.png" group-title="Israel", Sport 5+ HD IL
 #EXTGRP:Israel
 http://cdntv.online/low/9mlxywika2/1092.mpeg
-
 #EXTINF:0 tvg-id="1063" tvg-logo="http://epg.cdntv.online/img/1063.png" group-title="Adult", Nuart TV
 #EXTGRP:Adult
 http://cdntv.online/low/9mlxywika2/1063.mpeg
@@ -422,7 +421,6 @@ http://cdntv.online/low/9mlxywika2/741.mpeg
 #EXTINF:0 tvg-id="742" tvg-logo="http://epg.cdntv.online/img/742.png" group-title="Adult", Visit-X TV
 #EXTGRP:Adult
 http://cdntv.online/low/9mlxywika2/742.mpeg
-
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", A&E
 #EXTGRP:USA
 http://185.134.22.131:8080/joel123/joel123/39200
@@ -681,7 +679,6 @@ http://185.134.22.131:8080/joel123/joel123/690
 http://185.134.22.131:8080/joel123/joel123/689
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", WE TV+
 http://185.134.22.131:8080/joel123/joel123/46287
-
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS
 #EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/33786
@@ -747,7 +744,6 @@ http://185.134.22.131:8080/joel123/joel123/12353
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", UFC TV
 #EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/697
-
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS GIRLS GONE WILD
 #EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/45618
