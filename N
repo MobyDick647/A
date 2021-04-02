@@ -752,7 +752,7 @@ http://185.134.22.131:8080/joel123/joel123/697
 #EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/45618
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS GIRLS GONE WILD 2
-#EXTGRP:Adult 
+#EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/45628
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS BANGBROS 2
 #EXTGRP:Adult
@@ -797,7 +797,7 @@ http://185.134.22.131:8080/joel123/joel123/45632
 #EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/45633
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS ULTIMATE SURRENDER
-#EXTGRP:Adult 
+#EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/45634
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS XTRASMALL
 #EXTGRP:Adult  
@@ -869,7 +869,7 @@ http://185.134.22.131:8080/joel123/joel123/13464
 #EXTGRP:Adult 
 http://185.134.22.131:8080/joel123/joel123/7849
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BANGERZ
-#EXTGRP:Adult 
+#EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/13469
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult", BARELY LEGAL TV
 #EXTGRP:Adult 
