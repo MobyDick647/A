@@ -680,6 +680,60 @@ http://185.134.22.131:8080/joel123/joel123/690
 http://185.134.22.131:8080/joel123/joel123/689
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", WE TV+
 http://185.134.22.131:8080/joel123/joel123/46287
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/33786
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS LALIGA TV
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/12037
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BIG TEN NETWORK
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/6445
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", CBS SPORTS NETWORK
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/1046
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ELEVEN SPORTS NETWORK
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/1007
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/988
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN (BACKUP)
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/43846
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN 2
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/1002
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN DEPORTES
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/993
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN NEWS
+#EXTGRP:Sports
+http://185.134.22.131:8080/joel123/joel123/991
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN U
+http://185.134.22.131:8080/joel123/joel123/989
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPORTS TV
+http://185.134.22.131:8080/joel123/joel123/10496
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FIGHT NETWORK
+http://185.134.22.131:8080/joel123/joel123/6422
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FLORACING
+http://185.134.22.131:8080/joel123/joel123/48280
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX DEPORTES
+http://185.134.22.131:8080/joel123/joel123/6423
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX SOCCER PLUS
+http://185.134.22.131:8080/joel123/joel123/921
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX SPORTS 1
+http://185.134.22.131:8080/joel123/joel123/918
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports",FOX SPORTS 2
+http://185.134.22.131:8080/joel123/joel123/917
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GAME +
+http://185.134.22.131:8080/joel123/joel123/41460
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GOL TV
+http://185.134.22.131:8080/joel123/joel123/9246
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GOLF CHANNEL
+http://185.134.22.131:8080/joel123/joel123/12353
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", UFC TV
+http://185.134.22.131:8080/joel123/joel123/697
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3fHXEEi" group-title="Adult",XXX SINSATIONS GIRLS GONE WILD
 #EXTGRP:Adult
 http://185.134.22.131:8080/joel123/joel123/45618
