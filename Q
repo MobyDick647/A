@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 1
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6180/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 2
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6181/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 3
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6182/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 4
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6183/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 5
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6184/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 6
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6185/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 7
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6186/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 8
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6187/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 9
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6188/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 10
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6189/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 11
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6190/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 12
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6191/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 13
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6192/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 14
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6193/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 15
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6194/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 16
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6195/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 17
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6196/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 18
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6197/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 19
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6198/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 20
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6199/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 21
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6200/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 22
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6201/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 23
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6202/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 24
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6203/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 25
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6204/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 26
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6205/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 27
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6206/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 28
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6207/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 29
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6208/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 30
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6209/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 31
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6210/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 32
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6211/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 33
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6212/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 34
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6213/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 35
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6214/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 36
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6215/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 37
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6216/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 38
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6217/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 39
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6218/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 40
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6219/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 41
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6220/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 42
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6221/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 43
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6222/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 44
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6223/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 45
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6224/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 46
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6225/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 47
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6226/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 48
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6227/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 49
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6228/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 50
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6229/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 51
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6230/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 52
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6231/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 53
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6232/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 54
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6233/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 55
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6234/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 56
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6235/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 57
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6236/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 58
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6237/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 59
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6238/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 60
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6239/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 61
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6240/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 62
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6241/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 63
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6242/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 64
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6243/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 65
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6244/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 66
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6245/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 67
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6246/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 68
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6247/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 69
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6248/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 70
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6249/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 71
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6250/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 72
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6251/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 73
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6252/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 74
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6253/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 75
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6254/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 76
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6255/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 77
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6256/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 78
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6257/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 79
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6258/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 80
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6259/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 81
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6260/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 82
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6261/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 83
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6262/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 84
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6263/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 85
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 86
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6265/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 87
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6266/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 88
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6267/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 89
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6268/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 90
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6269/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 91
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6270/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 92
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6271/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 93
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6272/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 94
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6273/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 95
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6274/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 96
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6275/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 97
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6276/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 98
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6277/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 99
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6278/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 100
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6279/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 101
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6280/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 102
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6281/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 103
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6282/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 104
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6283/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 105
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6284/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 106
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6285/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 107
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6286/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 108
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6287/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 109
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6288/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 110
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6289/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 111
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6290/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 112
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6291/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 113
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6292/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 114
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6293/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 115
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6294/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 116
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6295/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 117
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6296/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 118
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6297/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",TV-kanal 119
+http://8f5d0aba.akadatel.com/iptv/CM8BR5B8SQGM4Y/6298/index.m3u8 
