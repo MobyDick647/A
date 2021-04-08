@@ -295,6 +295,150 @@ http://cdntv.online/low/9mlxywika2/1091.mpeg
 #EXTINF:0 tvg-id="1092" tvg-logo="http://epg.cdntv.online/img/1092.png" group-title="Israel", Sport 5+ HD IL
 #EXTGRP:Israel
 http://cdntv.online/low/9mlxywika2/1092.mpeg
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",ID Investigation Discovery
+#EXTGRP:USA
+http://109.200.130.124:7006/play/a010
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz in Black UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22923
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Edge UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22922
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Comedy UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22921
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Cinema UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22920
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz West UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22919
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",StarZ East UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22918
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Sony Movie Channel UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22917
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Showtime Women UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22916
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Showtime Showcase UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22915
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Showtime Next UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22914
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",TCM Turner Classic Movies UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22933
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore Westerns UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22932
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore Suspense UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22931
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore Family UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22930
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore Classic UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22929
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore Black UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22928
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore Action UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22927
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore West UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22926
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Encore East UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22925
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Starz Kids & Family UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22924
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO Pacific UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22899
+#EXTINF:0 tvg-id="HBOFamilyEast.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO Family UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22898
+#EXTINF:0 tvg-id="HBOComedyHD.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO Comedy UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22897
+#EXTINF:0 tvg-id="HBO2East.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO 2 East UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22896
+#EXTINF:0 tvg-id="HBO2West.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO West UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22895
+#EXTINF:0 tvg-id="HBOEast.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO East UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22894
+#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Hallmark Movies & Mysteries East UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22893
+#EXTINF:0 tvg-id="HallmarkChannelHD.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Hallmark Drama UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22892
+#EXTINF:0 tvg-id="HallmarkChannelHD.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Hallmark Drama UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22892
+#EXTINF:0 tvg-id="Hallmark.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Hallmark Channel EAST UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22891
+#EXTINF:0 tvg-id="Hallmark.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",Hallmark Channel East UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22890
+#EXTINF:0 tvg-id="HBOZoneHD.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO Zone UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22901
+#EXTINF:0 tvg-id="HBOSignature.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO Signature UHD
+#EXTGRP:USA
+http://209.222.101.100:25461/tv/tv/22900
+#EXTINF:0 tvg-id="Hallmark.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HALLMARK US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-hallmark.stream/playlist.m3u8
+#EXTINF:0 tvg-id="A-E.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",A&E US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="CNN.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",CNN US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="AMC.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",AMC US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FOX US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FX US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FXX US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-fxx.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",TNT US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="HBOWest.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",STARZ US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",DISCOVERY US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FOX NEWS US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-foxnews.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="HGTV.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HGTV US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8?
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",VH1 US
+#EXTGRP:USA
+http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8?
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", A&E
 #EXTGRP:USA
 http://185.134.22.131:8080/joel123/joel123/39200
