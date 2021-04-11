@@ -709,6 +709,304 @@ http://185.134.22.131:8080/joel123/joel123/690
 http://185.134.22.131:8080/joel123/joel123/689
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", WE TV+
 http://185.134.22.131:8080/joel123/joel123/46287
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/a_e_c.png" group-title="USA2",US: A&E Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/657
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="USA2",US: ABC News
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2475
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/amc_c.png" group-title="USA2",US: AMC Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/662
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/american-heroes-channel_c.png" group-title="USA2",US: American Heroes Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/665
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" group-title="USA2",US: Animal Planet (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/667
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" group-title="USA2",US: Animal Planet (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/669
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Antenna_TV_logo.svg" group-title="USA2",US: Antenna TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2459
+#EXTINF:-1 tvg-logo="https://ww1.prweb.com/prfiles/2012/07/03/9665066/www.aspire.png" group-title="USA2",US: Aspire
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2483
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_%28platinum%29.jpg/200px-AWE_Logo_%28platinum%29.jpg" group-title="USA2",US: AWE (American Wealth Ent)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3670
+#EXTINF:-1 tvg-logo="https://hotspotorlando.files.wordpress.com/2015/04/20140415220706enprn73907-axstv_white_grad_logo_id-58f4fe9a43e2_-1y-1397599626mr.jpg" group-title="USA2",US: AXS TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/671
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL._SY355_.png" group-title="USA2",US: BabyTV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/672
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png" group-title="USA2",US: BBC America
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/673
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bbc-news_c.png" group-title="USA2",US: BBC World News
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1154
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bet_c.png" group-title="USA2",US: BET
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/681
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bet_her_c.png" group-title="USA2",US: BET Her
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/683
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bet_jams_c.png" group-title="USA2",US: BET Jams
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/685
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bet_soul_c.png" group-title="USA2",US: BET Soul
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/686
+#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/bloomberg-television-logo.png" group-title="USA2",US: Bloomberg Television
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1155
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/boomerang_c.png" group-title="USA2",US: Boomerang
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/689
+#EXTINF:-1 tvg-logo="http://emtv1.xyz:80/images/89a7e58a9c415130c4d3de8c0ebdae57.png" group-title="USA2",US: Bounce TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/690
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" group-title="USA2",US: Bravo
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/691
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/8e25ab22d07a3d7fb6d0c5c79bba9e2323fa9696.png" group-title="USA2",US: BUZZR
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/693
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="USA2",US: C-SPAN 1
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2485
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/576425aebe6594afef4c9028/1482456945956-MDZYNDNNZTGZZV82XUHL/ke17ZwdGBToddI8pDm48kFogQcwqahR2CFTvPCvZ1W5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIyBPPlAFQxAPDm_5P1Gmu37QqqMAKweDyLrMJgfI3Z_c/C-SPAN2.png?format=2500w" group-title="USA2",US: C-SPAN 2
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2486
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/800px-Logo_of_C-SPAN.svg.png" group-title="USA2",US: C-SPAN 3
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2487
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cartoon-network_c.png" group-title="USA2",US: Cartoon Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/694
+#EXTINF:-1 tvg-logo="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/cartoonnetworkadultswim.jpg" group-title="USA2",US: Cartoon Network (Daytime) / Adult Swim (AFTER 8PM-EST)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/695
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cbs_news_c.png" group-title="USA2",US: CBS News
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1156
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cmt_c.png" group-title="USA2",US: CMT
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/697
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cnbc_c.png" group-title="USA2",US: CNBC
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1157
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cnbc_world_c.png" group-title="USA2",US: CNBC World
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1158
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cnn_c.png" group-title="USA2",US: CNN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1159
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s10146_ll_h3_ab.png" group-title="USA2",US: CNN INTERNATIONAL
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1160
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" group-title="USA2",US: Comedy Central (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/698
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" group-title="USA2",US: Comedy Central (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/700
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/comet_c.png" group-title="USA2",US: Comet
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/702
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cooking-channel_c.png" group-title="USA2",US: Cooking Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/704
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="USA2",US: Court TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3675
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cozi_tv_c.png" group-title="USA2",US: Cozi
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/706
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/destination-america_c.png" group-title="USA2",US: Destination America
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/707
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/discovery_c.png" group-title="USA2",US: Discovery (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/709
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/discovery_c.png" group-title="USA2",US: Discovery (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/711
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/discovery-family-channel_c.png" group-title="USA2",US: Discovery Family Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/713
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/discovery-life_c.png" group-title="USA2",US: Discovery Life
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/714
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="USA2",US: Disney Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/715
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/f5c1677d3f1e3e6f5e0c8e90a46f6fd9c5f89538.png" group-title="USA2",US: Disney Junior
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/716
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disneyxd.png" group-title="USA2",US: Disney XD
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/717
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/diy_c.png" group-title="USA2",US: DIY
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/718
+#EXTINF:-1 tvg-logo="https://www.treatsonthehouse.com/wp-content/uploads/2019/08/dogtv-logo.png" group-title="USA2",US: Dog TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/720
+#EXTINF:-1 group-title="USA2",US: Dust
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3648
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/e_c.png" group-title="USA2",US: E! Entertainment Television
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/721
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s59976_ll_h3_aa.png" group-title="USA2",US: ESPNEWS
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1161
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png" group-title="USA2",US: Food Network (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/729
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/foxbusiness_c.png" group-title="USA2",US: FOX Business Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1162
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_news_c.png" group-title="USA2",US: FOX News Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1163
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_news_c.png" group-title="USA2",US: FOX News Channel (SD)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1164
+#EXTINF:-1 tvg-logo="http://apk.islandtv.tk/Picons/USA2/freeform.png" group-title="USA2",US: Freeform
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/752
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fuse_c.png" group-title="USA2",US: fuse
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/753
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/e35349d52b234affb1f0fa97e21bf96980064ab9.png" group-title="USA2",US: FX
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/754
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/0f602e28b8d70291febe753d6752e001553b7c3b.png" group-title="USA2",US: FXX
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/755
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fyi_c.png" group-title="USA2",US: FYI Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/756
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/game-show-network_c.png" group-title="USA2",US: Game Show Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/758
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/getTV_c.png" group-title="USA2",US: getTV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/760
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/df/Great_American_Country_2013.svg/revision/latest/scale-to-width-down/340?cb=20160522204412" group-title="USA2",US: Great American Country
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2477
+#EXTINF:-1 tvg-logo="https://www.grittv.com/wp-content/uploads/2014/08/grit_generic_movie_poster.jpg" group-title="USA2",US: GRIT TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/763
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hallmark_channel_c.png" group-title="USA2",US: Hallmark Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/764
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hallmark-drama_c.png" group-title="USA2",US: Hallmark Drama
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/766
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hallmark_movies_c.png" group-title="USA2",US: Hallmark Movies & Mysteries
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/768
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/heroesicons.png" group-title="USA2",US: Heroes & Icons
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2489
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_c.png" group-title="USA2",US: HGTV (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/770
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_c.png" group-title="USA2",US: HGTV (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/772
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="USA2",US: History Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/774
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hln_c.png" group-title="USA2",US: HLN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1165
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ifc_c.png" group-title="USA2",US: IFC
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/776
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/insp_c.png" group-title="USA2",US: INSP
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/778
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/investigation-discovery_c.png" group-title="USA2",US: Investigation Discovery
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/780
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="USA2",US: ION
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2460
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/e9f284fb7e0db79a765f5e8dfacf6384a4578808.png" group-title="USA2",US: Laff
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/782
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/6be6260a5c33fd83b59e8414d1c4281328a26203.png" group-title="USA2",US: Law & Crime
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/783
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/lifetime_c.png" group-title="USA2",US: Lifetime
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/784
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/lifetime_movie_network19_c.png" group-title="USA2",US: Lifetime Movie Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/786
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/logo_c.png" group-title="USA2",US: Logo
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/788
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MeTV_logo_2014.png" group-title="USA2",US: ME TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/791
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="USA2",US: Military History
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3674
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/motortrend_c.png" group-title="USA2",US: MotorTrend
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/792
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/msnbc_c.png" group-title="USA2",US: MSNBC
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1166
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" group-title="USA2",US: MTV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/797
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/mtv_classic_c.png" group-title="USA2",US: MTV Classic
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/799
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/mtv_live_c.png" group-title="USA2",US: MTV Live
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/800
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/mtv2_c.png" group-title="USA2",US: MTV2 (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/801
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/mtvU_c.png" group-title="USA2",US: MTVU
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/802
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_us.jpg" group-title="USA2",US: Nat Geo Wild
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/803
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_us.jpg" group-title="USA2",US: National Geographic
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/804
+#EXTINF:-1 tvg-logo="https://engage.brctv.com/sites/default/files/channel-lineup/logos/2019-08/Newsmax_TV_Logo.png" group-title="USA2",US: Newsmax
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1167
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/newsy_c.png" group-title="USA2",US: Newsy
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1168
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nickjr_c.png" group-title="USA2",US: Nick Jr. (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/823
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nickjr_c.png" group-title="USA2",US: Nick Jr. (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/824
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nickelodeon_c.png" group-title="USA2",US: Nickelodeon (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/825
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nickelodeon_c.png" group-title="USA2",US: Nickelodeon (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/826
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/teen_music_c.png" group-title="USA2",US: NickMusic
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/827
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nicktoons_c.png" group-title="USA2",US: Nicktoons
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/828
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71RaD2tNr2L.png" group-title="USA2",US: One American News (OAN)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2478
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/outhd_c.png" group-title="USA2",US: Outdoor Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/830
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/outsidetv_c.png" group-title="USA2",US: Outside TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/832
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/own_gold_c.png" group-title="USA2",US: OWN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/834
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/oxygen_c.png" group-title="USA2",US: Oxygen (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/836
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/oxygen_c.png" group-title="USA2",US: Oxygen (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/838
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/paramount_network_canada_c.png" group-title="USA2",US: Paramount Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/847
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/220px-PBS_logo.svg.png" group-title="USA2",US: PBS
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/849
+#EXTINF:-1 tvg-logo="https://www.wipb.org/wp-content/uploads/2020/04/224-2247245_pbskids-logo-pbs-kids.jpg" group-title="USA2",US: PBS Kids
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/850
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/peopletv_c.png" group-title="USA2",US: People TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1169
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/210px-PIX11_2017.svg.png" group-title="USA2",US: PIX 11
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2482
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pop_c.png" group-title="USA2",US: POP
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/851
+#EXTINF:-1 tvg-logo="https://blog.solidsignal.com/wp-content/uploads/2018/02/pursuit-channel.png" group-title="USA2",US: Pursuit Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2465
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/QVC_logo_2019.svg/320px-QVC_logo_2019.svg.png" group-title="USA2",US: QVC
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/852
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ESN.png/220px-ESN.png" group-title="USA2",US: Recipe TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3649
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/revolt_c.png" group-title="USA2",US: REVOLT
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/853
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/RFD_TV.svg/200px-RFD_TV.svg.png" group-title="USA2",US: RFD
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2461
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31WXXZyhoSL.png" group-title="USA2",US: Ride TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2481
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/science_c.png" group-title="USA2",US: Science
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/855
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/6f51d1ba3530441debd8b25b9924da6aadaf2c1d.png" group-title="USA2",US: SEC Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/857
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/smithsonian_c.png" group-title="USA2",US: Smithsonian Channel (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/859
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/smithsonian_c.png" group-title="USA2",US: Smithsonian Channel (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/861
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/25af30cc183b3c2230b0d312464a5ab181484466.png" group-title="USA2",US: Start TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/869
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/sundance_c.png" group-title="USA2",US: SundanceTV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/870
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/syfy_c.png" group-title="USA2",US: Syfy (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/872
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/e468c66071eec0d59a22cd854a239adfc63cad2c.png" group-title="USA2",US: Tastemade
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/874
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" group-title="USA2",US: TBS (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/875
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/the_weather_channel_c.png" group-title="USA2",US: The Weather Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/881
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlc_c.png" group-title="USA2",US: TLC (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/882
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tlc_c.png" group-title="USA2",US: TLC (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/884
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tnt_c.png" group-title="USA2",US: TNT (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/886
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/travel_channel_c.png" group-title="USA2",US: Travel Channel (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/887
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/travel_channel_c.png" group-title="USA2",US: Travel Channel (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/889
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tru_c.png" group-title="USA2",US: truTV (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/891
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/200px-TruTV_2014.svg.png" group-title="USA2",US: TRUTV (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3669
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tv_land_c.png" group-title="USA2",US: TV Land (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/892
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tv_land_c.png" group-title="USA2",US: TV Land (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/893
+#EXTINF:-1 tvg-logo="https://tvone.tv/wp-content/themes/tvone/assets/TVOne_represent_tm.png" group-title="USA2",US: TV ONE
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/894
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/universal_kids_c.png" group-title="USA2",US: Universal Kids
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/897
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Upmoji-orange.png/200px-Upmoji-orange.png" group-title="USA2",US: UP TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3623
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/USA2_c.png" group-title="USA2",US: USA2 Network (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/898
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/USA2_c.png" group-title="USA2",US: USA2 Network (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/900
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/vh1_c.png" group-title="USA2",US: VH1 (East)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/902
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/vh1_c.png" group-title="USA2",US: VH1 (West)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/904
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/viceland_c.png" group-title="USA2",US: Viceland
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/906
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/vsin_c.png" group-title="USA2",US: VSIN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/908
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/we-tv_c.png" group-title="USA2",US: WE TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/909
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Fusion_TV_logo_2018.png" group-title="USA2",US: Fusion
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3682
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="CANADA",A&E
 http://akamaizedx.com:80/ademir2021/ademir2021/10039683
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9t3OHVr.png" group-title="CANADA",ABC 5
@@ -951,6 +1249,116 @@ http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/913
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/yes_network_hd.jpg" group-title="USA Sports",US: YES Network
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/914
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkwvp7E.png" group-title="SPORTS WORLD",DE: SKY SPORT 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10049574
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fKgXWW.png" group-title="SPORTS WORLD",DE: SKY SPORT 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10049573
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ckwpIZe.png" group-title="SPORTS WORLD",DE: SKY SPORT BUDESLIGA
+http://akamaizedx.com:80/ademir2021/ademir2021/10049572
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikxIKh2.png" group-title="SPORTS WORLD",ES: EUROSPORT 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10049571
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U0dpYf2.png" group-title="SPORTS WORLD",ES: LALIGA 123
+http://akamaizedx.com:80/ademir2021/ademir2021/10049570
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7bZ9Ur.png" group-title="SPORTS WORLD",ES: MOVISTAR F1
+http://akamaizedx.com:80/ademir2021/ademir2021/10049569
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gTmjV8.png" group-title="SPORTS WORLD",ES: MOVISTAR FUTBOL
+http://akamaizedx.com:80/ademir2021/ademir2021/10049568
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nacBj8t.png" group-title="SPORTS WORLD",ES: MOVISTAR GOLF
+http://akamaizedx.com:80/ademir2021/ademir2021/10049567
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZSiIi2.png" group-title="SPORTS WORLD",FR: CANAL+ SPORT
+http://akamaizedx.com:80/ademir2021/ademir2021/10049566
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4s2fk8a.png" group-title="SPORTS WORLD",FR: RMC SPORT 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10049565
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOaI5ee.png" group-title="SPORTS WORLD",FR: RMC SPORT 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10049564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUz5C0z.png" group-title="SPORTS WORLD",IT: SKY SPORT UNO
+http://akamaizedx.com:80/ademir2021/ademir2021/10049563
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fsNhYJR.png" group-title="SPORTS WORLD",IT: SKY SPORT SERIE A
+http://akamaizedx.com:80/ademir2021/ademir2021/10049562
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7C1eO5n.png" group-title="SPORTS WORLD",IT: SKY SPORT
+http://akamaizedx.com:80/ademir2021/ademir2021/10049558
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8BwBMD.png" group-title="SPORTS WORLD",IT: RAI SPORT+
+http://akamaizedx.com:80/ademir2021/ademir2021/10049557
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILUX8tO.png" group-title="SPORTS WORLD",UK: BT SPORTS 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10049556
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9JQUOP.png" group-title="SPORTS WORLD",UK: BT SPORTS 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10049555
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XaxmDxe.png" group-title="SPORTS WORLD",UK: PREMIER SPORTS 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10049554
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaAsgTf.png" group-title="SPORTS WORLD",UK: SKY SPORTS F1
+http://akamaizedx.com:80/ademir2021/ademir2021/10049553
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fx97wgR.png" group-title="SPORTS WORLD",UK: SKY SPORTS PREMIER LEAGUE
+http://akamaizedx.com:80/ademir2021/ademir2021/10049552
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnTV7AW.png" group-title="SPORTS WORLD",PT ELEVEN SPORST 2 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10040679
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6t2LPx.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10040684
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6t2LPx.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 1 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10040678
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MnTV7AW.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10040685
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIROJw7.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 3
+http://akamaizedx.com:80/ademir2021/ademir2021/10040686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIROJw7.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 3 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10040680
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeOyWxn.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 4
+http://akamaizedx.com:80/ademir2021/ademir2021/10040687
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeOyWxn.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 4 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10040681
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rjpgFC.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 5
+http://akamaizedx.com:80/ademir2021/ademir2021/10040688
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rjpgFC.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 5 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10040682
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MazOABy.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 6
+http://akamaizedx.com:80/ademir2021/ademir2021/10040689
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MazOABy.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 6 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10040683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uM0AMYX.png" group-title="SPORTS WORLD",PT SPORT TV +
+http://akamaizedx.com:80/ademir2021/ademir2021/10040690
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHfd5rv.png" group-title="SPORTS WORLD",PT SPORT TV 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10040691
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHfd5rv.png" group-title="SPORTS WORLD",PT SPORT TV 1²
+http://akamaizedx.com:80/ademir2021/ademir2021/10040696
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GT2BHR7.png" group-title="SPORTS WORLD",PT SPORT TV 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10040692
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GT2BHR7.png" group-title="SPORTS WORLD",PT SPORT TV 2²
+http://akamaizedx.com:80/ademir2021/ademir2021/10040697
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XXIHjw.png" group-title="SPORTS WORLD",PT SPORT TV 3
+http://akamaizedx.com:80/ademir2021/ademir2021/10040693
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XXIHjw.png" group-title="SPORTS WORLD",PT SPORT TV 3²
+http://akamaizedx.com:80/ademir2021/ademir2021/10040698
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vIS3d6F.png" group-title="SPORTS WORLD",PT SPORT TV 4
+http://akamaizedx.com:80/ademir2021/ademir2021/10040694
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vIS3d6F.png" group-title="SPORTS WORLD",PT SPORT TV 4²
+http://akamaizedx.com:80/ademir2021/ademir2021/10040699
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slTRqBI.png" group-title="SPORTS WORLD",PT SPORT TV 5
+http://akamaizedx.com:80/ademir2021/ademir2021/10040695
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slTRqBI.png" group-title="SPORTS WORLD",PT SPORT TV 5²
+http://akamaizedx.com:80/ademir2021/ademir2021/10040700
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uM0AMYX.png" group-title="SPORTS WORLD",PT SPORT TV+²
+http://akamaizedx.com:80/ademir2021/ademir2021/10040701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWiLT3H.png" group-title="SPORTS WORLD",PT SPORTING TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10040702
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8HQiqw2.png" group-title="SPORTS WORLD",US BEIN SPORTS
+http://akamaizedx.com:80/ademir2021/ademir2021/10040712
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8HQiqw2.png" group-title="SPORTS WORLD",US BEIN SPORTS LALIGA
+http://akamaizedx.com:80/ademir2021/ademir2021/10040713
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUI51pB.png" group-title="SPORTS WORLD",USA: ESPN 2²
+http://akamaizedx.com:80/ademir2021/ademir2021/10048049
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6L6bHr.png" group-title="SPORTS WORLD",USA: ESPN DEPORTES²
+http://akamaizedx.com:80/ademir2021/ademir2021/10048048
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuqveZt.png" group-title="SPORTS WORLD",USA: ESPN SPORTS
+http://akamaizedx.com:80/ademir2021/ademir2021/10048047
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyqtZV4.png" group-title="SPORTS WORLD",USA: FOX SPORTS 1²
+http://akamaizedx.com:80/ademir2021/ademir2021/10048050
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nlJcl5h.png" group-title="SPORTS WORLD",USA: FOX SPORTS 2²
+http://akamaizedx.com:80/ademir2021/ademir2021/10048051
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OL0jZLo.png" group-title="SPORTS WORLD",USA: MLB NETWORK²
+http://akamaizedx.com:80/ademir2021/ademir2021/10048045
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1feJbCJ.png" group-title="SPORTS WORLD",USA: MLB STRIKE ZONE²
+http://akamaizedx.com:80/ademir2021/ademir2021/10048046
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="SPORTS WORLD",USA: NBA TV
+http://akamaizedx.com:80/ademir2021/ademir2021/10045448
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS
 #EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/33786
