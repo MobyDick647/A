@@ -1249,6 +1249,78 @@ http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/913
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/yes_network_hd.jpg" group-title="USA Sports",US: YES Network
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/914
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Eurosport_inside.png" group-title="IndiaSports", EUROSport HD
+https://bit.ly/3b1seGe
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", DD IndiaSports
+https://bit.ly/3wmKliS
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", SONY SIX HD
+https://bit.ly/3aZFcUX
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD ENGLISH
+https://bit.ly/3q3PLe5
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD HINDI
+https://bit.ly/3qa9jh7
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD ENGLISH - BACKUP *
+https://bit.ly/3sXlpfD
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD HINDI - BACKUP *
+https://bit.ly/3moyBre
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 2 HD
+https://bit.ly/3kx6Uvv
+#EXTINF:0 tvg-id="ext" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/StarIndiaSports3hd.png" group-title="IndiaSports",IndiaSports: STAR IndiaSports 3
+https://bit.ly/3ku6wOx
+#EXTINF:0 tvg-id="ext" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Star_IndiaSports_First.jpg" group-title="IndiaSports",IndiaSports: STAR IndiaSports FIRST
+https://bit.ly/3bLoV5t
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports SELECT 1 HD
+https://bit.ly/2O3vpEt
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports SELECT 2 HD
+https://bit.ly/2ZV4YU6
+#EXTINF:0 tvg-id="ext" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SS1Tamil.jpg" group-title="IndiaSports",IndiaSports: STAR IndiaSports TAMIL
+https://bit.ly/3dTRNev
+#EXTINF:0 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc.jpg" group-title="IndiaSports",IndiaSports: FOX 501 HD
+https://bit.ly/3e5Cr6t
+#EXTINF:0 tvg-id="ext" tvg-logo="https://c0.klipartz.com/pngpicture/882/203/sticker-png-brand-logo-product-design-bt-sport-logo-text-sport-logo-banner-sign.png" group-title="IndiaSports",BT IndiaSports 1 HD UK
+https://bit.ly/3eejgrp
+#EXTINF:0 tvg-id="ext" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="IndiaSports",SUPERSPORT CRICKET HD - AFRICA
+https://bit.ly/3v0hJLw
+#EXTINF:0 tvg-id="ext" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-IndiaSports-Cricket-2020-logo-250.png" group-title="IndiaSports",UK-4K: SKY IndiaSports CRICKET
+https://bit.ly/3efubkF
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", TEN 1 HD
+https://bit.ly/3dTEEln
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", TEN 2 HD
+https://bit.ly/3r9q9Os
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", TEN 3 HD
+https://bit.ly/2NLZJUm
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="IndiaSports",US: NBCSN HD
+https://bit.ly/2MUPNYh
+#EXTINF:0  tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-IndiaSports.png" group-title="IndiaSports",IndiaSports: WILLOW CRICKET HD
+https://bit.ly/39G1VEu
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD ENGLISH
+https://bit.ly/3sXlpfD
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD HINDI
+https://bit.ly/3moyBre
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD ENGLISH - BACK-UP
+https://bit.ly/3q3PLe5
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/1073.png" group-title="IndiaSports", STAR IndiaSports 1 HD HINDI - BACK-UP
+https://bit.ly/3qa9jh7
+#EXTINF:0  tvg-logo="https://pbs.twimg.com/profile_images/1039370522398576641/p8RUcFnc.jpg" group-title="VIVO IPL 2021",IndiaSports: FOX 501 HD
+https://bit.ly/3fYq2m2
+#EXTINF:0  tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-IndiaSports-Cricket-2020-logo-250.png" group-title="VIVO IPL 2021",IndiaSports: SKY IndiaSports CRICKET
+https://bit.ly/3efubkF
+#EXTINF:0  tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="VIVO IPL 2021",SUPERSPORT CRICKET HD - AFRICA
+https://bit.ly/3v0hJLw
+#EXTINF:0  group-title="4K DOLBY DIGITAL - Testing [High Speed Internet Required]", HINDI: &TV (4K)
+https://bit.ly/3t6lJsh
+#EXTINF:0  group-title="4K DOLBY DIGITAL - Testing [High Speed Internet Required]", HINDI: COLORS (4K)
+https://bit.ly/3mz09KJ
+#EXTINF:0  group-title="4K DOLBY DIGITAL - Testing [High Speed Internet Required]", HINDI: SONY (4K)
+https://bit.ly/2RqwXKr
+#EXTINF:0  group-title="4K DOLBY DIGITAL - Testing [High Speed Internet Required]", HINDI: SONY MAX (4K)
+https://bit.ly/3d7qLiZ
+#EXTINF:0  group-title="4K DOLBY DIGITAL - Testing [High Speed Internet Required]", Malayalam: ASIANET (4K)
+http://tiny.cc/6jrutz
+#EXTINF:0  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg" group-title="4K DOLBY DIGITAL - Testing [High Speed Internet Required]", Malayalam: SURYA TV (4K)
+https://bit.ly/39ZxCca
+#EXTINF:0  tvg-logo="https://bit.ly/3wFAEvX" group-title="MOVIES - ON DEMAND",The Big Bull [2021] - Active for 2 Days Only
+https://bit.ly/3s2CHGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkwvp7E.png" group-title="SPORTS WORLD",DE: SKY SPORT 1
 http://akamaizedx.com:80/ademir2021/ademir2021/10049574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fKgXWW.png" group-title="SPORTS WORLD",DE: SKY SPORT 2
