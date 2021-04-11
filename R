@@ -1,0 +1,785 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", Comedy Central
+http://89.216.39.29:8003
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", NatGeo Wild
+http://89.216.39.29:8004
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", TV2 Comedy
+http://89.216.39.29:8005
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", Film+
+http://89.216.39.29:8006
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", TV Paprika
+http://89.216.39.29:8008
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", RTL+
+http://89.216.39.29:8009
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", RTL II
+http://89.216.39.29:8010
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", Slager TV
+http://89.216.39.29:8011
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", Eurosport 1 HD
+http://89.216.39.29:13005
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Hungary", New HD
+http://89.216.39.29:13006
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Comedy Central Family_Backup
+http://193.32.37.17:8000/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Comedy Central Family_Main
+http://193.32.37.17:8000/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Comedy Central HD_Backup
+http://193.32.37.17:8000/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Comedy Central HD_Main
+http://193.32.37.17:8000/play/a009/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Eska Rock
+http://193.32.37.17:8000/play/a01w/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Eska TV Extra
+http://193.32.37.17:8000/play/a01t/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Eurosport 2 HD [cam2]
+http://193.32.37.17:8000/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Live HD_Backup
+http://193.32.37.17:8000/play/a002/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Live HD_Main
+http://193.32.37.17:8000/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Music_Backup
+http://193.32.37.17:8000/play/a004/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Music_Main
+http://193.32.37.17:8000/play/a005/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Polska HD - to cam
+http://193.32.37.17:8000/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Polska HD [CAM1]
+http://193.32.37.17:8000/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Polska HD_Backup
+http://193.32.37.17:8000/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", MTV Polska HD_Main
+http://193.32.37.17:8000/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Nick Jr_Backup
+http://193.32.37.17:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Nick Jr_Main
+http://193.32.37.17:8000/play/a006/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Nickelodeon_Backup
+http://193.32.37.17:8000/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Nickelodeon_Main
+http://193.32.37.17:8000/play/a008/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Nicktoons HD_Backup
+http://193.32.37.17:8000/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Nicktoons HD_Main
+http://193.32.37.17:8000/play/a00b/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Paramount Channel HD_Backup
+http://193.32.37.17:8000/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Paramount Channel HD_Main
+http://193.32.37.17:8000/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Polsat HD - to cam
+http://193.32.37.17:8000/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Polsat HD [CAM1]
+http://193.32.37.17:8000/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", Polsat Music HD - to cam
+http://193.32.37.17:8000/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", TLC HD - to cam
+http://193.32.37.17:8000/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", TLC HD [CAM1]
+http://193.32.37.17:8000/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", TVN HD
+http://193.32.37.17:8000/play/a020/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", TVP 1 HD
+http://193.32.37.17:8000/play/a021/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", VH1_Backup
+http://193.32.37.17:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", VH1_Main
+http://193.32.37.17:8000/play/a007/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", VOX Music TV
+http://193.32.37.17:8000/play/a01v/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", 4Fun Dance
+http://193.32.37.17:8000/play/a01q/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", 4Fun Gold Hits
+http://193.32.37.17:8000/play/a01p/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Poland", 4Fun.TV
+http://193.32.37.17:8000/play/a01o/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", AL KAWTHAR
+http://149.62.177.133:8000/play/a01o
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", AL MAYADEEN TV
+http://149.62.177.133:8000/play/a01d
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", AL Resala
+http://149.62.177.133:8000/play/a00p
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", AL SHARQIYA HD
+http://149.62.177.133:8000/play/a00b
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ALAAN FM
+http://149.62.177.133:8000/play/a00c
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ALAAN TV
+http://149.62.177.133:8000/play/a007
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ALIMAN TV
+http://149.62.177.133:8000/play/a01k
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ALKOFIYA
+http://149.62.177.133:8000/play/a01l
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Abu Dhabi TV
+http://149.62.177.133:8000/play/a003
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Al Hayat
+http://149.62.177.133:8000/play/a01g
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", B4U Aflam
+http://149.62.177.133:8000/play/a008
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", BELADI TV
+http://149.62.177.133:8000/play/a01n
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", CITRUSS TV
+http://149.62.177.133:8000/play/a002
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", DISCIPLESHIP
+http://149.62.177.133:8000/play/a01c
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Discovery Science HD
+http://149.62.177.133:8000/play/a021
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Disney HD
+http://149.62.177.133:8000/play/a022
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", EGYBEST AFLAM
+http://149.62.177.133:8000/play/a00x
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", EGYBEST CIMA
+http://149.62.177.133:8000/play/a00y
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", EGYBEST CINEMA
+http://149.62.177.133:8000/play/a00z
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", EGYBEST COMEDY
+http://149.62.177.133:8000/play/a00u
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", EGYBEST DRAMA
+http://149.62.177.133:8000/play/a00v
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", EGYBEST TODAY
+http://149.62.177.133:8000/play/a00w
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Extra News HD
+http://149.62.177.133:8000/play/a011
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Hala London
+http://149.62.177.133:8000/play/a01s
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Iraq 24 HD
+http://149.62.177.133:8000/play/a00a
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", KBS WORLD
+http://149.62.177.133:8000/play/a009
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", LBC SAT
+http://149.62.177.133:8000/play/a00o
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", LIBYA PANORAMA SD
+http://149.62.177.133:8000/play/a01m
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Libya Education
+http://149.62.177.133:8000/play/a013
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Libya Sport 2 HD
+http://149.62.177.133:8000/play/a012
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC 2
+http://149.62.177.133:8000/play/a001
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC Bollywood
+http://149.62.177.133:8000/play/a006
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC IRAQ
+http://149.62.177.133:8000/play/a00d
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MTA3
+http://149.62.177.133:8000/play/a01j
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Madrasetna
+http://149.62.177.133:8000/play/a014
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", NuuralHudaa TV
+http://149.62.177.133:8000/play/a01b
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ONTIME SPORTS3
+http://149.62.177.133:8000/play/a017
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ONTIME SPORTS3 HD
+http://149.62.177.133:8000/play/a016
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana Cinema EGY
+http://149.62.177.133:8000/play/a00l
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana Cinema KSA
+http://149.62.177.133:8000/play/a00n
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana Classic
+http://149.62.177.133:8000/play/a00j
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana Clip
+http://149.62.177.133:8000/play/a00g
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana Drama
+http://149.62.177.133:8000/play/a00k
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana FM KSA
+http://149.62.177.133:8000/play/a00s
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana Khalijia
+http://149.62.177.133:8000/play/a00i
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Rotana Music
+http://149.62.177.133:8000/play/a00f
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", SBN Global
+http://149.62.177.133:8000/play/a01i
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", SHEHAB TV
+http://149.62.177.133:8000/play/a01f
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Shabab Sport 1
+http://149.62.177.133:8000/play/a01t
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Sky News HD
+http://149.62.177.133:8000/play/a023
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Syria News
+http://149.62.177.133:8000/play/a018
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", TRT Arabi
+http://149.62.177.133:8000/play/a01r
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", TVISLAAMAA
+http://149.62.177.133:8000/play/a01h
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", WESAL TV
+http://149.62.177.133:8000/play/a01q
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", WION HD
+http://149.62.177.133:8000/play/a01e
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", YEMEN SHABAB
+http://149.62.177.133:8000/play/a01a
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ZEE AFLAM
+http://149.62.177.133:8000/play/a004
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", ZEE ALWAN
+http://149.62.177.133:8000/play/a005
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", DUBAI RACING 1 HD
+http://185.234.111.19:8880/play/a01i
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", DUBAI SPORTS 1 HD
+http://185.234.111.19:8880/play/a01g
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dalaa Banat
+http://185.234.111.19:8880/play/a049
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dijlah TV
+http://185.234.111.19:8880/play/a0fz
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Drama Al Badawya
+http://185.234.111.19:8880/play/a06x
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dream2
+http://185.234.111.19:8880/play/a03r
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai One
+http://185.234.111.19:8880/play/a020
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai One HD
+http://185.234.111.19:8880/play/a027
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai Racing 2
+http://185.234.111.19:8880/play/a023
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai Racing 3
+http://185.234.111.19:8880/play/a024
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai Sports 2
+http://185.234.111.19:8880/play/a021
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai Sports 3
+http://185.234.111.19:8880/play/a022
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai TV
+http://185.234.111.19:8880/play/a01y
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai TV HD
+http://185.234.111.19:8880/play/a01h
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", Dubai Zaman
+http://185.234.111.19:8880/play/a026
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", KARAMEESH
+http://185.234.111.19:8880/play/a0cj
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", KSA SPORTS 2 HD
+http://185.234.111.19:8880/play/a04w
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", KSA SPORTS1 HD
+http://185.234.111.19:8880/play/a04p
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", KSA SPOTS 4
+http://185.234.111.19:8880/play/a04r
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", KSA Sports 3
+http://185.234.111.19:8880/play/a04v
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC 2
+http://185.234.111.19:8880/play/a0ag
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC 3
+http://185.234.111.19:8880/play/a0ae
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC 4
+http://185.234.111.19:8880/play/a0ad
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC 5
+http://185.234.111.19:8880/play/a0ac
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC Action
+http://185.234.111.19:8880/play/a0af
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC Bollywood
+http://185.234.111.19:8880/play/a0ai
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC Drama
+http://185.234.111.19:8880/play/a0aj
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Arabic", MBC MAX
+http://185.234.111.19:8880/play/a0ah
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", BNT 1 HD
+http://185.243.213.34:8888/play/a00m
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", Cinemax (ENG)
+http://185.243.213.34:8888/play/a00g
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", Cinemax 2 (ENG)
+http://185.243.213.34:8888/play/a00h
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", Cinemax 2 HD (ENG)
+http://185.243.213.34:8888/play/a00j
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", Cinemax HD (ENG)
+http://185.243.213.34:8888/play/a00i
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", Disney Junior
+http://185.243.213.34:8888/play/a00k
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", Fine Living
+http://185.243.213.34:8888/play/a00l
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", HBO (ENG)
+http://185.243.213.34:8888/play/a005
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", HBO 2 (ENG)
+http://185.243.213.34:8888/play/a006
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", HBO 2 HD (ENG)
+http://185.243.213.34:8888/play/a002
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", HBO 3 (ENG)
+http://185.243.213.34:8888/play/a007
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", HBO 3 HD (ENG)
+http://185.243.213.34:8888/play/a003
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", HBO HD (ENG)
+http://185.243.213.34:8888/play/a001
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria", HBO+1 (ENG)
+http://185.243.213.34:8888/play/a004
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 1
+http://185.243.213.34:8888/play/a008
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 1 HD
+http://185.243.213.34:8888/play/a00c
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 2
+http://185.243.213.34:8888/play/a00b
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 2 HD
+http://185.243.213.34:8888/play/a00d
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 3
+http://185.243.213.34:8888/play/a00a
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 3 HD
+http://185.243.213.34:8888/play/a00e
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 4
+http://185.243.213.34:8888/play/a009
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Bulgaria",MAX Sport 4 HD
+http://185.243.213.34:8888/play/a00f
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", BTV 1
+http://85.4.221.154:8000/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", BTV 1 HD
+http://85.4.221.154:8000/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", CBS Reality
+http://85.4.221.154:8000/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", CaĿavision
+http://85.4.221.154:8000/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", Eleven 2 HD
+http://85.4.221.154:8000/play/a004/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", Eleven 3
+http://85.4.221.154:8000/play/a007/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", Eleven 6
+http://85.4.221.154:8000/play/a006/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", Eurosport 1
+http://85.4.221.154:8000/play/a01a/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", Fox Comedy
+http://85.4.221.154:8000/play/a005/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", SPORT TV 1 HD
+http://85.4.221.154:8000/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", SPORT TV 2 HD
+http://85.4.221.154:8000/play/a002/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", SPORT TV 3 HD
+http://85.4.221.154:8000/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Portugal", Travel Channel HD
+http://85.4.221.154:8000/play/a012/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", JOJ Family HD
+http://195.122.197.226:8888/udp/224.0.120.2:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", HBO3 Czech HD (ENG)
+http://195.122.197.226:8888/udp/224.0.120.10:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", HBO2 Czech HD (ENG)
+http://195.122.197.226:8888/udp/224.0.120.9:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Arena Sport 2 HD
+http://195.122.197.226:8888/udp/224.0.120.4:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", JOJko HD
+http://195.122.197.226:8888/udp/224.0.120.19:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Cinemax Czech HD (ENG)
+http://195.122.197.226:8888/udp/224.0.120.11:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Cinemax2 Czech HD (ENG)
+http://195.122.197.226:8888/udp/224.0.120.12:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", JOJ cinema HD
+http://195.122.197.226:8888/udp/224.0.120.31:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", M4 Sport
+http://195.122.197.226:8888/udp/224.0.120.55:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Ceskoslovensko HD
+http://195.122.197.226:8888/udp/224.0.120.75:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Mnam TV HD
+http://195.122.197.226:8888/udp/224.0.120.90:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Barrandov Krimi HD
+http://195.122.197.226:8888/udp/224.0.120.102:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Kino Barrandov HD
+http://195.122.197.226:8888/udp/224.0.120.103:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", TV Bratislava HD
+http://195.122.197.226:8888/udp/224.0.120.108:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Hobby TV HD
+http://195.122.197.226:8888/udp/224.0.120.120:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", M5 (Europa) HD
+http://195.122.197.226:8888/udp/224.0.120.168:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", CS FILM HD
+http://195.122.197.226:8888/udp/224.0.120.177:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", CS MYSTERY HD
+http://195.122.197.226:8888/udp/224.0.120.179:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", HRT-TV1 HD
+http://195.122.197.226:8888/udp/224.0.120.180:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", HRT-TV2 HD
+http://195.122.197.226:8888/udp/224.0.120.181:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Dajto HD
+http://195.122.197.226:8888/udp/233.49.26.16:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", WAU HD
+http://195.122.197.226:8888/udp/233.49.26.19:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", AutoMotorSport HD
+http://195.122.197.226:8888/udp/233.49.26.30:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", OCKO STAR
+http://195.122.197.226:8888/udp/233.49.26.35:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Arena Sport 1 HD
+http://195.122.197.226:8888/udp/233.49.26.38:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Film Europe HD
+http://195.122.197.226:8888/udp/233.49.26.54:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", STV2-HD
+http://195.122.197.226:8888/udp/233.49.26.75:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Doma HD
+http://195.122.197.226:8888/udp/233.49.26.81:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", PLUS HD
+http://195.122.197.226:8888/udp/233.49.26.80:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", JOJ HD
+http://195.122.197.226:8888/udp/233.49.26.78:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", STV1-HD
+http://195.122.197.226:8888/udp/233.49.26.76:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Markiza HD
+http://195.122.197.226:8888/udp/233.49.26.77:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", HBO Czech T HD
+http://195.122.197.226:8888/udp/233.49.26.87:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Slager Premium HD
+http://195.122.197.226:8888/udp/233.49.26.92:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Rik TV HD
+http://195.122.197.226:8888/udp/233.49.26.101:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Ocko
+http://195.122.197.226:8888/udp/233.49.26.113:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", M1 (Europa) HD
+http://195.122.197.226:8888/udp/233.49.26.130:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", TV Barrandov HD
+http://195.122.197.226:8888/udp/233.49.26.135:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", M2 (Europa) HD
+http://195.122.197.226:8888/udp/233.49.26.157:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", STV3-HD
+http://195.122.197.226:8888/udp/233.49.26.180:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Slagr HD
+http://195.122.197.226:8888/udp/233.49.26.177:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Slagr 2 HD
+http://195.122.197.226:8888/udp/233.49.26.178:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Duna (Europa) HD
+http://195.122.197.226:8888/udp/233.49.26.184:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", NickToons CZ
+http://195.122.197.226:8888/udp/233.49.26.249:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Nickleodeon Czech
+http://195.122.197.226:8888/udp/233.49.26.251:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Czech", Nick Jr Czech
+http://195.122.197.226:8888/udp/233.49.26.253:2314
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", CHV HD
+http://200.95.184.42:8000/play/a08n
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Canal 13 HD
+http://200.95.184.42:8000/play/a07a
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", La Red HD
+http://200.95.184.42:8000/play/laredhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", MEGA HD
+http://200.95.184.42:8000/play/a08g
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", TV! Educa Chile
+http://200.95.184.42:8000/play/a057
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", TV+ HD
+http://200.95.184.42:8000/play/a058
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", TVN HD
+http://200.95.184.42:8000/play/a06r
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Cartoon Network HD
+http://200.95.184.42:8000/play/a05i
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Discovery Kids HD
+http://200.95.184.42:8000/play/a0ak
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Disney HD
+http://200.95.184.42:8000/play/disneyhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Nat Geo Kids HD
+http://200.95.184.42:8000/play/natgeokidshd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Animal Planet HD
+http://200.95.184.42:8000/play/animalplanethd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Discovery HD
+http://200.95.184.42:8000/play/a0e1
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Discovery Theater HD
+http://200.95.184.42:8000/play/a0am
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Discovery World HD
+http://200.95.184.42:8000/play/a05b
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", History 2 HD
+http://200.95.184.42:8000/play/a0e4
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", History Channel HD
+http://200.95.184.42:8000/play/a06b
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Nat Geo HD
+http://200.95.184.42:8000/play/a05a
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Nat Geo Wild HD
+http://200.95.184.42:8000/play/a0an
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Sun Channel HD
+http://200.95.184.42:8000/play/a0aj
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", A&E HD
+http://200.95.184.42:8000/play/aehd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", AMC HD
+http://200.95.184.42:8000/play/a056
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", AXN HD
+http://200.95.184.42:8000/play/a06f
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Cinecanal HD
+http://200.95.184.42:8000/play/a05c
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Cinemax HD
+http://200.95.184.42:8000/play/cinemaxhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", FOX HD
+http://200.95.184.42:8000/play/a0ao
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", FX HD
+http://200.95.184.42:8000/play/a0aw
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", FX Movies HD
+http://200.95.184.42:8000/play/a05l
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Fox Series HD
+http://200.95.184.42:8000/play/a0au
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Golden HD
+http://200.95.184.42:8000/play/goldenhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", HBO HD
+http://200.95.184.42:8000/play/a08o
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Paramount HD
+http://200.95.184.42:8000/play/a05j
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", STAR Action HD
+http://200.95.184.42:8000/play/a0bg
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Sony HD
+http://200.95.184.42:8000/play/a06d
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Space HD
+http://200.95.184.42:8000/play/a06g
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Star Fun HD
+http://200.95.184.42:8000/play/foxfamilyhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Studio Universal HD
+http://200.95.184.42:8000/play/studiouniversalhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", TNT HD
+http://200.95.184.42:8000/play/a06w
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", TNT Series HD
+http://200.95.184.42:8000/play/a0bf
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", UNIVERSAL CHANNEL HD
+http://200.95.184.42:8000/play/a0ap
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Warner Channel HD
+http://200.95.184.42:8000/play/a06e
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Comedy Central HD
+http://200.95.184.42:8000/play/a0f5
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", DHE HD
+http://200.95.184.42:8000/play/a0dz
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Discovery H&H HD
+http://200.95.184.42:8000/play/a0al
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", El Gourmet HD
+http://200.95.184.42:8000/play/a074
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Food Network HD
+http://200.95.184.42:8000/play/foodnetworkhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", ID HD
+http://200.95.184.42:8000/play/idhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Pasiones HD
+http://200.95.184.42:8000/play/pasioneshd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Star Life HD
+http://200.95.184.42:8000/play/foxlifehd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", TRUTV HD
+http://200.95.184.42:8000/play/a073
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", CNN Chile HD
+http://200.95.184.42:8000/play/cnnchilehd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Canal 24 Horas HD
+http://200.95.184.42:8000/play/a07d
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", ESPN 2 HD
+http://200.95.184.42:8000/play/a0ax
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", ESPN 3 HD
+http://200.95.184.42:8000/play/espn3hd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", ESPN EXTRA HD
+http://200.95.184.42:8000/play/a05e
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", ESPN HD
+http://200.95.184.42:8000/play/a06j
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", FOX Sports 2 HD
+http://200.95.184.42:8000/play/a0at
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Fox Sports 1 HD
+http://200.95.184.42:8000/play/a07k
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", Fox Sports 3 HD
+http://200.95.184.42:8000/play/foxsports3hd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="Latino", TNT SPORTS HD
+http://200.95.184.42:8000/play/cdfhd
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", 4Music
+http://37.220.108.9:8000/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", 4seven
+http://37.220.108.9:8000/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", 5 USA
+http://37.220.108.9:8000/play/a018/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", 5SELECT
+http://37.220.108.9:8000/play/a01m/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", 5STAR
+http://37.220.108.9:8000/play/a017/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Al Jazeera Eng
+http://37.220.108.9:8000/play/a01v/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC FOUR
+http://37.220.108.9:8000/play/a033/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC FOUR HD
+http://37.220.108.9:8000/play/a034/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC NEWS
+http://37.220.108.9:8000/play/a02k/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC NEWS HD
+http://37.220.108.9:8000/play/a003/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC ONE HD
+http://37.220.108.9:8000/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC ONE Lon
+http://37.220.108.9:8000/play/a02i/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC Parliament
+http://37.220.108.9:8000/play/a02n/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC RB 1
+http://37.220.108.9:8000/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC TWO
+http://37.220.108.9:8000/play/a02j/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", BBC TWO HD
+http://37.220.108.9:8000/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Blaze
+http://37.220.108.9:8000/play/a01d/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CBBC
+http://37.220.108.9:8000/play/a02m/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CBBC HD
+http://37.220.108.9:8000/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CBS Drama
+http://37.220.108.9:8000/play/a01x/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CBS Justice
+http://37.220.108.9:8000/play/a01w/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CBS Reality
+http://37.220.108.9:8000/play/a01e/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CBeebies
+http://37.220.108.9:8000/play/a031/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CBeebies HD
+http://37.220.108.9:8000/play/a005/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", CCXTV
+http://37.220.108.9:8000/play/a01a/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Challenge
+http://37.220.108.9:8000/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Channel 4
+http://37.220.108.9:8000/play/a02a/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Channel 4 HD
+http://37.220.108.9:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Channel 4+1
+http://37.220.108.9:8000/play/a02e/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Channel 5
+http://37.220.108.9:8000/play/a02g/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Channel 5 HD
+http://37.220.108.9:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Channel 5+1
+http://37.220.108.9:8000/play/a01b/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Create & Craft
+http://37.220.108.9:8000/play/a019/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", DMAX
+http://37.220.108.9:8000/play/a01u/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Dave
+http://37.220.108.9:8000/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Dave ja vu
+http://37.220.108.9:8000/play/a021/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Drama
+http://37.220.108.9:8000/play/a01o/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", E4
+http://37.220.108.9:8000/play/a02d/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", E4+1
+http://37.220.108.9:8000/play/a02f/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Film4
+http://37.220.108.9:8000/play/a02b/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Film4+1
+http://37.220.108.9:8000/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Food Network
+http://37.220.108.9:8000/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Forces TV
+http://37.220.108.9:8000/play/a00d/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", FreeSports
+http://37.220.108.9:8000/play/a009/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Gems TV
+http://37.220.108.9:8000/play/a015/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", HGTV
+http://37.220.108.9:8000/play/a020/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Horror Channel
+http://37.220.108.9:8000/play/a01f/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITV
+http://37.220.108.9:8000/play/a025/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITV +1
+http://37.220.108.9:8000/play/a029/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITV HD
+http://37.220.108.9:8000/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITV2
+http://37.220.108.9:8000/play/a027/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITV2 +1
+http://37.220.108.9:8000/play/a01k/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITV3
+http://37.220.108.9:8000/play/a026/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITV4
+http://37.220.108.9:8000/play/a028/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", ITVBe
+http://37.220.108.9:8000/play/a01j/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Ideal Extra
+http://37.220.108.9:8000/play/a02u/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Ideal World
+http://37.220.108.9:8000/play/a01r/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", London Live
+http://37.220.108.9:8000/play/a02q/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", More 4
+http://37.220.108.9:8000/play/a02c/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", More4+1
+http://37.220.108.9:8000/play/a00a/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", PBS America
+http://37.220.108.9:8000/play/a01z/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", PBS America +1
+http://37.220.108.9:8000/play/a00c/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", POP
+http://37.220.108.9:8000/play/a01s/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Paramount Network
+http://37.220.108.9:8000/play/a01n/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Pick
+http://37.220.108.9:8000/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", QUEST
+http://37.220.108.9:8000/play/a01g/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", QUEST HD
+http://37.220.108.9:8000/play/a006/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", QUEST+1
+http://37.220.108.9:8000/play/a013/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", QVC
+http://37.220.108.9:8000/play/a01c/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", QVC HD
+http://37.220.108.9:8000/play/a007/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Quest Red
+http://37.220.108.9:8000/play/a012/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Quest Red+1
+http://37.220.108.9:8000/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", RT
+http://37.220.108.9:8000/play/a01t/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", RT HD
+http://37.220.108.9:8000/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Really
+http://37.220.108.9:8000/play/a011/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Sky Arts
+http://37.220.108.9:8000/play/a030/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Sky News
+http://37.220.108.9:8000/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Smithsonian Channel
+http://37.220.108.9:8000/play/a010/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Sony Channel
+http://37.220.108.9:8000/play/a02s/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Sony Movies
+http://37.220.108.9:8000/play/a01y/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Sony Movies Action
+http://37.220.108.9:8000/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Sony Movies Classic
+http://37.220.108.9:8000/play/a02t/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", TBN UK
+http://37.220.108.9:8000/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", TJC
+http://37.220.108.9:8000/play/a01i/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", TalkingPictures TV
+http://37.220.108.9:8000/play/a022/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Tiny Pop
+http://37.220.108.9:8000/play/a02z/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Together TV
+http://37.220.108.9:8000/play/a014/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="UK", Yesterday
+http://37.220.108.9:8000/play/a01q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery Science (NO/SE/DK)
+http://195.222.7.26:7001/play/a02d
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",ID (SE)
+http://195.222.7.26:7001/play/a00a
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TV3 HD (NO)
+http://195.222.7.26:7001/play/a015
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",ID (DK)
+http://195.222.7.26:7001/play/a00v
+#EXTINF:0 tvg-id="cnbc" group-title="Scandinavia",CNBC
+http://195.222.7.26:7001/play/a02c
+#EXTINF:0 tvg-id="dwelle" group-title="Scandinavia",DW English
+http://195.222.7.26:7001/play/a02b
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery HD (NO)
+http://195.222.7.26:7001/play/a00c
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TLC HD (SE)
+http://195.222.7.26:7001/play/a00e
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Sport Live (DK)
+http://195.222.7.26:7001/play/a00t
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Kanal 4 HD (DK)
+http://195.222.7.26:7001/play/a018
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Paramount Network (DK)
+http://195.222.7.26:7001/play/a00i
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",FEM HD (NO)
+http://195.222.7.26:7001/play/a016
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nickelodeon (NO)
+http://195.222.7.26:7001/play/a00k
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Rikstoto Direkte HD
+http://195.222.7.26:7001/play/a01h
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Matkanalen (NO)
+http://195.222.7.26:7001/play/a00o
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nickelodeon (SE)
+http://195.222.7.26:7001/play/a00j
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",NickToons (NO)
+http://195.222.7.26:7001/play/a00p
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery HD (DK)
+http://195.222.7.26:7001/play/a00d
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TLC (DK)
+http://195.222.7.26:7001/play/a00g
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",ID (NO)
+http://195.222.7.26:7001/play/a00q
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",BBC BRIT HD (SE)
+http://195.222.7.26:7001/play/a029
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Paramount Network (SE)
+http://195.222.7.26:7001/play/a00l
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",MTV (SE)
+http://195.222.7.26:7001/play/a00n
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nick Jr (NO)
+http://195.222.7.26:7001/play/a00m
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TLC HD (NO)
+http://195.222.7.26:7001/play/a00f
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery HD (SE)
+http://195.222.7.26:7001/play/a00b
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",BBC BRIT HD (NO)
+http://195.222.7.26:7001/play/a01g
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Kanal 11 HD (SE)
+http://195.222.7.26:7001/play/a019
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",VOX HD (NO)
+http://195.222.7.26:7001/play/a017
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",dk4 (DK)
+http://195.222.7.26:7001/play/a00u
+#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nickelodeon (DK)
+http://195.222.7.26:7001/play/a00h
