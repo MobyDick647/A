@@ -414,301 +414,43 @@ http://209.222.101.100:25461/tv/tv/22900
 http://stream.tvtap.live:8081/live/us-hallmark.stream/playlist.m3u8
 #EXTINF:0 tvg-id="A-E.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",A&E US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8
 #EXTINF:0 tvg-id="CNN.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",CNN US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 #EXTINF:0 tvg-id="AMC.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",AMC US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FOX US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FX US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-fx.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FXX US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-fxx.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-fxx.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",TNT US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8
 #EXTINF:0 tvg-id="HBOWest.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HBO US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",STARZ US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",DISCOVERY US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",FOX NEWS US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-foxnews.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-foxnews.stream/playlist.m3u8
 #EXTINF:0 tvg-id="HGTV.us" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HGTV US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8?
+http://stream.tvtap.live:8081/live/us-hgtv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",VH1 US
 #EXTGRP:USA
-http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8?
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", A&E
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/39200
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", ABC
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1116
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", ADULT SWIM (8PM TO 5AM)
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/7251
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", AMC
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1114
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", AMC PRESENTS
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/46494
-#EXTINF:0 tvg-id="ext" group-title="USA ENTERTAINMENT",USA | AMC+
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/45137
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", AMERICAN HEROES
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1113
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", ANIMAL PLANET
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1111
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", ANTENNA TV
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1110
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", ASPIRE TV
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/6495
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", AWE
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1109
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", AXS TV
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/6494
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BBC AMERICA
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1106
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BET
-#EXTGRP:USA
-http://185.134.22.131:8080/joel123/joel123/1101
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BET HER
-http://185.134.22.131:8080/joel123/joel123/1103
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BET JAMS
-http://185.134.22.131:8080/joel123/joel123/1102
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BET SOUL
-http://185.134.22.131:8080/joel123/joel123/6663
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BOUNCE TV
-http://185.134.22.131:8080/joel123/joel123/6496
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BRAVO (EAST)
-http://185.134.22.131:8080/joel123/joel123/1091
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BRAVO (WEST)
-http://185.134.22.131:8080/joel123/joel123/1090
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", BUZZR
-http://185.134.22.131:8080/joel123/joel123/1087
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", CBS
-http://185.134.22.131:8080/joel123/joel123/1045
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", CHARGE!
-http://185.134.22.131:8080/joel123/joel123/41816
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", CLEO TV
-http://185.134.22.131:8080/joel123/joel123/41233
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", CMT
-http://185.134.22.131:8080/joel123/joel123/1036
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", COMEDY CENTRAL
-http://185.134.22.131:8080/joel123/joel123/40658
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", COMET TV
-http://185.134.22.131:8080/joel123/joel123/1031
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", COOKING CHANNEL
-http://185.134.22.131:8080/joel123/joel123/1030
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", COURT TV
-http://185.134.22.131:8080/joel123/joel123/40771
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", COWBOY CHANNEL
-http://185.134.22.131:8080/joel123/joel123/6510
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", COZI TV
-http://185.134.22.131:8080/joel123/joel123/1029
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", CRIME & INVESTIGATION
-http://185.134.22.131:8080/joel123/joel123/1028
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", CW PIX 11
-http://185.134.22.131:8080/joel123/joel123/10433
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", DESTINATION AMERICA
-http://185.134.22.131:8080/joel123/joel123/1025
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", DISCOVERY CHANNEL
-http://185.134.22.131:8080/joel123/joel123/1024
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", DISCOVERY FAMILY
-http://185.134.22.131:8080/joel123/joel123/1023
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", DISCOVERY LIFE
-http://185.134.22.131:8080/joel123/joel123/1022
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", DISCOVERY SCIENCE
-http://185.134.22.131:8080/joel123/joel123/1021
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", DIY NETWORK
-http://185.134.22.131:8080/joel123/joel123/1013
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", DOG TV
-http://185.134.22.131:8080/joel123/joel123/40145
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", E!
-http://185.134.22.131:8080/joel123/joel123/1008
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", E! (WEST)
-http://185.134.22.131:8080/joel123/joel123/1009
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FOOD NETWORK
-http://185.134.22.131:8080/joel123/joel123/986
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FOX
-http://185.134.22.131:8080/joel123/joel123/884
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FREEFORM
-http://185.134.22.131:8080/joel123/joel123/882
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FUSE
-http://185.134.22.131:8080/joel123/joel123/881
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FX
-http://185.134.22.131:8080/joel123/joel123/878
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FXM
-http://185.134.22.131:8080/joel123/joel123/877
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FXX
-http://185.134.22.131:8080/joel123/joel123/875
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", FYI NETWORK
-http://185.134.22.131:8080/joel123/joel123/9877
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", GAME SHOW NETWORK
-http://185.134.22.131:8080/joel123/joel123/873
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", GET TV
-http://185.134.22.131:8080/joel123/joel123/10314
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", GREAT AMERICAN COUNTRY (GAC)
-http://185.134.22.131:8080/joel123/joel123/41811
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", GRIT
-http://185.134.22.131:8080/joel123/joel123/6414
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HALLMARK CHANNEL
-http://185.134.22.131:8080/joel123/joel123/870
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HALLMARK DRAMA
-http://185.134.22.131:8080/joel123/joel123/869
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HALLMARK MOVIES & MYSTERIES
-http://185.134.22.131:8080/joel123/joel123/868
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HEROES AND ICONS
-http://185.134.22.131:8080/joel123/joel123/42029
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HGTV
-http://185.134.22.131:8080/joel123/joel123/862
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HISTORY
-http://185.134.22.131:8080/joel123/joel123/860
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HISTORY 2
-http://185.134.22.131:8080/joel123/joel123/13107
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", HSN
-http://185.134.22.131:8080/joel123/joel123/9291
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", IFC
-http://185.134.22.131:8080/joel123/joel123/858
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", INSP
-http://185.134.22.131:8080/joel123/joel123/7249
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", INVESTIGATION DISCOVERY
-http://185.134.22.131:8080/joel123/joel123/21016
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", ION TV
-http://185.134.22.131:8080/joel123/joel123/39202
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", JUSTICE CENTRAL
-http://185.134.22.131:8080/joel123/joel123/7604
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", LAFF
-http://185.134.22.131:8080/joel123/joel123/6498
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", LAW AND CRIME
-http://185.134.22.131:8080/joel123/joel123/854
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", LIFETIME
-http://185.134.22.131:8080/joel123/joel123/852
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", LIFETIME MOVIES
-http://185.134.22.131:8080/joel123/joel123/853
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", LOGO
-http://185.134.22.131:8080/joel123/joel123/851
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", ME TV
-http://185.134.22.131:8080/joel123/joel123/6446
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MOTORTREND
-http://185.134.22.131:8080/joel123/joel123/842
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MTV
-http://185.134.22.131:8080/joel123/joel123/7244
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MTV 2
-http://185.134.22.131:8080/joel123/joel123/840
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MTV CLASSIC
-http://185.134.22.131:8080/joel123/joel123/7717
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MTV LIVE
-http://185.134.22.131:8080/joel123/joel123/6509
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MTV U
-http://185.134.22.131:8080/joel123/joel123/41812
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MY 50
-http://185.134.22.131:8080/joel123/joel123/828
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", MY 9
-http://185.134.22.131:8080/joel123/joel123/834
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", NASA TV
-http://185.134.22.131:8080/joel123/joel123/25275
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", NAT GEO WILD
-http://185.134.22.131:8080/joel123/joel123/825
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", NATIONAL GEOGRAPHIC
-http://185.134.22.131:8080/joel123/joel123/824
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", NBC
-http://185.134.22.131:8080/joel123/joel123/778
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",NEWSNATION 
-http://185.134.22.131:8080/joel123/joel123/688
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", OUTDOOR CHANNEL
-http://185.134.22.131:8080/joel123/joel123/6646
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", OUTSIDE TV
-http://185.134.22.131:8080/joel123/joel123/757
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", OVATION
-http://185.134.22.131:8080/joel123/joel123/42025
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", OWN
-http://185.134.22.131:8080/joel123/joel123/756
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", OXYGEN
-http://185.134.22.131:8080/joel123/joel123/754
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", PARAMOUNT NETWORK
-http://185.134.22.131:8080/joel123/joel123/751
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", PBS
-http://185.134.22.131:8080/joel123/joel123/6851
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", PEOPLE TV
-http://185.134.22.131:8080/joel123/joel123/6643
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", PIXL
-http://185.134.22.131:8080/joel123/joel123/6501
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", POP
-http://185.134.22.131:8080/joel123/joel123/749
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", QVC
-http://185.134.22.131:8080/joel123/joel123/748
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", REVOLT
-http://185.134.22.131:8080/joel123/joel123/747
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", RFD TV
-http://185.134.22.131:8080/joel123/joel123/6500
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", SMITHSONIAN CHANNEL
-http://185.134.22.131:8080/joel123/joel123/742
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", SPORTSMAN CHANNEL
-http://185.134.22.131:8080/joel123/joel123/6647
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", START TV
-http://185.134.22.131:8080/joel123/joel123/736
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", SUNDANCE
-http://185.134.22.131:8080/joel123/joel123/733
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", SYFY
-http://185.134.22.131:8080/joel123/joel123/731
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TASTEMADE
-http://185.134.22.131:8080/joel123/joel123/40837
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TBS (EAST)
-http://185.134.22.131:8080/joel123/joel123/728
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TBS (WEST)
-http://185.134.22.131:8080/joel123/joel123/727
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TCM (BH)
-http://185.134.22.131:8080/joel123/joel123/726
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TLC
-http://185.134.22.131:8080/joel123/joel123/704
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TNT (EAST)
-http://185.134.22.131:8080/joel123/joel123/703
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TNT (WEST)
-http://185.134.22.131:8080/joel123/joel123/702
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TRAVEL CHANNEL
-http://185.134.22.131:8080/joel123/joel123/701
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TRU TV
-http://185.134.22.131:8080/joel123/joel123/699
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TV LAND
-http://185.134.22.131:8080/joel123/joel123/698
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", TV ONE
-http://185.134.22.131:8080/joel123/joel123/6437
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", UP TV
-http://185.134.22.131:8080/joel123/joel123/41426
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", USA NETWORK
-http://185.134.22.131:8080/joel123/joel123/693
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", USA NETWORK (WEST)
-http://185.134.22.131:8080/joel123/joel123/694
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", VH1
-http://185.134.22.131:8080/joel123/joel123/691
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", VICELAND
-http://185.134.22.131:8080/joel123/joel123/690
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", WE TV
-http://185.134.22.131:8080/joel123/joel123/689
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", WE TV+
-http://185.134.22.131:8080/joel123/joel123/46287
+http://stream.tvtap.live:8081/live/us-vh1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/a_e_c.png" group-title="USA2",US: A&E Network
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/657
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="USA2",US: ABC News
@@ -1073,67 +815,98 @@ http://akamaizedx.com:80/ademir2021/ademir2021/10035187
 http://akamaizedx.com:80/ademir2021/ademir2021/10035188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDO2Ti8.png" group-title="CANADA",TSN 5
 http://akamaizedx.com:80/ademir2021/ademir2021/10035189
-#EXTINF:-1 tvg-logo="https://s3media.247sports.com/Uploads/Assets/252/526/6_5526252.png" group-title="USA Sports",US: ACC Network
+#EXTINF:-1 tvg-logo="https://s3media.247sports.com/Uploads/Assets/252/526/6_5526252.png" group-title="USASports",US: ACC Network
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/660
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein-laliga_c.png" group-title="USA Sports",US: beIN La Liga
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein-laliga_c.png" group-title="USASports",US: beIN La Liga
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/674
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="USA Sports",US: beIN SPORTS
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="USASports",US: beIN SPORTS
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/675
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_4_c.png" group-title="USA Sports",US: beIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_4_c.png" group-title="USASports",US: beIN SPORTS 4
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/676
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_5_c.png" group-title="USA Sports",US: beIN SPORTS 5
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_5_c.png" group-title="USASports",US: beIN SPORTS 5
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/677
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_6_c.png" group-title="USA Sports",US: beIN SPORTS 6
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_6_c.png" group-title="USASports",US: beIN SPORTS 6
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/678
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_7_c.png" group-title="USA Sports",US: beIN SPORTS 7
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_7_c.png" group-title="USASports",US: beIN SPORTS 7
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/679
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_8_c.png" group-title="USA Sports",US: beIN SPORTS 8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_8_c.png" group-title="USASports",US: beIN SPORTS 8
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/680
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" group-title="USA Sports",US: Big Ten Network
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" group-title="USASports",US: Big Ten Network
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/687
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="USA Sports",US: CBSSN
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="USASports",US: CBSSN
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/696
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/chicago-logo-png-3.png" group-title="USA Sports",US: CSN Chicago Plus
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/chicago-logo-png-3.png" group-title="USASports",US: CSN Chicago Plus
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2456
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/440px-SNY_logo.svg.png" group-title="USA Sports",US: CSN SNY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/440px-SNY_logo.svg.png" group-title="USASports",US: CSN SNY
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2457
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/eleven_sports_c.png" group-title="USA Sports",US: Eleven Sports Network
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/eleven_sports_c.png" group-title="USASports",US: Eleven Sports Network
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/724
-#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s32645_ll_h3_ab.png" group-title="USA Sports",US: ESPN
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s32645_ll_h3_ab.png" group-title="USASports",US: ESPN
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/250px-ESPNews.svg.png" group-title="USA Sports",US: ESPN News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/250px-ESPNews.svg.png" group-title="USASports",US: ESPN News
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3622
-#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s45507_ll_h3_aa.png" group-title="USA Sports",US: ESPN2
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s45507_ll_h3_aa.png" group-title="USASports",US: ESPN2
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/726
-#EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-espnu-without-cable.png" group-title="USA Sports",US: ESPNU
+#EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-espnu-without-cable.png" group-title="USASports",US: ESPNU
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/727
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fntsy_sports_network_c.png" group-title="USA Sports",US: FNTSY Sports Network
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fntsy_sports_network_c.png" group-title="USASports",US: FNTSY Sports Network
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/728
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="USA Sports",US: FOX Soccer Plus
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="USASports",US: FOX Soccer Plus
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/731
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="USA Sports",US: FOX Sports 1
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="USASports",US: FOX Sports 1
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/732
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="USA Sports",US: FOX Sports 2
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="USASports",US: FOX Sports 2
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/733
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS ARIZONA
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS ARIZONA
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/734
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS CAROLINAS
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS CAROLINAS
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/735
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS DETROIT
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS DETROIT
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/736
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS FLORIDA
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS FLORIDA
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/737
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS INDIANA
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS INDIANA
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/738
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS MIDWEST
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS MIDWEST
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/739
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS NORTH
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS NORTH
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/740
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS OHIO
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS OHIO
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/741
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS OKLAHOMA
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS OKLAHOMA
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/742
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS PRIME TICKET
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USASports",US: FOX SPORTS PRIME TICKET
+#EXTGRP:USASports
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/743
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS SAN DIEGO
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/744
@@ -1431,71 +1204,6 @@ http://akamaizedx.com:80/ademir2021/ademir2021/10048045
 http://akamaizedx.com:80/ademir2021/ademir2021/10048046
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="SPORTS WORLD",USA: NBA TV
 http://akamaizedx.com:80/ademir2021/ademir2021/10045448
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/33786
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS LALIGA TV
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/12037
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BIG TEN NETWORK
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/6445
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", CBS SPORTS NETWORK
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/1046
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ELEVEN SPORTS NETWORK
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/1007
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/988
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN (BACKUP)
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/43846
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN 2
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/1002
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN DEPORTES
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/993
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN NEWS
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/991
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPN U
-http://185.134.22.131:8080/joel123/joel123/989
-#EXTGRP:Sports
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", ESPORTS TV
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/10496
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FIGHT NETWORK
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/6422
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FLORACING
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/48280
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX DEPORTES
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/6423
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX SOCCER PLUS
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/921
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", FOX SPORTS 1
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/918
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports",FOX SPORTS 2
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/917
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GAME +
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/41460
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GOL TV
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/9246
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", GOLF CHANNEL
-http://185.134.22.131:8080/joel123/joel123/12353
-#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", UFC TV
-#EXTGRP:Sports
-http://185.134.22.131:8080/joel123/joel123/697
 #EXTINF:-1 tvg-logo="http://uk.redhatiptv.com:25461/images/672kUEMtTHcaVYSVY4eiHEliHFa_big.jpg" group-title="007",Spectre
 http://uk.redhatiptv.com:25461/movie/LOFt366Byua7/67xf0zAeoE/110471.mkv
 #EXTINF:-1 tvg-logo="http://uk.redhatiptv.com:25461/images/izrHg2UzxG3YXTBcKFaUbYp9LWA_big.jpg" group-title="007",Skyfall
