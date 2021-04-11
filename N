@@ -709,6 +709,248 @@ http://185.134.22.131:8080/joel123/joel123/690
 http://185.134.22.131:8080/joel123/joel123/689
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA", WE TV+
 http://185.134.22.131:8080/joel123/joel123/46287
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="CANADA",A&E
+http://akamaizedx.com:80/ademir2021/ademir2021/10039683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9t3OHVr.png" group-title="CANADA",ABC 5
+http://akamaizedx.com:80/ademir2021/ademir2021/10039681
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWWzjMy.png" group-title="CANADA",BBC
+http://akamaizedx.com:80/ademir2021/ademir2021/10035171
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YZwmIW9.png" group-title="CANADA",CBC NEWS NETWORK
+http://akamaizedx.com:80/ademir2021/ademir2021/10035194
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwfS0ES.png" group-title="CANADA",CMT
+http://akamaizedx.com:80/ademir2021/ademir2021/10035178
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlVzYjF.png" group-title="CANADA",CNN HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10039679
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxE4E8R.png" group-title="CANADA",CP24 HD
+http://akamaizedx.com:80/ademir2021/ademir2021/10035169
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lmm0ro.png" group-title="CANADA",CPAC EN
+http://akamaizedx.com:80/ademir2021/ademir2021/10035177
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9ICat4.png" group-title="CANADA",CTV
+http://akamaizedx.com:80/ademir2021/ademir2021/10035170
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNiGMZx.png" group-title="CANADA",CTV COMEDY
+http://akamaizedx.com:80/ademir2021/ademir2021/10035176
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUIyJD3.png" group-title="CANADA",CTV DRAMA CHANNEL
+http://akamaizedx.com:80/ademir2021/ademir2021/10035174
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTSiajT.png" group-title="CANADA",CTV NEWS CHANNEL
+http://akamaizedx.com:80/ademir2021/ademir2021/10035173
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZxSX26Y.png" group-title="CANADA",CTV SCI-FI
+http://akamaizedx.com:80/ademir2021/ademir2021/10035175
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8bAiAb.png" group-title="CANADA",DISCOVERY
+http://akamaizedx.com:80/ademir2021/ademir2021/10035179
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8Cqlw0.png" group-title="CANADA",DTOUR
+http://akamaizedx.com:80/ademir2021/ademir2021/10035180
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="CANADA",FOOD NETWORK CA
+http://akamaizedx.com:80/ademir2021/ademir2021/10035181
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbpCEB2.png" group-title="CANADA",FOX 29
+http://akamaizedx.com:80/ademir2021/ademir2021/10039682
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5RqFmx.png" group-title="CANADA",GLOBAL NATIONAL
+http://akamaizedx.com:80/ademir2021/ademir2021/10039686
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qGHJNJS.png" group-title="CANADA",GLOBAL TORONTO
+http://akamaizedx.com:80/ademir2021/ademir2021/10035183
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="CANADA",HBO
+http://akamaizedx.com:80/ademir2021/ademir2021/10039689
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZ7dVGc.png" group-title="CANADA",HGTV CA
+http://akamaizedx.com:80/ademir2021/ademir2021/10035182
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isEQ5Oc.png" group-title="CANADA",HISTORY CA
+http://akamaizedx.com:80/ademir2021/ademir2021/10035184
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xRCF3aE.png" group-title="CANADA",OWN
+http://akamaizedx.com:80/ademir2021/ademir2021/10039685
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXwEDX2.png" group-title="CANADA",SPORTSNET 360
+http://akamaizedx.com:80/ademir2021/ademir2021/10035191
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOk7U2k.png" group-title="CANADA",SPORTSNET ONE
+http://akamaizedx.com:80/ademir2021/ademir2021/10035190
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyOiU39.png" group-title="CANADA",SPORTSNET ONTARIO
+http://akamaizedx.com:80/ademir2021/ademir2021/10035192
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAg6ukW.png" group-title="CANADA",THE WEATHER NETWORK
+http://akamaizedx.com:80/ademir2021/ademir2021/10035193
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0hTSOW.png" group-title="CANADA",TORONTO 360
+http://akamaizedx.com:80/ademir2021/ademir2021/10039684
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4cAbXnT.png" group-title="CANADA",TSN 1
+http://akamaizedx.com:80/ademir2021/ademir2021/10035185
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYw1cI8.png" group-title="CANADA",TSN 2
+http://akamaizedx.com:80/ademir2021/ademir2021/10035186
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3NlRpJP.png" group-title="CANADA",TSN 3
+http://akamaizedx.com:80/ademir2021/ademir2021/10035187
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dMABqfR.png" group-title="CANADA",TSN 4
+http://akamaizedx.com:80/ademir2021/ademir2021/10035188
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDO2Ti8.png" group-title="CANADA",TSN 5
+http://akamaizedx.com:80/ademir2021/ademir2021/10035189
+#EXTINF:-1 tvg-logo="https://s3media.247sports.com/Uploads/Assets/252/526/6_5526252.png" group-title="USA Sports",US: ACC Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/660
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein-laliga_c.png" group-title="USA Sports",US: beIN La Liga
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/674
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_sports_english_c.png" group-title="USA Sports",US: beIN SPORTS
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/675
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_4_c.png" group-title="USA Sports",US: beIN SPORTS 4
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/676
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_5_c.png" group-title="USA Sports",US: beIN SPORTS 5
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/677
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_6_c.png" group-title="USA Sports",US: beIN SPORTS 6
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/678
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_7_c.png" group-title="USA Sports",US: beIN SPORTS 7
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/679
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/bein_connect_8_c.png" group-title="USA Sports",US: beIN SPORTS 8
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/680
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" group-title="USA Sports",US: Big Ten Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/687
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="USA Sports",US: CBSSN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/696
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/chicago-logo-png-3.png" group-title="USA Sports",US: CSN Chicago Plus
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2456
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/440px-SNY_logo.svg.png" group-title="USA Sports",US: CSN SNY
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2457
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/eleven_sports_c.png" group-title="USA Sports",US: Eleven Sports Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/724
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s32645_ll_h3_ab.png" group-title="USA Sports",US: ESPN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/725
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/250px-ESPNews.svg.png" group-title="USA Sports",US: ESPN News
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/3622
+#EXTINF:-1 tvg-logo="https://tmsimg.fancybits.co/assets/s45507_ll_h3_aa.png" group-title="USA Sports",US: ESPN2
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/726
+#EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-espnu-without-cable.png" group-title="USA Sports",US: ESPNU
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/727
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fntsy_sports_network_c.png" group-title="USA Sports",US: FNTSY Sports Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/728
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fox_soccer_plus_c.png" group-title="USA Sports",US: FOX Soccer Plus
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/731
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="USA Sports",US: FOX Sports 1
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/732
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="USA Sports",US: FOX Sports 2
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/733
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS ARIZONA
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/734
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS CAROLINAS
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/735
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS DETROIT
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/736
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS FLORIDA
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/737
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS INDIANA
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/738
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS MIDWEST
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/739
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS NORTH
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/740
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS OHIO
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/741
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS OKLAHOMA
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/742
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS PRIME TICKET
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/743
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS SAN DIEGO
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/744
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS SOUTH
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/745
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS SOUTHEAST
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/746
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS SOUTHWEST
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/747
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS SUN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/748
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS WEST
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/749
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTS WISCONSIN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/750
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_sports_asia.jpg" group-title="USA Sports",US: FOX SPORTSTIME OHIO
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/751
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/ginx_c.png" group-title="USA Sports",US: GINX eSports
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/761
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/goltv_english_c.png" group-title="USA Sports",US: GolTV (English)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/762
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2012/08/Longhorn_Network_CLR_Pos-642x405.jpg" group-title="USA Sports",US: Longhorn Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/789
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/220px-Marquee_Sports_Network_Logo.svg.png" group-title="USA Sports",US: Marquee Sports Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2463
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/mavtv_c.png" group-title="USA Sports",US: MAV TV
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/790
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/msg_c.png" group-title="USA Sports",US: MSG
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/794
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/msg_plus_c.png" group-title="USA Sports",US: MSG+
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/795
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/msg_c.png" group-title="USA Sports",US: MSG2
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/796
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area_c.png" group-title="USA Sports",US: NBC Sports Bay Area
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/805
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-bay-area-plus_c.png" group-title="USA Sports",US: NBC Sports Bay Area+
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/806
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Boston
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/807
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nbc-sports-california_c.png" group-title="USA Sports",US: NBC Sports California
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/808
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Chicago
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/809
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Chicago Plus
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/810
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Northwest
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/811
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Philly
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/812
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Philly Plus
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/813
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Washington
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/814
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/kgmb_c.png" group-title="USA Sports",US: NBC Sports Washington Plus
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/815
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/nbcsn_c.png" group-title="USA Sports",US: NBCSN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/816
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nesn_us.jpg" group-title="USA Sports",US: NESN
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/817
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/olympic_channel_c.png" group-title="USA Sports",US: Olympic Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/829
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-arizona_c.png" group-title="USA Sports",US: Pac-12 Arizona
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/840
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-bay-area_c.png" group-title="USA Sports",US: Pac-12 Bay Area
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/841
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-los-angeles_c.png" group-title="USA Sports",US: Pac-12 Los Angeles
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/842
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-mountain_c.png" group-title="USA Sports",US: Pac-12 Mountain
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/843
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-networks_c.png" group-title="USA Sports",US: Pac-12 Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/844
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-oregon_c.png" group-title="USA Sports",US: Pac-12 Oregon
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/845
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/pac-12-washington_c.png" group-title="USA Sports",US: Pac-12 Washington
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/846
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Spectrum_SportsNet_LA.png/240px-Spectrum_SportsNet_LA.png" group-title="USA Sports",US: Spectrum Sportsnet Dodgers
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2484
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Spectrum_Sportsnet_logo.png/240px-Spectrum_Sportsnet_logo.png" group-title="USA Sports",US: Spectrum Sportsnet Lakers
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2343
+#EXTINF:-1 tvg-logo="http://p-img.movetv.com/cms/images/d59e5fba6d605c9c8b8ec012c238898a7b8552d6.png" group-title="USA Sports",US: SportsGrid
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/864
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/spmnhd_c.png" group-title="USA Sports",US: Sportsman Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/865
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/sny_c.png" group-title="USA Sports",US: SportsNet NY
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/866
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/att-sportsnet_c.png" group-title="USA Sports",US: SportsNet Southwest
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/867
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/att-sportsnet_c.png" group-title="USA Sports",US: Sportsnet Southwest (Alternate)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/868
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tennis-channel_c.png" group-title="USA Sports",US: Tennis Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/876
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="USA Sports",US: The Cowboy Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/877
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fight_network_c.png" group-title="USA Sports",US: The Fight Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/878
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/the_golf_channel_c.png" group-title="USA Sports",US: The Golf Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/879
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/the_golf_channel_c.png" group-title="USA Sports",US: The Golf Channel (SD)
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/880
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tvg_c.png" group-title="USA Sports",US: TVG
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/895
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/tvg2_c.png" group-title="USA Sports",US: TVG2
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/220px-UFC_Logo.svg.png" group-title="USA Sports",US: UFC Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2479
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="USA Sports",US: Willow Cricket
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/911
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="USA Sports",US: Willow Extra
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/912
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/wfn_c.png" group-title="USA Sports",US: World Fishing Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/913
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/250px-WWE_Network_logo.svg.png" group-title="USA Sports",US: WWE Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2458
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/yes_network_hd.jpg" group-title="USA Sports",US: YES Network
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/914
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="Sports", BEIN SPORTS
 #EXTGRP:Sports
 http://185.134.22.131:8080/joel123/joel123/33786
