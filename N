@@ -8,6 +8,9 @@ http://cdntv.online/low/9mlxywika2/438.mpeg
 #EXTINF:0 tvg-id="439" tvg-logo="http://epg.cdntv.online/img/439.png" group-title="News", Deutsche Welle
 #EXTGRP:News
 http://cdntv.online/low/9mlxywika2/439.mpeg
+#EXTINF:0 tvg-id="300" tvg-logo="http://epg.cdntv.online/img/300.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Science", Discovery CZ
+#EXTGRP:Science
+http://213.151.233.20:8000/dna-6179-tv-pc.m3u8
 #EXTINF:0 tvg-id="373" tvg-logo="http://epg.cdntv.online/img/373.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Science", Viasat Explore HD
 #EXTGRP:Science
 http://cdntv.online/low/9mlxywika2/373.mpeg
@@ -199,6 +202,9 @@ http://cdntv.online/low/9mlxywika2/830.mpeg
 #EXTINF:0 tvg-id="831" tvg-logo="http://epg.cdntv.online/img/831.png" group-title="Sports", М2 HD
 #EXTGRP:Sports
 http://cdntv.online/low/9mlxywika2/831.mpeg
+#EXTINF:0 tvg-id="38" tvg-logo="http://epg.cdntv.online/img/38.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Sports",Eurosport 1 CZ
+#EXTGRP:Sports
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:0 tvg-id="1066" tvg-logo="http://epg.cdntv.online/img/1066.png" group-title="Germany", Das Erste HD DE
 #EXTGRP:Germany
 http://cdntv.online/low/9mlxywika2/1066.mpeg
@@ -295,6 +301,12 @@ http://cdntv.online/low/9mlxywika2/1091.mpeg
 #EXTINF:0 tvg-id="1092" tvg-logo="http://epg.cdntv.online/img/1092.png" group-title="Israel", Sport 5+ HD IL
 #EXTGRP:Israel
 http://cdntv.online/low/9mlxywika2/1092.mpeg
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",A&E
+#EXTGRP:USA
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",HALLMARK DRAMA
+#EXTGRP:USA
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="USA",ID Investigation Discovery
 #EXTGRP:USA
 http://109.200.130.124:7006/play/a010
@@ -990,3 +1002,13 @@ http://90000.suklakakl.site/iptv/MYUPNL82TPX82V/1109/index.m3u
 http://90000.suklakakl.site/iptv/MYUPNL82TPX82V/1110/index.m3u
 #EXTINF:-1 group-title="українські",BrazzersTV
 http://90000.suklakakl.site/iptv/MYUPNL82TPX82V/910/index.m3u
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="MovieTV",FoxMovies Thai
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="MovieTV",HBO CZ (ENG)
+http://213.151.233.20:8000/dna-6129-tv-pc.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="MovieTV",Action Movies DE
+https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="MovieTV",Action Hollywood Movies
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://bit.ly/3cJ04kp" group-title="MovieTV",Action Movies
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
