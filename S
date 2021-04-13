@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="XXX", EroXXX
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", EroXXX
 http://189.204.177.124:8000/play/a002
-#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="XXX", Venus
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", Venus
 http://2.83.79.71:8080/play/a08y/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="XXX", Playboy TV
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", Playboy TV
 http://2.83.79.71:8080/play/a06z/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="http://epg.cdntv.online/img/437.png" group-title="XXX", HOT
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", HOT
 http://2.83.79.71:8080/play/a0a4/index.m3u8
 #EXTINF:0 tvg-id="1063" tvg-logo="http://epg.cdntv.online/img/1063.png" group-title="Adult", Nuart TV
 #EXTGRP:Adult
