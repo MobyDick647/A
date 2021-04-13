@@ -1,1271 +1,635 @@
 #EXTM3U
-#EXTINF:-1 group-title="Denmark",------|Denmark|------
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31131
-#EXTINF:-1 group-title="Denmark",DK001:C MORE SERIES
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31130
-#EXTINF:-1 group-title="Denmark",DK002:C More Emotion
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31129
-#EXTINF:-1 group-title="Denmark",DK003:C More Live
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31128
-#EXTINF:-1 group-title="Denmark",DK004:CARTOON NETWORK
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31127
-#EXTINF:-1 group-title="Denmark",DK005:6 Eren
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31126
-#EXTINF:-1 group-title="Denmark",DK006:COMEDY CENTRAL
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31125
-#EXTINF:-1 group-title="Denmark",DK007: Nat Geo
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31124
-#EXTINF:-1 group-title="Denmark",DK008:CANAL 9 DK
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31123
-#EXTINF:-1 group-title="Denmark",DK009:DISNEY CHANNEL
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31122
-#EXTINF:-1 group-title="Denmark",DK010:C More First
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31121
-#EXTINF:-1 group-title="Denmark",DK011:ANIMAL PLANET HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31120
-#EXTINF:-1 group-title="Denmark",DK012:Disney Channel (D)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31119
-#EXTINF:-1 group-title="Denmark",DK013:DR 2
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31118
-#EXTINF:-1 group-title="Denmark",DK014:TV3+
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31117
-#EXTINF:-1 group-title="Denmark",DK015:DR RAMASJANG
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31116
-#EXTINF:-1 group-title="Denmark",DK016:Xee
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31115
-#EXTINF:-1 group-title="Denmark",DK017:TV2 Sport 2
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31114
-#EXTINF:-1 group-title="Denmark",DK018:KANAL 5
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31113
-#EXTINF:-1 group-title="Denmark",DK019:DR 1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31112
-#EXTINF:-1 group-title="Denmark",DK020:NRK 1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31111
-#EXTINF:-1 group-title="Denmark",DK021:TV 2 CHARLIE
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31110
-#EXTINF:-1 group-title="Denmark",DK022:Investigation Discovery
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31109
-#EXTINF:-1 group-title="Denmark",DK023:TV 2 FRI
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31108
-#EXTINF:-1 group-title="Denmark",DK024:DK 4
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31107
-#EXTINF:-1 group-title="Denmark",DK025:Boomerang
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31106
-#EXTINF:-1 group-title="Denmark",DK026:TV 2 ZULU
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31105
-#EXTINF:-1 group-title="Denmark",DK027:TV 3
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31104
-#EXTINF:-1 group-title="Denmark",DK028:TV 3 SPORT 1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31103
-#EXTINF:-1 group-title="Denmark",DK029:TV 3 SPORT 2
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31102
-#EXTINF:-1 group-title="Denmark",DK030:Discovery Science
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31101
-#EXTINF:-1 group-title="Denmark",DK031:Discovery HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31100
-#EXTINF:-1 group-title="Denmark",DK032:TV 2 NORGE
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31099
-#EXTINF:-1 group-title="Denmark",DK033:TV2 NEWS
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31098
-#EXTINF:-1 group-title="Denmark",DK034:TV3 Denmark
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31097
-#EXTINF:-1 group-title="Denmark",DK035:TV3 SPORT 1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31096
-#EXTINF:-1 group-title="Denmark",DK036:TV2 SPXRT
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31095
-#EXTINF:-1 group-title="Denmark",DK037:TV 2 NORGE
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31094
-#EXTINF:-1 group-title="Denmark",DK038:VIASAT HOCKEY
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31093
-#EXTINF:-1 group-title="Denmark",DK039:Viasat History HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31092
-#EXTINF:-1 group-title="Denmark",DK040:VIASAT FILM ACTION
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31091
-#EXTINF:-1 group-title="Denmark",DK041:VIASAT FILM COMEDY
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31090
-#EXTINF:-1 group-title="Denmark",DK042:VIASAT FILM FAMILY
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31089
-#EXTINF:-1 group-title="Denmark",DK043:Viasat Series HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31088
-#EXTINF:-1 group-title="Denmark",DK044:VIASAT FILM PREMIERE
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31087
-#EXTINF:-1 group-title="Denmark",DK045:VIASAT FOTBOLL
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31086
-#EXTINF:-1 group-title="Denmark",DK046:VIASAT GOLF
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31085
-#EXTINF:-1 group-title="Denmark",DK047:VIASAT HISTORY
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31084
-#EXTINF:-1 group-title="Denmark",DK048:VFILM ACTION
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31083
-#EXTINF:-1 group-title="Denmark",DK049:Disney XD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31082
-#EXTINF:-1 group-title="Denmark",DK050:TV3 Puls
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31081
-#EXTINF:-1 group-title="Denmark",DK051:TV2 Zulu
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31080
-#EXTINF:-1 group-title="Denmark",DK052:VIASAT NATURE
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31079
-#EXTINF:-1 group-title="Denmark",DK053:VIASAT SERIES
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31078
-#EXTINF:-1 group-title="Denmark",DK054:VIASAT SPORT
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31077
-#EXTINF:-1 group-title="Denmark",DK055:TV2 Midtvest
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31076
-#EXTINF:-1 group-title="Denmark",DK056:DR1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31075
-#EXTINF:-1 group-title="Denmark",DK057:DK4
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31074
-#EXTINF:-1 group-title="Denmark",DK058:Kanal TV5
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31073
-#EXTINF:-1 group-title="Denmark",DK059:TV2 Fri
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31072
-#EXTINF:-1 group-title="Denmark",DK060:BBC Earth
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31071
-#EXTINF:-1 group-title="Denmark",DK061:VIASAT MOTOR
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31070
-#EXTINF:-1 group-title="Denmark",DK062:Kanal 4
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31069
-#EXTINF:-1 group-title="Denmark",DK063:TV3
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31068
-#EXTINF:-1 group-title="Denmark",DK064:TV 2 LORRY
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31067
-#EXTINF:-1 group-title="Denmark",DK065:SVT 2
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31066
-#EXTINF:-1 group-title="Denmark",DK066:Viasat Nature HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31065
-#EXTINF:-1 group-title="Denmark",DK067:C More Hits FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31064
-#EXTINF:-1 group-title="Denmark",DK068:C More Live
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31063
-#EXTINF:-1 group-title="Denmark",DK069:TV3 Max
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31062
-#EXTINF:-1 group-title="Denmark",DK070:DR 1 FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31061
-#EXTINF:-1 group-title="Denmark",DK071:DR 2 HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31060
-#EXTINF:-1 group-title="Denmark",DK072:DR K FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31059
-#EXTINF:-1 group-title="Denmark",DK073:DR Ramasjang HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31058
-#EXTINF:-1 group-title="Denmark",DK074:TV2
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31057
-#EXTINF:-1 group-title="Denmark",DK075:EUROSPORT 1 FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31056
-#EXTINF:-1 group-title="Denmark",DK076:Kanal 4 Danmark
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31055
-#EXTINF:-1 group-title="Denmark",DK077:Kanal 4 FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31054
-#EXTINF:-1 group-title="Denmark",DK078:Kanal 5 FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31053
-#EXTINF:-1 group-title="Denmark",DK079:KANAL 9 HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31052
-#EXTINF:-1 group-title="Denmark",DK080:MTV HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31051
-#EXTINF:-1 group-title="Denmark",DK081:EUROSPORT 2 FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31050
-#EXTINF:-1 group-title="Denmark",DK082:NAT GEO FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31049
-#EXTINF:-1 group-title="Denmark",DK083:NAT GEO Wild HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31048
-#EXTINF:-1 group-title="Denmark",DK084:Nickelodeon HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31047
-#EXTINF:-1 group-title="Denmark",DK085:NRK 1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31046
-#EXTINF:-1 group-title="Denmark",DK086:C More Hits FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31045
-#EXTINF:-1 group-title="Denmark",DK087:TLC FHD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31044
-#EXTINF:-1 group-title="Denmark",DK088:TV2 Nord
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31043
-#EXTINF:-1 group-title="Denmark",DK089:TV 6
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31042
-#EXTINF:-1 group-title="Denmark",DK090:TV2 Bornholm
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31041
-#EXTINF:-1 group-title="Denmark",DK091:TV2 CHARLI
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31040
-#EXTINF:-1 group-title="Denmark",DK092:TV2 Fyn HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31039
-#EXTINF:-1 group-title="Denmark",DK093:TV2 Lorry HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31038
-#EXTINF:-1 group-title="Denmark",DK094:BBC Brit
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31037
-#EXTINF:-1 group-title="Denmark",DK095:TV2 SPORT HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31036
-#EXTINF:-1 group-title="Denmark",DK096:TV2 ZULU HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31035
-#EXTINF:-1 group-title="Denmark",DK097:TV3 Danmark
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31034
-#EXTINF:-1 group-title="Denmark",DK098:Viasat Hockey
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31033
-#EXTINF:-1 group-title="Denmark",DK099:VIASAT EXPLORE
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31032
-#EXTINF:-1 group-title="Denmark",DK100:Viasat Film Action
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31031
-#EXTINF:-1 group-title="Denmark",DK101:Viasat Film Family
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31030
-#EXTINF:-1 group-title="Denmark",DK102:Viasat Film Hits HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31029
-#EXTINF:-1 group-title="Denmark",DK103:VIASAT FILM PREMIERE HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31028
-#EXTINF:-1 group-title="Denmark",DK104:Viasat Football HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31027
-#EXTINF:-1 group-title="Denmark",DK105:VIASAT GOLF
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/31026
-#EXTINF:-1 group-title="India",------|India|------
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1965
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0029XJalwa.png" group-title="India",IN002:9X Jalwa
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1963
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0049XM.png" group-title="India",IN004:9XM
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1961
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN005AAJTakNews.png" group-title="India",IN005:AAJ Tak News
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1960
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN006Aastha.png" group-title="India",IN006:Aastha
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1959
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN008AndPictures.png" group-title="India",IN008:And Pictures
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1957
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN009AndTV.png" group-title="India",IN009:And TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1956
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN010DDNews.png" group-title="India",IN010:DD News
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1955
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN011B4UMovies.png" group-title="India",IN011:B4U Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1954
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN012B4UMusic.png" group-title="India",IN012:B4U Music
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1953
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN014ZOOMTV.png" group-title="India",IN014:ZOOM TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1951
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN017ColorsGujarati.png" group-title="India",IN017:Colors Gujarati
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1948
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN018ColorsMarathi.png" group-title="India",IN018:Colors Marathi
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1947
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN019ColorsHD.png" group-title="India",IN019:Colors HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1946
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN020ColorsUK.png" group-title="India",IN020:Colors UK
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1945
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN021JayaMovies.png" group-title="India",IN021:Jaya Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1944
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN022JalshaMovies.png" group-title="India",IN022:Jalsha Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1943
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN023FoodFood.png" group-title="India",IN023:Food Food
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1942
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN024GeminiComedyTelugu.png" group-title="India",IN024:Gemini Comedy Telugu
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1941
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN025NewsX.png" group-title="India",IN025:News X
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1940
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN026GeminiTelugu.png" group-title="India",IN026:Gemini Telugu
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1939
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN027ZeeTV.png" group-title="India",IN027:Zee TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1938
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN031LivingFoodZ.png" group-title="India",IN031:Living FoodZ
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1934
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN032SonyPIX.png" group-title="India",IN032:Sony PIX
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1933
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN034MoviesOK.png" group-title="India",IN034:Lakshya TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1931
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN035HBO.png" group-title="India",IN035:HBO
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1930
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN036MusicIndia.png" group-title="India",IN036:Music India
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1929
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN037NDTV24x7.png" group-title="India",IN037:NDTV 24x7
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1928
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN038NDTVIndia.png" group-title="India",IN038:NDTV India
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1927
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN039ZeeTV.png" group-title="India",IN039:Zee TV UK
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1926
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN040ZeeKannada.png" group-title="India",IN040:Zee Kannada
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1925
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN049SeithigalTamil.png" group-title="India",IN049:Sadhna TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1916
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN050AsianTV.png" group-title="India",IN050:Asian TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1915
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN053IndiaTV.png" group-title="India",IN053:India TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1912
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN054SonyESPN.png" group-title="India",IN054:Sony ESPN
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1911
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN055SonyMax.png" group-title="India",IN055:Sony Max
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1910
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN056SonyMix.png" group-title="India",IN056:Sony Mix
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1909
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN057SonySetMax.png" group-title="India",IN057:Sony Set Max
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1908
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN059SonySabUK.png" group-title="India",IN059:Sony Sab UK
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1906
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN060SonySix.png" group-title="India",IN060:Sony Six
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1905
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN061SonyTen2.png" group-title="India",IN061:Sony Ten 2
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1904
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN062SonyTen1.png" group-title="India",IN062:Sony Ten 1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1903
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN063SonyTen3.png" group-title="India",IN063:Sony Ten 3
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1902
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN065SMBCTV.png" group-title="India",IN065:Romedy Now
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1900
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN066SonyYAY.png" group-title="India",IN066:Sony YAY
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1899
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN067Sudarshan.png" group-title="India",IN067:Housefull Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1898
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN068StarGold.png" group-title="India",IN068:Star Gold
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1897
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN069StarMovies.png" group-title="India",IN069:Star Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1896
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN070StarPlus.png" group-title="India",IN070:Star Plus
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1895
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN071StarPlusUK.png" group-title="India",IN071:Star Plus UK
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1894
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN072StarSports1.png" group-title="India",IN072:Star Sports 1
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1893
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN073StarSports2.png" group-title="India",IN073:Star Sports 2
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1892
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN075TaraMusik.png" group-title="India",IN075:Tara Musik
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1890
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN076TimesNow.png" group-title="India",IN076:Times Now
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1889
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN077TravelXP.png" group-title="India",IN077:ABP News
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1888
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN078UTVMovies.png" group-title="India",IN078:UTV Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1887
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN079WIllowCricket.png" group-title="India",IN079:WIllow Cricket
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1886
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN080ZeeAction.png" group-title="India",IN080:Zee Action
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1885
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN081ZeeAnmolCinema.png" group-title="India",IN081:Zee Anmol Cinema
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1884
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN082ZeeBollywood.png" group-title="India",IN082:Zee Bollywood
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1883
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN083ZeeBusiness.png" group-title="India",IN083:Zee Business
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1882
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN084ZeeClassic.png" group-title="India",IN084:Zee Classic
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1881
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN085ZeeCinema.png" group-title="India",IN085:Zee Cinema
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1880
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN086ZeeETC.png" group-title="India",IN086:Zee ETC
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1879
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN087ZeeLiving.png" group-title="India",IN087:Zee Living
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1878
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN088ZeeMarathi.png" group-title="India",IN088:Zee Marathi
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1877
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN089ZeeNews.png" group-title="India",IN089:Zee News
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1876
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN091ZeeStudio.png" group-title="India",IN091:Sanskar TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1874
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN092ZeeTalkiesMarathi.png" group-title="India",IN092:Zee Talkies Marathi
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1873
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN093StarWorldHD.png" group-title="India",IN093:Star World HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55360
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0949xJhakaas.png" group-title="India",IN094:9x Jhakaas
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55359
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0959XTashan.png" group-title="India",IN095:9X Tashan
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55358
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN096ZeeRajasthan.png" group-title="India",IN096:Zee Rajasthan
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55357
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN097AajTak.png" group-title="India",IN097:Aaj Tak
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55356
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN098ZeeSalaam.png" group-title="India",IN098:Zee Salaam
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55355
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN099Zing.png" group-title="India",IN099:Zing
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55354
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN101VissaTV.png" group-title="India",IN101:Zee Cafe HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55352
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN107AdithyaTV.png" group-title="India",IN107:Bollywood Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55346
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN108DDPUNJABI.png" group-title="India",IN108:Rishtey Cineplex (UK)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55345
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN113StarSportsSelect1HD.png" group-title="India",IN113:Star Sports Select 1 HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55340
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN115StarSportsSelect2HD.png" group-title="India",IN115:Star Sports Select 2 HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55338
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN122AsiaNet.png" group-title="India",IN122:Asia Net
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55331
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN125ZeeBanglaCinema.png" group-title="India",IN125:Zee Bangla Cinema
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55328
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN126AXNHD.png" group-title="India",IN126:POP MUSIC
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55327
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN127SuryaHD.png" group-title="India",IN127:Surya HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55326
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN128ZeeAnmol.png" group-title="India",IN128:Republic Bharat
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55325
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN129ZeeTelugu.png" group-title="India",IN129:Zee Telugu
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55324
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN133BhojpuriCinema.png" group-title="India",IN133:Peace Of Mind TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55320
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN134ZEEBANGLA.png" group-title="India",IN134:ZEE BANGLA
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55319
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN142ChannelNewsAsiaInternational.png" group-title="India",IN142:News18 Rajestan
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55311
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN144WIONTV.png" group-title="India",IN144:News18 UP Uttarakhand
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55309
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN145ChardiklaTimeTV.png" group-title="India",IN145:Chardikla Time TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55308
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN147CNHDEnglish.png" group-title="India",IN147:NDTV Profit
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55306
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN148CNBCAwaaz.png" group-title="India",IN148:CNBC Awaaz
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55305
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN150CNBCTv18.png" group-title="India",IN150:CNBC Tv 18
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55303
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN152CNN.png" group-title="India",IN152:CNN
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55301
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN153CNNNEWS18.png" group-title="India",IN153:CNN NEWS 18
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55300
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN154ColorsBengaliHD.png" group-title="India",IN154:Colors Bengali HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55299
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN155ColorsInfinityHD.png" group-title="India",IN155:Colors Infinity HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55298
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN156ColorsKannadaHD.png" group-title="India",IN156:Colors Kannada HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55297
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN157RajMusix.png" group-title="India",IN157:Raj Musix
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55296
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN158ColorsSuper.png" group-title="India",IN158:NAZRANA
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55295
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN161CVRHealth.png" group-title="India",IN161:MAA GOLD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55292
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN162PuthuYugam.png" group-title="India",IN162:Puthu Yugam
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55291
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN164AnimalPlanetHD.png" group-title="India",IN164:Animal Planet HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55289
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN168PuthiyaThalimurai.png" group-title="India",IN168:Puthiya Thalimurai
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55285
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="India",IN169:DD Rajyasabha
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55284
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN172DiscoveryChannelTamil.png" group-title="India",IN172:MN+
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55281
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN173DiscoveryScience.png" group-title="India",IN173:Discovery Science
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55280
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN174DiscoveryTurbo.png" group-title="India",IN174:Discovery Turbo
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55279
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN179dw.png" group-title="India",IN179:DW
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55274
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN181E24.png" group-title="India",IN181:E 24
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55272
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN182PolimerTV.png" group-title="India",IN182:Polimer TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55271
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN183EpicHD.png" group-title="India",IN183:Epic HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55270
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN184ETNow.png" group-title="India",IN184:ET Now
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55269
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN185ETVAbhiruchi.png" group-title="India",IN185:Maha Movies
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55268
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN189ETVCinema.png" group-title="India",IN189:Mastiii
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55264
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN190PolimerNews.png" group-title="India",IN190:Polimer News
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55263
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN192ETVMP.png" group-title="India",IN192:JANTA TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55261
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN193ETVNewsGujarati.png" group-title="India",IN193:Life OK
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55260
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN195ETVPlus.png" group-title="India",IN195:Angel Tv
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55258
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN196ETVRAJASTHAN.png" group-title="India",IN196:DD Kisan
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55257
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN197ETVTelangana.png" group-title="India",IN197:DD National
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55256
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN198ETVTelugu.png" group-title="India",IN198:DD Uttar Pradesh
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55255
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN199ETVUP.png" group-title="India",IN199:ETV Cinema
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55254
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN201StarJalsha.png" group-title="India",IN201:Star Jalsha
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55252
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN204FlowerTV.png" group-title="India",IN204:Flower TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55249
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN205France24.png" group-title="India",IN205:France 24
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55248
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN206FYITV18.png" group-title="India",IN206:Bhagti Sagar
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55247
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN207GeminiComedy.png" group-title="India",IN207:Bloomberg Quint
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55246
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN208GABRUUTVHD.png" group-title="India",IN208:GABRUU TV HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55245
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN209GeminiMovies.png" group-title="India",IN209:Sanjha Punjab
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55244
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN210GeminiMoviesHD.png" group-title="India",IN210:Gemini Movies HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55243
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN211GeminiTV.png" group-title="India",IN211:Gemini TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55242
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN212ZeeBangla.png" group-title="India",IN212:Zee Theatre HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55241
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN213GurbaniHealing.png" group-title="India",IN213:COLORS Rishtey
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55240
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN220ChuChuTV.png" group-title="India",IN220:HULCHUL TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55233
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN221HNN24x7.png" group-title="India",IN221:B4u+
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55232
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN224homeshop18.png" group-title="India",IN224:B4u kadak
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55229
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN225HousefullMovies.png" group-title="India",IN225:& Xplor HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55228
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN228StarSports3HD.png" group-title="India",IN228:Star Sports 3 HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55225
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN231INNewsHaryana.png" group-title="India",IN231:IN News Haryana
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55222
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN233INNewsRajasthan.png" group-title="India",IN233:ABP News
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55220
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN234INNewsUP.png" group-title="India",IN234:HUM World
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55219
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN235INToday.png" group-title="India",IN235:India Today
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55218
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN236INTV.png" group-title="India",IN236:Sanjha TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55217
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN237WIONTV.png" group-title="India",IN237:WION TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55216
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN240IshwarTV.png" group-title="India",IN240:1st India
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55213
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN241JMovies.png" group-title="India",IN241:SONY Entertainment HD (UK)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55212
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN244JanamTV.png" group-title="India",IN244:Janam TV
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55209
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN245JayaMax.png" group-title="India",IN245:Jaya Max
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55208
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN246JayaPlus.png" group-title="India",IN246:Jaya Plus
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55207
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN275KTVHD.png" group-title="India",IN275:KTV HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55178
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN289Murasu.png" group-title="India",IN289:Murasu
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55164
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN290ManoramaNews.png" group-title="India",IN290:Manorama News
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55163
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN294MazavaliManoramaHD.png" group-title="India",IN294:Mazavali Manorama HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55159
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN295MazhavilManorama.png" group-title="India",IN295:privé
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55158
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN436SuryaHD.png" group-title="India",IN296:Willow HD
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55017
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN478TENGolfHD.png" group-title="India",IN297:Flix
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/54975
-#EXTINF:-1 group-title="India",IN:-----|Punjabi|--------------------------------
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/72296
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0015AABPunjabi.png" group-title="India",IN001:5 AAB (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1964
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN0039xTashanPunjabi.png" group-title="India",IN003:9x Tashan (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1962
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN007AkaalPunjabi.png" group-title="India",IN007:Akaal (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1958
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN015ChakdePunjabi.png" group-title="India",IN015:Chakde (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1950
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN016HamdardTVPunjabi.png" group-title="India",IN016:Hamdard TV (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1949
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN033MH1MusicPunjabi.png" group-title="India",IN033:GURBANI TV (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1932
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN042PTCChakdePunjabi.png" group-title="India",IN042:PTC Chakde (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1923
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN043PTCPunjabi.png" group-title="India",IN043:PTC (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1922
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN051SikhPunjabi.png" group-title="India",IN051:Sikh (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1914
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN090ZeePunjabi.png" group-title="India",IN090:Zee (Punjabi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1875
-#EXTINF:-1 group-title="India",IN:-----|Hindi|--------------------------------
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/72297
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN058SonySabHindi.png" group-title="India",IN058:Sony Sab (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1907
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN064SonyHindi.png" group-title="India",IN064:SONY MIX(Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1901
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN123Tez.png" group-title="India",IN123:TLC (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55330
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN131Zee24Taas.png" group-title="India",IN131:Animal Planet (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55322
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN140CartoonNetworkHindi.png" group-title="India",IN140:Cartoon Network (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55313
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN163SonyBBCEarthHD.png" group-title="India",IN163:ABP NEWS (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55290
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN191ETVKannadaNews.png" group-title="India",IN191:Bhakti Sagar (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55262
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN202FaktMarathi.png" group-title="India",IN202:SONY MIX (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55251
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN226StarSports1HINDI.png" group-title="India",IN226:Star Sports 1 (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55227
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN229IBN7.png" group-title="India",IN229:ZEE RAJASTHAN (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55224
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN232INNewsMP.png" group-title="India",IN232:Discovery Channel (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55221
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN243JaihindTV.png" group-title="India",IN243:Discovery Science (Hindi)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55210
-#EXTINF:-1 group-title="India",IN:-----|Tamil|--------------------------------
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66706
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN013CaptainNewsTamil.png" group-title="India",IN013:Captain News (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1952
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN028JayaMaxTamil.png" group-title="India",IN028:Jaya Max (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1937
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN029JayaTamil.png" group-title="India",IN029:Jaya (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1936
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN030KTVTamil.png" group-title="India",IN030:KTV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1935
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN041PolimerNewsTamil.png" group-title="India",IN041:Polimer News (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1924
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN044PuthiyaThalaimuraiTamil.png" group-title="India",IN044:Puthiya Thalaimurai (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1921
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN045RAJDigitalPlusTamil.png" group-title="India",IN045:RAJ Digital Plus (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1920
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN046RAJMusixTamil.png" group-title="India",IN046:RAJ Musix (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1919
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN047RAJNews24x7Tamil.png" group-title="India",IN047:RAJ News 24x7 (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1918
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN048RAJTamil.png" group-title="India",IN048:RAJ (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1917
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN052ZeeTamil.png" group-title="India",IN052:Zee (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1913
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN074SunTamil.png" group-title="India",IN074:Sun (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/1891
-#EXTINF:-1 group-title="India",IN143:Angel Tv (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55310
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN159ColorsTamilHD.png" group-title="India",IN159:Colors HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55294
-#EXTINF:-1 group-title="India",IN171:VIJAY HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55282
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN180DY365.png" group-title="India",IN180:Channel UFX (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/55273
-#EXTINF:-1 group-title="India",IN298:IBC (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66707
-#EXTINF:-1 group-title="India",IN300:NEWS18 (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66708
-#EXTINF:-1 group-title="India",IN301:NEWS 7 (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66709
-#EXTINF:-1 group-title="India",IN302:Raj Digital Plus (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66710
-#EXTINF:-1 group-title="India",IN303:SUN MUSIC (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66711
-#EXTINF:-1 group-title="India",IN304:7startv (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66712
-#EXTINF:-1 group-title="India",IN305:Aditya TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66713
-#EXTINF:-1 group-title="India",IN306:DD Podhigai (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66714
-#EXTINF:-1 group-title="India",IN307:EET TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66715
-#EXTINF:-1 group-title="India",IN308:Jaya Max USA (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66716
-#EXTINF:-1 group-title="India",IN310:Jaya Movies (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66717
-#EXTINF:-1 group-title="India",IN311:JAYA TV US (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66718
-#EXTINF:-1 group-title="India",IN312:KTV US (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66719
-#EXTINF:-1 group-title="India",IN313:KTV HD (UK) (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66720
-#EXTINF:-1 group-title="India",IN314:madha TV (Spirtual) (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66721
-#EXTINF:-1 group-title="India",IN315:madhatv HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66722
-#EXTINF:-1 group-title="India",IN316:Makkal TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66723
-#EXTINF:-1 group-title="India",IN319:STAR VIJAY UK (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66724
-#EXTINF:-1 group-title="India",IN321:SUN NEWS (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66725
-#EXTINF:-1 group-title="India",IN322:SUN TV US (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66726
-#EXTINF:-1 group-title="India",IN323:Sun TV HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66727
-#EXTINF:-1 group-title="India",IN324:WIN TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66728
-#EXTINF:-1 group-title="India",IN325Athavan TV ( Tamil )
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66729
-#EXTINF:-1 group-title="India",IN326:Captain TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66730
-#EXTINF:-1 group-title="India",IN327:Dheeran TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66731
-#EXTINF:-1 group-title="India",IN328:GTV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66732
-#EXTINF:-1 group-title="India",IN329:Sun Life (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66733
-#EXTINF:-1 group-title="India",IN330:Lotus News (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66734
-#EXTINF:-1 group-title="India",IN331:POLIMER TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66735
-#EXTINF:-1 group-title="India",IN332:SUN MUSIC (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66736
-#EXTINF:-1 group-title="India",IN334:7S Music (Tamil )
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66737
-#EXTINF:-1 group-title="India",IN335:Kalaignar TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66738
-#EXTINF:-1 group-title="India",IN336:Visionternational (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66739
-#EXTINF:-1 group-title="India",IN337:Zee HD (US) (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66740
-#EXTINF:-1 group-title="India",IN338:7Startv HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66741
-#EXTINF:-1 group-title="India",IN339:Aastha HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66742
-#EXTINF:-1 group-title="India",IN340:Angel Tv HD (Europe) (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66743
-#EXTINF:-1 group-title="India",IN341:SUN LIFE (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66744
-#EXTINF:-1 group-title="India",IN342:Blessing TV HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66745
-#EXTINF:-1 group-title="India",IN343:Discovery Channel (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66746
-#EXTINF:-1 group-title="India",IN344:ETV Bharat Keralam (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66747
-#EXTINF:-1 group-title="India",IN345:History 18 (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66748
-#EXTINF:-1 group-title="India",IN346:IBC Bakthi HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66749
-#EXTINF:-1 group-title="India",IN347:IBC canada HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66750
-#EXTINF:-1 group-title="India",IN348:IBC Comedy (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66751
-#EXTINF:-1 group-title="India",IN349:IBC Music HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66752
-#EXTINF:-1 group-title="India",IN350:IBC Siluvai HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66753
-#EXTINF:-1 group-title="India",IN351:IBC Tamil HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66754
-#EXTINF:-1 group-title="India",IN352:Kairali News HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66755
-#EXTINF:-1 group-title="India",IN353:Kalaignar TV News (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66756
-#EXTINF:-1 group-title="India",IN354:Sigaram TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66757
-#EXTINF:-1 group-title="India",IN355:Travelxp (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66758
-#EXTINF:-1 group-title="India",IN356:Sony BBC Earth HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66759
-#EXTINF:-1 group-title="India",IN357:Star Vijay HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66760
-#EXTINF:-1 group-title="India",IN358:Tamilvision HD (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66761
-#EXTINF:-1 group-title="India",IN359:Puthuyugam (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66762
-#EXTINF:-1 group-title="India",IN360:Vendhar TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66763
-#EXTINF:-1 group-title="India",IN361:Adithya TV (Tamil)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66764
-#EXTINF:-1 group-title="India",IN:-----|Malayalam|--------------------------------
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66765
-#EXTINF:-1 group-title="India",IN362:DD Malayalam (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66766
-#EXTINF:-1 group-title="India",IN363:ACV News HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66767
-#EXTINF:-1 group-title="India",IN364:ACV TV (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66768
-#EXTINF:-1 group-title="India",IN365:ACV Utsav Plus (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66769
-#EXTINF:-1 group-title="India",IN366:ACV Utsav HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66770
-#EXTINF:-1 group-title="India",IN367:Asianet sd (Hotstar) (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66771
-#EXTINF:-1 group-title="India",IN368:Asianet Movies HD (Hotstar) (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66772
-#EXTINF:-1 group-title="India",IN369:Asianet Plus HD (Hotstar) (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66773
-#EXTINF:-1 group-title="India",IN370:Asianet News HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66774
-#EXTINF:-1 group-title="India",IN372:24News HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66775
-#EXTINF:-1 group-title="India",IN373:Amrita TV (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66776
-#EXTINF:-1 group-title="India",IN375:Garshom TV HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66777
-#EXTINF:-1 group-title="India",IN376:Janam TV HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66778
-#EXTINF:-1 group-title="India",IN377:Flowers TV (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66779
-#EXTINF:-1 group-title="India",IN378:Jeevan TV (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66780
-#EXTINF:-1 group-title="India",IN379:Kappa TV (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66781
-#EXTINF:-1 group-title="India",IN380:Kaumudi HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66782
-#EXTINF:-1 group-title="India",IN381:News 18 Kerala HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66783
-#EXTINF:-1 group-title="India",IN382:Power Vesion HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66784
-#EXTINF:-1 group-title="India",IN383:Reporter News (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66785
-#EXTINF:-1 group-title="India",IN384:Safari HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66786
-#EXTINF:-1 group-title="India",IN385:WE TV HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66787
-#EXTINF:-1 group-title="India",IN386:Harvest TV HD (Spiritual) (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66788
-#EXTINF:-1 group-title="India",IN387:Kairali Arabia (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66789
-#EXTINF:-1 group-title="India",IN388:Kairali HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66790
-#EXTINF:-1 group-title="India",IN389:Mathrubhumi News HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66791
-#EXTINF:-1 group-title="India",IN390:Mazhavil Manorama HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66792
-#EXTINF:-1 group-title="India",IN391:Shalom HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66793
-#EXTINF:-1 group-title="India",IN392:Shekinah TV HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66794
-#EXTINF:-1 group-title="India",IN393:SURYA TV FHD (IND)* (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66795
-#EXTINF:-1 group-title="India",IN394:SURYA TV FHD (UK)* (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66796
-#EXTINF:-1 group-title="India",IN395:M4 Malayalam TV (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66797
-#EXTINF:-1 group-title="India",IN396:UBL HD (Malayalam)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66798
-#EXTINF:-1 group-title="India",IN:-----|Telugu|--------------------------------
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66799
-#EXTINF:-1 group-title="India",IN397:10TV News HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66800
-#EXTINF:-1 group-title="India",IN398:99TV HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66801
-#EXTINF:-1 group-title="India",IN399:AASTHA HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66802
-#EXTINF:-1 group-title="India",IN400:ABN News (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66803
-#EXTINF:-1 group-title="India",IN401:AP24x7 News (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66804
-#EXTINF:-1 group-title="India",IN402:Bhakthi TV (Spirtual) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66805
-#EXTINF:-1 group-title="India",IN403:Classics (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66806
-#EXTINF:-1 group-title="India",IN404:CVR English(lk) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66807
-#EXTINF:-1 group-title="India",IN405:CVR News (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66808
-#EXTINF:-1 group-title="India",IN406:CVR OM HD(lk) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66809
-#EXTINF:-1 group-title="India",IN407:CVR Health(lk) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66810
-#EXTINF:-1 group-title="India",IN409:GEMINI LIFE HD (UK) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66811
-#EXTINF:-1 group-title="India",IN410:GEMINI MOVIES (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66812
-#EXTINF:-1 group-title="India",IN411:GEMINI MOVIES (UK) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66813
-#EXTINF:-1 group-title="India",IN413:GEMINI TV (UK) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66814
-#EXTINF:-1 group-title="India",IN414:Hmtv (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66815
-#EXTINF:-1 group-title="India",IN415:MAA HD (VIP) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66816
-#EXTINF:-1 group-title="India",IN416:Mahaa News (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66817
-#EXTINF:-1 group-title="India",IN417:Cartoon Network HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66818
-#EXTINF:-1 group-title="India",IN418:NTV HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66819
-#EXTINF:-1 group-title="India",IN419:Prime9 News HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66820
-#EXTINF:-1 group-title="India",IN420:Raj News HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66821
-#EXTINF:-1 group-title="India",IN421:Sakshi TV (News) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66822
-#EXTINF:-1 group-title="India",IN422:Sony Yay (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66823
-#EXTINF:-1 group-title="India",IN423:Raj Musix (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66824
-#EXTINF:-1 group-title="India",IN424:Star Maa  (Tatasky) (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66825
-#EXTINF:-1 group-title="India",IN425:Star Maa Movies (Hotstar)(Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66826
-#EXTINF:-1 group-title="India",IN426:SVBC (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66827
-#EXTINF:-1 group-title="India",IN427:SVBCTTD HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66828
-#EXTINF:-1 group-title="India",IN428:BhAGATI TV (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66829
-#EXTINF:-1 group-title="India",IN429:Sony BBC Earth (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66830
-#EXTINF:-1 group-title="India",IN430:TV5 NEWS (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66831
-#EXTINF:-1 group-title="India",IN431:TV9 (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66832
-#EXTINF:-1 group-title="India",IN432:TV9 NEWS HD (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66833
-#EXTINF:-1 group-title="India",IN433:V6 News (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66834
-#EXTINF:-1 group-title="India",IN434:Vissa TV (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66835
-#EXTINF:-1 group-title="India",IN435:Zee Ditto (Telugu)
-http://a2.okbetter.club:8880/xzyc24m0127/RVbrgXbJhP/66836
-#EXTINF:-1 group-title="India",###### VOD India ######
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/28713.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/8GmgujWl1zOfU6XS21TtRKMa0HM_small.jpg" group-title="India",IN: 12-12-1950
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43091.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/riCV2r7lXaQUpIwIkvToxp7I1LO_small.jpg" group-title="India",IN: 15 August
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43092.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/kOFMtkRdAQhxV4qkKvFGFmc7n9L_small.jpg" group-title="India",IN: 377 Normal
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43093.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/eVp6UkQ7s7jf3kqJbpvajqCeegW_small.jpg" group-title="India",IN: Aayirathil Oruvan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43094.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/1lfpxWPKRN9GOCdad5XhdxWuS3U_small.jpg" group-title="India",IN: Aiyaary
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43095.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/qIC1cMFhlyHw3xKoJd2Z049iOON_small.jpg" group-title="India",IN: Aksar 2
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43096.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/ci7XXDlTuSk9jqyeWuY5VVDEtgy_small.jpg" group-title="India",IN: Annadurai
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43097.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/d0uYeUwNNg9DvFqb2JSFyhFRuaE_small.jpg" group-title="India",IN: Aramm
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43098.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/_small.jpg" group-title="India",IN: Ardaas
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43099.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/dqyDZ3B5R7OrTjioigQ7kqt20eH_small.jpg" group-title="India",IN: Aruvi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43100.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7Xm7x3VKPsld8N3OCVu3krbPAFu_small.jpg" group-title="India",IN: Aval
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43101.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cSeNkoe7ZC84jTa6HKdLEzUsSYW_small.jpg" group-title="India",IN: Baadshaho
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43102.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/gwX6mKjfxBYbq46CoIpcxIAmIMx_small.jpg" group-title="India",IN: Baaghi 2
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43103.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fAVCr7rfEKbQzre4ETCFXNDV6U3_small.jpg" group-title="India",IN: Bajrangi Bhaijaan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43104.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/yAFKLVpX6evIHKo4YzR68VjzB5P_small.jpg" group-title="India",IN: Balakrishnudu
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43105.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zaG3qyFycMzmeRTWWOCvtMpfBRA_small.jpg" group-title="India",IN: Bareilly Ki Barfi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43106.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/khs7fRGs6aNkSRgz0coMUX3MCeT_small.jpg" group-title="India",IN: Bhai Mera Big Brother
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43107.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/a0hFV8G0ofyPgPEjVcYrueuxFex_small.jpg" group-title="India",IN: Bharat Ane Nenu
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43108.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zVh5RNjIcM3Wggp0Be3fGdLxz75_small.jpg" group-title="India",IN: Bhoomi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43109.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/9W0XFc83y1EXDdINFj8fq4pGhsD_small.jpg" group-title="India",IN: Bogan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43110.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cWXVQMhOZpMPFsR7Ea2dGO7aEwH_small.jpg" group-title="India",IN: Bombairiya
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43111.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/_small.jpg" group-title="India",IN: Brahma.com
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43112.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/1RmUfX3LcS897GhUWrWp5nRADo4_small.jpg" group-title="India",IN: Cabaret
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43113.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/u9gFA0zStW68ZIx0bbd5KH0FabR_small.jpg" group-title="India",IN: Canada Di Flight
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43114.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/dwweMX2MqYOYGg2Z2lZ8f6uopcg_small.jpg" group-title="India",IN: Chef
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43115.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/svNTQCVc7tzQrh20WJBiiOLbQEq_small.jpg" group-title="India",IN: Chunkzz
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43116.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/_small.jpg" group-title="India",IN: Daak Ghar
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43117.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zDJ4GVch7Iw2i0j84ceoElRUZUR_small.jpg" group-title="India",IN: Daddy
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43118.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/5PDT64gtbmH10gK5AYR7LZh5PQk_small.jpg" group-title="India",IN: Dangal
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43119.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/jLtmYSV8ohoiS06oD6Fw9nACo6D_small.jpg" group-title="India",IN: Daringbaaz 3
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43120.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2FaPivBBSY2C3qQUjfy446SdEbZ_small.jpg" group-title="India",IN: Dhairyam
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43121.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX_small.jpg" group-title="India",IN: Dj Duvvada Jagannadham
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43122.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX_small.jpg" group-title="India",IN: Dost Tussi Great Ho
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43123.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7d8GLneJkF81q1POdK7VUrjWafX_small.jpg" group-title="India",IN: Drishyam
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43124.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/_small.jpg" group-title="India",IN: Dulla Bhatti Wala
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43125.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/s0yuDUKiAJNl5XkO9OT4aFwnA3I_small.jpg" group-title="India",IN: Dynamite
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43126.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/s0yuDUKiAJNl5XkO9OT4aFwnA3I_small.jpg" group-title="India",IN: Ek Paheli Maya (Mayuri)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43127.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/nqI6k6oar35Ryu4p9IqUSqy8bjY_small.jpg" group-title="India",IN: Ek Tha Tiger
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43128.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7YaAWEIRZRGVPzepDIb5aCXq40X_small.jpg" group-title="India",IN: En Aaloda Seruppa Kaanom
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43129.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/rS0F2EtWqEExY0G8oN7jCVtsMoz_small.jpg" group-title="India",IN: English Padam
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43130.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/4nOjXXYW67BEdSdJYMKdXySSLn7_small.jpg" group-title="India",IN: Ezra
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43131.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/Atgw2Ds1wcARZBXLq1Eoi3Ui70h_small.jpg" group-title="India",IN: Firangi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43132.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2jvrBEFx5O8E3NJYuuRRPnGhtEN_small.jpg" group-title="India",IN: Firebrand
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43133.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/w5HQO1j9ghZZYbaXXM6k8SD5RGr_small.jpg" group-title="India",IN: Fraud Saiyaan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43134.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/c23cJsFyIw2OE3n4GXvrlzCKCxp_small.jpg" group-title="India",IN: Fukrey Returns
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43135.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/wxLPTBI22yLoySyiZOKOQWCGouz_small.jpg" group-title="India",IN: Ghoda
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43136.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/wxLPTBI22yLoySyiZOKOQWCGouz_small.jpg" group-title="India",IN: Golimaar 2
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43137.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/kGx26PL1v658T8XbOk5MfmNpHU3_small.jpg" group-title="India",IN: Golmaal Again
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43138.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/jvacZc9CVkjCA25ds4UqnOWbSpV_small.jpg" group-title="India",IN: Half Girlfriend
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43139.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/wZRo2gg0jiUTvhY7upFmhBwthIz_small.jpg" group-title="India",IN: Haseena Parkar
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43140.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/aPZOt9BR3gnk1RyX924ySq81S4P_small.jpg" group-title="India",IN: Hello
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43141.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/5kzB7YtvhBvkBywubJ81Qw0Lt8r_small.jpg" group-title="India",IN: Hichki
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43142.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/5kzB7YtvhBvkBywubJ81Qw0Lt8r_small.jpg" group-title="India",IN: Honey Bee 2.5
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43143.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/gRi7lTBBiRBhn9aJID5MdldcJEJ_small.jpg" group-title="India",IN: Ice Age Collision Course
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43144.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/mqCcMRxOtuRsALcEg7cMgyLLeN4_small.jpg" group-title="India",IN: Indrajith
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43145.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/nb9fc9INMg8kQ8L7sE7XTNsZnUX_small.jpg" group-title="India",IN: Insidious The Last Key
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43146.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/kltQM5bRsYqM5QqGCmqCUGtHYTE_small.jpg" group-title="India",IN: Inspiration
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43147.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/riEnSoGJ1WubamfrNpj4N0wVdoW_small.jpg" group-title="India",IN: Ittefaq
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43148.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/5h0tSW3lWCH5mXi78EfyhqUjeGO_small.jpg" group-title="India",IN: Jab Harry Met Sejal
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43149.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/aAvF8e5w4xETbx8TUesCnVFJqSF_small.jpg" group-title="India",IN: Jagga Jasoos
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43150.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/yiJaVE8GH7UiWESRuN014mcxQjE_small.jpg" group-title="India",IN: Jawaan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43151.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/yiJaVE8GH7UiWESRuN014mcxQjE_small.jpg" group-title="India",IN: Kaafi Filmy
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43152.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/osCsDcfTUVcecKwAoQWPYVLSLqv_small.jpg" group-title="India",IN: Kaalakaandi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43153.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/gZvbj1ZeUNi4i96HzSseyWRFWUs_small.jpg" group-title="India",IN: Kaali
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43154.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7hEp8nZxLPM24RhF8U52ckDHM0U_small.jpg" group-title="India",IN: Kerry on Kutton
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43155.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7hEp8nZxLPM24RhF8U52ckDHM0U_small.jpg" group-title="India",IN: Khaidi No150
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43156.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2mjpDoz8mmJ4qcCPXa4P902wDoq_small.jpg" group-title="India",IN: Khamiyaza
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43157.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/bBkEgslOY5Sn2AeT79iZSq1K1mJ_small.jpg" group-title="India",IN: Ko 2
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43158.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/mFJSlO0aVP9trIHlYy5boybv3Rc_small.jpg" group-title="India",IN: Kodiveeran
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43159.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zVAWGm77s06fxAGnvCSjgKhqztK_small.jpg" group-title="India",IN: Laavaan Phere
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43160.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zRJdn3SG99riTXzd9QSNxQSt5s6_small.jpg" group-title="India",IN: Ladies First
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43161.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/xX7Plx8yT2hL7jjvQGUYiBfUAww_small.jpg" group-title="India",IN: Legend of The Naga Pearls
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43162.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/pKYXWp0rERMiBPivLJDiUkBTGID_small.jpg" group-title="India",IN: Maayavan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43163.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/kbTzlKKnZHZ8RYulknO4xqQOJ24_small.jpg" group-title="India",IN: Manikarnika The Queen of Jhansi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43164.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/SinXDdHN9BeXzjjyBqVc19AecQ_small.jpg" group-title="India",IN: Matchbox
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43165.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/65Q1wpRPZ5E3UVUv2V5JBbJQCcj_small.jpg" group-title="India",IN: Mersal
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43166.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/oLik4b7KCP1NcKEOlbnSBfd4VfW_small.jpg" group-title="India",IN: Middle Class Abbayi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43167.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/tfq9N7lqWWXqK6U9h76ogf3Gaq9_small.jpg" group-title="India",IN: Mirror Game
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43168.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/clbObnVTVZnaji1EZHG6Yep3lxr_small.jpg" group-title="India",IN: Mirza Juuliet
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43169.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/x5X1X20BsyQgMHymQtLkfCfqMSU_small.jpg" group-title="India",IN: Mom
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43170.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/gzBdH7LawD5ma2IPuGJ2M9zd1Ic_small.jpg" group-title="India",IN: Monsoon Shootout
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43171.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cSqLPtE4fkn2wrpxlw5xXraHDNH_small.jpg" group-title="India",IN: Mubarakan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43172.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fppJ1vhGWRTpW6XjeAu7tjOZZ55_small.jpg" group-title="India",IN: Mukhtiar Chadha
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43173.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/p1tdHXmGGLc8o8kTImZi5iPXcu3_small.jpg" group-title="India",IN: Munna Michael
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43174.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/my9myOkG9IgyL3NZawjigGQKgxF_small.jpg" group-title="India",IN: My Father Iqbal
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43175.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/yoDlDqwp83p8mc0sylVPlbKnVDy_small.jpg" group-title="India",IN: Newton
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43176.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/z8CROq3TvM9gmY8MpxQDH3lWgkd_small.jpg" group-title="India",IN: Nikka Zaildar
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43177.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/nHUBPUwXkHinq2rIXnnCHsPylD1_small.jpg" group-title="India",IN: October
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43178.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fRe1bvYOZ3qYlhgQzbBKLSKLRhX_small.jpg" group-title="India",IN: Padmaavat
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43179.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/kHyoFs6BIJJwCaFlWu6P5Bnpa70_small.jpg" group-title="India",IN: Padman
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43180.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/udzDC53hSlfXijBL2Hee2gikxeD_small.jpg" group-title="India",IN: Palli Paruvathile
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43181.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/3jAtqBrfY7mPuvhqTan3H0B0JAz_small.jpg" group-title="India",IN: Papanasam
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43182.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/wVo9fVQsH5TnWUTfNVTFR5JpZbb_small.jpg" group-title="India",IN: Pari
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43183.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/qkJwhSrSyLWFlViZQp5dJdssyHq_small.jpg" group-title="India",IN: Patel Ki Punjabi Shaadi
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43184.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/bW0IAL2W7QyU2D6AgCpDSj2r42s_small.jpg" group-title="India",IN: Phullu
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43185.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/yhEV5OAGpSyDYlr1V10VRo1kcz7_small.jpg" group-title="India",IN: Pokkiri Simon
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43186.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/yhEV5OAGpSyDYlr1V10VRo1kcz7_small.jpg" group-title="India",IN: Policewale Ki Jung
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43187.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/4Q7GIOvM1q5f6JbP6yLjbToak7M_small.jpg" group-title="India",IN: Project Z
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43188.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/yKEKZ0uTpKm743xsPOuhrfTBLL2_small.jpg" group-title="India",IN: Qarib Qarib Singlle
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43189.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/lbpETE00BtXQ3LVoYlamrfsTEnF_small.jpg" group-title="India",IN: Raajakumara
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43190.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/AbTxYS1cU3IYjIWbJ3YcWRwX8jt_small.jpg" group-title="India",IN: Rabb Da Radio
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43191.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/zFYFUfnoXWxeA3n7v4acEqgk2iE_small.jpg" group-title="India",IN: Raees
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43192.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/qx3m9mRUmDZUVQeAe7CAzFX7xCB_small.jpg" group-title="India",IN: Raid
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43193.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/hbNmaqJcjg4ChZ5vvfQpNzizoiR_small.jpg" group-title="India",IN: Richie
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43194.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/bbxtz5V0vvnTDA2qWbiiRC77Ok9_small.jpg" group-title="India",IN: Rings
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43195.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/9skq1v5Uj1fQKCqyrADG55MEuQP_small.jpg" group-title="India",IN: Rubaru Roshni
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43196.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cfolFtWDJzQUH2QGVpkVaSYmw8n_small.jpg" group-title="India",IN: Rudra Tandava
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43197.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/jtJn34WPTFqanSRcnTCGv3i5xlk_small.jpg" group-title="India",IN: Saat Uchakkey
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43198.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/hIbYaQMFQYjLwVwXKxUEhsOqmJj_small.jpg" group-title="India",IN: Sakka Podu Podu Raja
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43199.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/bv7gs8t3NoZYdGOBuseeNJYUSoj_small.jpg" group-title="India",IN: Sathya
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43200.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fkTeziNtc0uwE899uI1hlMOEdZL_small.jpg" group-title="India",IN: Secret Superstar
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43201.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/vAmQWDiN9tL67JOZWNp3qqHmfjB_small.jpg" group-title="India",IN: Selfie Raja
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43202.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/aMIVJ6Djbmsba1ybQTbNpgIVEF4_small.jpg" group-title="India",IN: Shaadi Mein Zaroor Aana
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43203.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/dmR73AmgGXljBuB45p3OgyBO6F6_small.jpg" group-title="India",IN: Shamantakamani
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43204.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/iFlF5HzHdLJpudDKEPMHZY6Pz2e_small.jpg" group-title="India",IN: Shivalinga
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43205.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2vqW0VNvaQYSarPQtqHTRkOKQq8_small.jpg" group-title="India",IN: Shubh Mangal Saavdhan
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43206.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/p8GJqm8fqU0LxWVBuVlntbh6WPV_small.jpg" group-title="India",IN: Simmba
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43207.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/wc28w6EW198EB5NHKmmfDpiOkqf_small.jpg" group-title="India",IN: Simran
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43208.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/meJjODI5tTJAvyxhmnDyW8qLPRj_small.jpg" group-title="India",IN: Sketch
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43209.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/f3bbSyGk3V6mbJLF2nFTMOdpa4Z_small.jpg" group-title="India",IN: Soni
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43210.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/1nsVHEVKOag8syzGtqnlYlbMQdh_small.jpg" group-title="India",IN: Sonu Ke Titu Ki Sweety
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43211.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7GshLtpEKtT99kaNFMtfqVUhFjD_small.jpg" group-title="India",IN: Speedunnodu
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43212.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/q2Zi6JTS3K9V0kQz3HB9LPEHF16_small.jpg" group-title="India",IN: Spyder
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43213.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/4x0pb2e7q5fwXCmKvCTBKQZDLtx_small.jpg" group-title="India",IN: Sukumarudu
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43214.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/4Vpyxye05G0r8Wvy0ZDY7jQMQra_small.jpg" group-title="India",IN: Tera Intezaar
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43215.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/jiQXfi9Ig1fzrWLjLfEwodwaNZj_small.jpg" group-title="India",IN: The Crew
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43216.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/l9UroYNeIfNFdW1apIwOw4jYEUX_small.jpg" group-title="India",IN: The Great Father
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43217.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/oq1qOjcPKcbAK7SGb4mOxvdEw2r_small.jpg" group-title="India",IN: The House Next Door
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43218.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/iDWer2VFikupdqDc7d5sxCWZ3gW_small.jpg" group-title="India",IN: The Promise
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43219.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/ssYIBfoEj3eX46ARQNaJZP8qpxL_small.jpg" group-title="India",IN: Theeran Adhigaaram Ondru
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43220.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/snwOxyhly7D6MaYcRRcINeAYPIY_small.jpg" group-title="India",IN: Thiruttu Payale 2
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43221.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cLa8lCiZyepoRPqAjnOhOvLPuyN_small.jpg" group-title="India",IN: Tiger
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43223.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/l9CoDQIJPA81rwEHyvn3FZ01Rjj_small.jpg" group-title="India",IN: Tiger Zinda Hai
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43222.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/8YUBka56t4HcHLVMGnGA1WizpMV_small.jpg" group-title="India",IN: Toilet Ek Prem Katha
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43224.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/tegQNllG9HfRWexDIkK8wMwC6ce_small.jpg" group-title="India",IN: Total Dhamaal
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43225.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/hy7Ka19Vx2TwXA6OWZSe4XuMDlK_small.jpg" group-title="India",IN: Tubelight
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43226.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/apJrDHDKbWGC1Ur4HkSobCoQyDL_small.jpg" group-title="India",IN: Tutak Tutak Tutiya
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43227.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/clDNjWJ6luqDBYsY4o82XfVhjr0_small.jpg" group-title="India",IN: Uruthikol
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43228.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2G17C0aDyKT98s4KZZCvyJ7w3cZ_small.jpg" group-title="India",IN: Velaikkaran
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43229.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/jDZLd4fgnpmtvNdGDE2c0asfkO9_small.jpg" group-title="India",IN: Viceroys House
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43230.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/ob9YxdzRu5lfKgz0PNrlL45dorf_small.jpg" group-title="India",IN: Vikram Vedha
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43231.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/cKkl7CS5cQ0BbAqLTUFZiMTF5RF_small.jpg" group-title="India",IN: Villain
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43232.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fBRhsW7HbPUTFQA3wkZeNNLJips_small.jpg" group-title="India",IN: Vimaanam
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43233.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fBRhsW7HbPUTFQA3wkZeNNLJips_small.jpg" group-title="India",IN: Vivegam The Real Hero
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43234.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/3cyqShU9PGMtTpQgnV7Um3nEOmk_small.jpg" group-title="India",IN: Waiting
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/43235.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/4fa80ea05dc3147eb322bf8f5dfbc3e9.jpg" group-title="India",Article 15 (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65439.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/055cd7cc258ac50c9b23ca9c7e92239e.jpg" group-title="India",Baaghi 3 (2020)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65440.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/1ad3854a7c9bad81bc1696e12e1b2bc1.jpg" group-title="India",Badla (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65441.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/1ee6209c269ec2bf2d60e82a599e9e91.jpg" group-title="India",Badnaam Gali (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65442.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/aa41ba28dba3cdbfd9b7eb12babda281.jpg" group-title="India",Batla House (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65443.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/c95e65f10301d566187cc5319a426ab3.jpg" group-title="India",Battalion 609 (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65444.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/ba84a6692505d2923fdd7cab3b6df1f3.jpg" group-title="India",Bharat (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65445.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/f9a86bde803ed6cf2fc03441ed66f18d.jpg" group-title="India",Chhichhore (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65447.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/d7791c4e8046922c7ef8b5e41d12cfd0.jpg" group-title="India",Chicken Curry Law (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65448.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/d7791c4e8046922c7ef8b5e41d12cfd0.jpg" group-title="India",Daaka.Punjabi.1GB.X264.AC-3.
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65449.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Darbar (1958)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65450.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Dhwaja_2019_Hindi_Dubbed_South
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65451.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Dia
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65452.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/64e93cb6f13b203c931443381fdf3800.jpg" group-title="India",Dream Girl (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65453.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/d3f187fb99e68df0962aae420b2a049f.jpg" group-title="India",Drive (2011)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65454.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",English Medium (1999)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65455.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Gone.Kesh.Hindi.1080p.WEB-DL.x264.AAC
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65456.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="India",Gumnaami.Bengali.1080p.WEB-DL.x264.AAC
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65457.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/431d179921ee586d406ad40f7e55245b.jpg" group-title="India",Hacked (2020)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65458.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/dad365d6e6ebaa6601db032adedd7f88.jpg" group-title="India",Housefull 4 (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65460.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/dad365d6e6ebaa6601db032adedd7f88.jpg" group-title="India",Hume.Tumse.Py.r.Kitna
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65461.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/085e2dad3819460dc914ae8d48af420d.jpg" group-title="India",Jabariya Jodi (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65462.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/5ff0262df26bb0a7bf4faea40c48ef9b.jpg" group-title="India",Jhalki (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65463.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/d46104d22b3b8e53a3d2868b3e4a2ba1.jpg" group-title="India",Jhootha Kahin Ka (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65464.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/ae2917abf15b37edc526f8bdefbed9cb.jpg" group-title="India",Judgementall Hai Kya (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65465.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/6db700b3e583225e485850c7a2ae7a5e.jpg" group-title="India",Junglee (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65466.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2e86c9595e9b6473e697cfd93ce75ae0.jpg" group-title="India",Kesari (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65467.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/2e86c9595e9b6473e697cfd93ce75ae0.jpg" group-title="India",Khandani.Shafakhana
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65468.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/ba8518513e20ab0c0af0de46cf420c21.jpg" group-title="India",Laal Kaptaan (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65469.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fffb953b17a53e88937be8775c6a783a.jpg" group-title="India",Made in China (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65471.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fffb953b17a53e88937be8775c6a783a.jpg" group-title="India",Mal.l
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65472.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/c038d2af11fdd34855b16f08a23025d3.jpg" group-title="India",Marjaavaan (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65474.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/c038d2af11fdd34855b16f08a23025d3.jpg" group-title="India",Mehandi.Circus.Tamil.Untouched.WEB.DL.1080p.AVC.AAC
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65475.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/c9ed325a6c17b2e2d2314df94fcb65e8.jpg" group-title="India",Mission Mangal (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65476.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7502915e7e7a09e5d31e116b41bd9ae5.jpg" group-title="India",Pal Pal Dil Ke Paas (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65477.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/3ee0b2fce64cad1ce252b60be7553ba2.jpg" group-title="India",Pati Patni Aur Woh (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65478.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/3ee0b2fce64cad1ce252b60be7553ba2.jpg" group-title="India",Prasstahnam
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65479.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/88eac09d2f3756981347f873a396f4f0.jpg" group-title="India",Saand Ki Aankh (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65480.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/b01b4d6dad903d1bc915ca6e6c93de32.jpg" group-title="India",Satellite Shankar (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65481.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/9887d6f8aec8e7edd83a33e98c21251f.jpg" group-title="India",Satyameva Jayate (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65482.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fbb28ebaae3f8cc1919280f4f84865a2.jpg" group-title="India",Section 375 (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65483.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/fbb28ebaae3f8cc1919280f4f84865a2.jpg" group-title="India",Sharmaji.k.lag.gaye
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65484.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/f4f667d2cc76971db8b50f9f5fb1f03b.jpg" group-title="India",Shubh Mangal Zyada Saavdhan (2020)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65485.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/f4f667d2cc76971db8b50f9f5fb1f03b.jpg" group-title="India",Special.Telugu.Untouched.1080p.AMZN.WEB-DL.AVC.E-Subs.DrC
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65486.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/8a9d46a3158210ed58818ba84bbe98d9.jpg" group-title="India",Tarzan II (2005)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65488.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/c1c1dfc54460b359c8d7e2a34b7a5b9b.jpg" group-title="India",The Pool (2018)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65490.avi
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/7175bcae9a79cad7906130c9775f2a91.jpg" group-title="India",The Sky Is Pink (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65491.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/891f7be6b9d1598986368ca360950169.jpg" group-title="India",The Zoya Factor (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65492.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/09d6a243b1f188b15f97d930b0e89f2d.jpg" group-title="India",Total Dhamaal (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65493.mp4
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/57917dc150def830166bc789e3b33bb5.jpg" group-title="India",Ujda Chaman (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65494.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/57917dc150def830166bc789e3b33bb5.jpg" group-title="India",Vajra.Kavachadhara.Govinda.Telugu.Untouched.1080p.AMZN.WEB-DL.AVC.E-Subs.DrC
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65495.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/efa23904d7bbedba265ad73b852807a8.jpg" group-title="India",War (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65496.mkv
-#EXTINF:-1 tvg-logo="http://mu01.iflyhd.com:8880/images/e5ad46635666972d0ce0a525fd646ac8.jpg" group-title="India",Why Cheat India (2019)
-http://a2.okbetter.club:8880/movie/xzyc24m0127/RVbrgXbJhP/65497.mp4
+#EXTINF:-1 group-title="Scandinavia",|FI| VIASAT SPORT PREMIUM HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28958
+#EXTINF:-1 group-title="Scandinavia",|FI| VIASAT HOCKEY HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28957
+#EXTINF:-1 group-title="Scandinavia",|FI| NATIONAL GEOGRAPHIC HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28956
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE SPORT 2 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28955
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE SPORT 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28954
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE SPORT 1 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28953
+#EXTINF:-1 group-title="Scandinavia",|FI| JIM
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28952
+#EXTINF:-1 group-title="Scandinavia",|FI| MTV3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28951
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE MAX HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28950
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE MAX FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28949
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE JUNIORI
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28948
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE HITS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28947
+#EXTINF:-1 group-title="Scandinavia",|FI| C MORE FIRST FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28946
+#EXTINF:-1 group-title="Scandinavia",|FI| NICK JR. NORDIC
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28945
+#EXTINF:-1 group-title="Scandinavia",|FI| DISNEY CHANNEL
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28944
+#EXTINF:-1 group-title="Scandinavia",|FI| VIASAT HISTORY
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28943
+#EXTINF:-1 group-title="Scandinavia",|FI| VIASAT EXPLORER
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28942
+#EXTINF:-1 group-title="Scandinavia",|FI| DISCOVERY CHANNEL
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28941
+#EXTINF:-1 group-title="Scandinavia",|FI| SUB
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28940
+#EXTINF:-1 group-title="Scandinavia",|FI| NELONEN
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28939
+#EXTINF:-1 group-title="Scandinavia",|FI| LIV
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28938
+#EXTINF:-1 group-title="Scandinavia",|FI| SF-KANALEN  [MULTI-SUB]
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28937
+#EXTINF:-1 group-title="Scandinavia",|FI| YLE TV FEM
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28936
+#EXTINF:-1 group-title="Scandinavia",|FI| YLE TV2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28935
+#EXTINF:-1 group-title="Scandinavia",|FI| YLE TV1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28934
+#EXTINF:-1 group-title="Scandinavia",Strive Sport 3 FHD [Live During Events Only]
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28933
+#EXTINF:-1 group-title="Scandinavia",Strive Sport 2 FHD [Live During Events Only]
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28932
+#EXTINF:-1 group-title="Scandinavia",Strive Sport 1 FHD [Live During Events Only]
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28931
+#EXTINF:-1 group-title="Scandinavia",|DK| ZEE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28930
+#EXTINF:-1 group-title="Scandinavia",|SW| TV3 SPORT HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28927
+#EXTINF:-1 group-title="Scandinavia",|SW| EUROSPORT 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28926
+#EXTINF:-1 group-title="Scandinavia",|SW| EUROSPORT 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28925
+#EXTINF:-1 group-title="Scandinavia",|SW| ESPORTSTV HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28924
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT HOCKEY HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28923
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT MOTOR HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28922
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT FOTBOLL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28921
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT SPORT PREMIUM HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28920
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT SPORT HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28919
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE LIVE 5 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28918
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE LIVE 4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28917
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE LIVE 3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28916
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE LIVE 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28915
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE LIVE HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28914
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE HOCKEY HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28913
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE GOLF HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28912
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE FOTBOLL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28911
+#EXTINF:-1 group-title="Scandinavia",|SW| SPORTKANALEN HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28910
+#EXTINF:-1 group-title="Scandinavia",|SW| MTV ROCKS INTERNATIONAL
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28909
+#EXTINF:-1 group-title="Scandinavia",|SW| MTV LIVE HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28908
+#EXTINF:-1 group-title="Scandinavia",|SW| MTV HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28907
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT FILM PREMIERE HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28906
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT FILM ACTION HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28905
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT FILM FAMILY
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28904
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT FILM HITS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28903
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT SERIES HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28902
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE HITS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28901
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE FIRST HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28900
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE STARS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28899
+#EXTINF:-1 group-title="Scandinavia",|SW| C MORE SERIES HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28898
+#EXTINF:-1 group-title="Scandinavia",|SW| TV4 FILM
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28897
+#EXTINF:-1 group-title="Scandinavia",|SW| NICKTOONS
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28896
+#EXTINF:-1 group-title="Scandinavia",|SW| NICKELODEON HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28895
+#EXTINF:-1 group-title="Scandinavia",|SW| NICK JR. HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28894
+#EXTINF:-1 group-title="Scandinavia",|SW| CARTOON NETWORK
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28893
+#EXTINF:-1 group-title="Scandinavia",|SW| DISNEY XD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28892
+#EXTINF:-1 group-title="Scandinavia",|SW| DISNEY JUNIOR
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28891
+#EXTINF:-1 group-title="Scandinavia",|SW| DISNEY CHANNEL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28890
+#EXTINF:-1 group-title="Scandinavia",|SW| BOOMERANG
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28889
+#EXTINF:-1 group-title="Scandinavia",|SW| INVESTIGATION DISCOVERY
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28888
+#EXTINF:-1 group-title="Scandinavia",|SW| TRAVEL CHANNEL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28887
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT NATURE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28886
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT HISTORY
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28885
+#EXTINF:-1 group-title="Scandinavia",|SW| HISTORY HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28884
+#EXTINF:-1 group-title="Scandinavia",|SW| NATIONAL GEOGRAPHIC HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28883
+#EXTINF:-1 group-title="Scandinavia",|SW| NAT GEO WILD HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28882
+#EXTINF:-1 group-title="Scandinavia",|SW| NGC HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28881
+#EXTINF:-1 group-title="Scandinavia",|SW| DISCOVERY WORLD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28879
+#EXTINF:-1 group-title="Scandinavia",|SW| DISCOVERY SCIENCE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28878
+#EXTINF:-1 group-title="Scandinavia",|SW| DISCOVERY HD SHOWCASE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28877
+#EXTINF:-1 group-title="Scandinavia",|SW| DISCOVERY CHANNEL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28876
+#EXTINF:-1 group-title="Scandinavia",|SW| ANIMAL PLANET HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28875
+#EXTINF:-1 group-title="Scandinavia",|SW| BBC EARTH
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28874
+#EXTINF:-1 group-title="Scandinavia",|SW| BBC BRIT
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28873
+#EXTINF:-1 group-title="Scandinavia",|SW| VIASAT EXPLORE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28872
+#EXTINF:-1 group-title="Scandinavia",|SW| SVTB SVT24 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28871
+#EXTINF:-1 group-title="Scandinavia",|SW| SJUAN HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28870
+#EXTINF:-1 group-title="Scandinavia",|SW| SF KANALEN
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28869
+#EXTINF:-1 group-title="Scandinavia",|SW| KUNSKAPSKANALEN HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28868
+#EXTINF:-1 group-title="Scandinavia",|SW| HORSE & COUNTRY TV
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28867
+#EXTINF:-1 group-title="Scandinavia",|SW| EXPRESSEN TV
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28866
+#EXTINF:-1 group-title="Scandinavia",|SW| COMEDY CENTRAL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28865
+#EXTINF:-1 group-title="Scandinavia",|SW| ATG LIVE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28864
+#EXTINF:-1 group-title="Scandinavia",|SW| TLC HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28863
+#EXTINF:-1 group-title="Scandinavia",|SW| FOX HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28862
+#EXTINF:-1 group-title="Scandinavia",|SW| VH1
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28861
+#EXTINF:-1 group-title="Scandinavia",|SW| KANAL 9 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28860
+#EXTINF:-1 group-title="Scandinavia",|SW| KANAL 5 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28859
+#EXTINF:-1 group-title="Scandinavia",|SW| KANAL 11 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28858
+#EXTINF:-1 group-title="Scandinavia",|SW| TV8
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28857
+#EXTINF:-1 group-title="Scandinavia",|SW| TV6 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28856
+#EXTINF:-1 group-title="Scandinavia",|SW| TV4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28855
+#EXTINF:-1 group-title="Scandinavia",|SW| TV4 GULD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28854
+#EXTINF:-1 group-title="Scandinavia",|SW| TV4 FAKTA
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28853
+#EXTINF:-1 group-title="Scandinavia",|SW| TV3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28852
+#EXTINF:-1 group-title="Scandinavia",|SW| TV12 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28851
+#EXTINF:-1 group-title="Scandinavia",|SW| TV10
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28850
+#EXTINF:-1 group-title="Scandinavia",|SW| SVT2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28849
+#EXTINF:-1 group-title="Scandinavia",|SW| SVT1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28848
+#EXTINF:-1 group-title="Scandinavia",|SW| CNN
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28847
+#EXTINF:-1 group-title="Scandinavia",|SW| CNBC
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28846
+#EXTINF:-1 group-title="Scandinavia",|SW| BBC WORLD NEWS
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28845
+#EXTINF:-1 group-title="Scandinavia",|SW| AL JAZEERA ENGLISH
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28844
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT GOLF HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28843
+#EXTINF:-1 group-title="Scandinavia",|DK| ANIMAL PLANET
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28842
+#EXTINF:-1 group-title="Scandinavia",|DK| BEIN SPORTS ENGLISH HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28841
+#EXTINF:-1 group-title="Scandinavia",|DK| TV3 SPORT2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28840
+#EXTINF:-1 group-title="Scandinavia",|DK| TV3 SPORT1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28839
+#EXTINF:-1 group-title="Scandinavia",|DK| TV2 SPORT HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28838
+#EXTINF:-1 group-title="Scandinavia",|DK| EuroSport 1  HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28837
+#EXTINF:-1 group-title="Scandinavia",|DK| EURO SP 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28836
+#EXTINF:-1 group-title="Scandinavia",|DK| MTV HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28835
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT SERIE HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28834
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT HITS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28833
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT FILM PREMIER HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28832
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT FAMILY HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28831
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT ACTION HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28830
+#EXTINF:-1 group-title="Scandinavia",|DK| C MORE STARS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28829
+#EXTINF:-1 group-title="Scandinavia",|DK| C MORE SERIES HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28828
+#EXTINF:-1 group-title="Scandinavia",|DK| C MORE HITS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28827
+#EXTINF:-1 group-title="Scandinavia",|DK| C MORE FIRST HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28826
+#EXTINF:-1 group-title="Scandinavia",|DK| NICKELODEON HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28825
+#EXTINF:-1 group-title="Scandinavia",|DK| NICK JR HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28824
+#EXTINF:-1 group-title="Scandinavia",|DK| NICK TOONS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28823
+#EXTINF:-1 group-title="Scandinavia",|DK| DISNEY XD HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28822
+#EXTINF:-1 group-title="Scandinavia",|DK| DISNEY JUNIORX HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28821
+#EXTINF:-1 group-title="Scandinavia",|DK| DISNEY CH HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28820
+#EXTINF:-1 group-title="Scandinavia",|DK| BOOMERANG HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28819
+#EXTINF:-1 group-title="Scandinavia",|DK| TRAVEL CH HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28817
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT HISTORY HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28816
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT EXPLORER HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28815
+#EXTINF:-1 group-title="Scandinavia",|DK| NAT GEO WILD HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28814
+#EXTINF:-1 group-title="Scandinavia",|DK| NAT GEO HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28813
+#EXTINF:-1 group-title="Scandinavia",|DK| DISC WORLD HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28812
+#EXTINF:-1 group-title="Scandinavia",|DK| DISC SCIENCE HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28811
+#EXTINF:-1 group-title="Scandinavia",|DK| DISCOVERY CH HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28810
+#EXTINF:-1 group-title="Scandinavia",|DK| Investigation Discovery
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28809
+#EXTINF:-1 group-title="Scandinavia",|DK| BBC BRIT HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28808
+#EXTINF:-1 group-title="Scandinavia",|DK| VIASAT EXP HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28807
+#EXTINF:-1 group-title="Scandinavia",|DK| KANAL5 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28806
+#EXTINF:-1 group-title="Scandinavia",|DK| KANAL4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28805
+#EXTINF:-1 group-title="Scandinavia",|DK| DR RAM HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28803
+#EXTINF:-1 group-title="Scandinavia",|DK| DR RAMASJANG
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28802
+#EXTINF:-1 group-title="Scandinavia",|DK| DK4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28800
+#EXTINF:-1 group-title="Scandinavia",|DK| DISC EXTRA HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28799
+#EXTINF:-1 group-title="Scandinavia",|DK| CANAL9 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28798
+#EXTINF:-1 group-title="Scandinavia",|DK| 6EREN HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28797
+#EXTINF:-1 group-title="Scandinavia",|DK| TV3 PLUS
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28796
+#EXTINF:-1 group-title="Scandinavia",|DK| TLC HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28795
+#EXTINF:-1 group-title="Scandinavia",|DK| COMEDY CENTRAL HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28794
+#EXTINF:-1 group-title="Scandinavia",|DK| TV2 Midt Vest HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28793
+#EXTINF:-1 group-title="Scandinavia",|DK| VH1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28792
+#EXTINF:-1 group-title="Scandinavia",|DK| TV4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28791
+#EXTINF:-1 group-title="Scandinavia",|DK| TV3 PLUS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28790
+#EXTINF:-1 group-title="Scandinavia",|DK| TV3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28789
+#EXTINF:-1 group-title="Scandinavia",|DK| TV3
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28788
+#EXTINF:-1 group-title="Scandinavia",|DK| TV2 ZULU HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28787
+#EXTINF:-1 group-title="Scandinavia",|DK| TV2 LORI HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28786
+#EXTINF:-1 group-title="Scandinavia",|DK| TV2 FRI HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28785
+#EXTINF:-1 group-title="Scandinavia",|DK| TV2 CHARLI HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28784
+#EXTINF:-1 group-title="Scandinavia",|DK| BLOOMBERG HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28783
+#EXTINF:-1 group-title="Scandinavia",|DK| BBC WORLD HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28782
+#EXTINF:-1 group-title="Scandinavia",|DK| CNBC HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28781
+#EXTINF:-1 group-title="Scandinavia",|DK| CNN HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28780
+#EXTINF:-1 group-title="Scandinavia",|DK| TV2 NEWS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28779
+#EXTINF:-1 group-title="Scandinavia",|DK| DR2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28777
+#EXTINF:-1 group-title="Scandinavia",|DK| DR1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/28776
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: kanal10
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89116
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: kkr
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89117
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: OPPNA KANALEN
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89118
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: STORTINGET
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89119
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More First HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89120
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Stars HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89121
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Series HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89122
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Hits HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89123
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Live HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89124
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Live 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89125
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Live 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89126
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Live 3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89127
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Live 4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89128
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Film Family
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89129
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Series HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89130
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Film Action HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89131
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Film Premiere HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89132
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Explore
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89133
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat History HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89134
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Nature HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89135
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: SVT 24 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89136
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: SVT1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89137
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: SVT2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89138
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Kanal 5 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89139
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Kanal 9 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89140
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Kanal 11 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89141
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89142
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV4 Fakta
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89143
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV4 FILM
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89144
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89145
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV6 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89146
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV10 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89147
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV 12 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89148
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Kunskapskanalen HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89149
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Sportkanalen
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89150
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Sjuan
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89151
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TLC Sverige HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89152
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV4 Guld
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89153
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: MTV Sweden
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89154
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Discovery Channel HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89155
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Discovery Science
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89156
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Discovery ID
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89157
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Fox HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89158
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Animal Planet HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89159
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: SportKanalen FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89160
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Disney XD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89161
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: NickToons
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89162
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Disney Junior HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89163
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Disney Channels HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89164
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Cartoon Network
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89165
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Nick JR B
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89166
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Nickelodeon -s1
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89167
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Boomerang
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89168
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Golf FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89169
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Hockey HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89170
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Fotboll HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89171
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: C More Sport HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89172
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Sport
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89173
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Sport Premium HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89174
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Hockey HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89175
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Fotboll HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89176
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Golf SD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89177
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Viasat Motor HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89178
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: TV 3 Sport HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89179
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: EuroSport 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89180
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: EuroSport 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89181
+#EXTINF:-1 group-title="Scandinavia",Swᴸ: Strive Sport HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89182
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV3 MAX
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89235
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: KANAL 4
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89236
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Disney Junior HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89237
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Disney XD HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89238
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: NICK JR
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89239
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: ANIMAL PLANET
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89240
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: National Geographic Wild HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89241
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: National Geographic HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89242
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: BBC BRITH
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89243
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: BBC EARTH
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89244
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: BOOMERANG
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89245
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: C MORE FIRST
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89246
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: C MORE HITS HD (DK)
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89247
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: C MORE SERIES (DK)
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89248
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: C MORE STARS HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89249
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: CARTOON NETWORK
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89250
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Danske Klassikker 1
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89251
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: MOVIE TIME 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89252
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: MOVIE TIME 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89253
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: MOVIE TIME 3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89254
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Movie Time 4 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89255
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: DANTOTO RACING LIVE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89256
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: DISCOVERY SCIENCE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89257
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: MTV
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89258
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VH1 DANMARK
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89259
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT EXPLORE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89260
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT FILM ACTION
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89261
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT FILM FAMILLY
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89262
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT FILM HITS
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89263
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT FILM PREMIERA
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89264
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT HISTORY
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89265
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT NATURE
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89266
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT SERIES
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89267
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Xee
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89268
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Discovery Channel HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89269
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: DR 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89270
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: DR 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89271
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: DK 4
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89272
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: DR Ramasjang
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89273
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 Fri
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89274
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 Charlie HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89275
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 HD (D)
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89276
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 News HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89277
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 Zula HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89278
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 Bornholm
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89279
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 Lorry
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89280
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89281
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV3 Puls
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89282
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Investigation Discovery
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89283
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Paramount Network
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89284
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Nickelodeon (D)
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89285
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Kanal 5 HD (D)
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89286
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: CANAL9 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89287
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Discovery HD (D)
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89288
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TLC Danmark
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89289
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: Disney Channel HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89290
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: 6`eren HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89291
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV 2 SPORT HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89292
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: EuroSport 2 FHD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89293
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: TV3 SPORT 1
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89294
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: VIASAT GOLF
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89295
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: EuroSport 1
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89296
+#EXTINF:-1 group-title="Scandinavia",Danᴸ: EuroSport 2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89297
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: Yle TV1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89298
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: Yle TV2 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89299
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: C More Juniori
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89300
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: C More Max HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89301
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: Sub
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89302
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: JIM
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89303
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: liv
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89304
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: MTV3 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89305
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: Nelone
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89306
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: Discovery (F)
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89307
+#EXTINF:-1 group-title="Scandinavia",Fiᴸ: C More Sport 1 HD
+http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/89308
