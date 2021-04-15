@@ -1,12 +1,66 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", EroXXX
+#EXTINF:0 tvg-logo="http://only4.tv/ch/6271.png" group-title="XXX",Eroxxx HD
 http://189.204.177.124:8000/play/a002
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", Venus
-http://2.83.79.71:8080/play/a08y/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", Playboy TV
-http://2.83.79.71:8080/play/a06z/index.m3u8
+http://177.52.221.214:8000/play/a0ey/index.m3u8
+#EXTINF:0 tvg-logo="http://only4.tv/ch/2120.png" group-title="XXX",Playboy TV
+http://177.52.221.214:8000/play/a0ez/index.m3u8
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX",VIVID TV
+http://177.52.221.214:8000/play/a0f0/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", HOT
-http://2.83.79.71:8080/play/a0a4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar_400x400.jpg" group-title="XXX",Visit-X HD (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0 tvg-logo="http://tv.kubtel.ru/tv_icon/candy.jpg" group-title="XXX",Candy HD (18+)
+http://185.52.77.67:8080/Candy/index.m3u8?token=941057740302
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/22738fc4774b3da3b90ab5ac4969780f.png" group-title="XXX",Шелк SILK
+http://194.190.78.91:8080/shelksd/index.m3u8
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/8ee54ec18291ded2ea23acd460300998.png" group-title="XXX",Шелк SILK HD
+http://194.190.78.91:8080/shelk/index.m3u8
+#EXTINF:0 tvg-logo="http://only4.tv/ch/2120.png" group-title="XXX",Playboy TV-2
+http://37.192.145.48:81/udp/239.1.6.39:1234
+#EXTINF:0 tvg-logo="http://peers.tv/data/illustrations/ills/2013/12/05/26444/26444600.png" group-title="XXX",Frenchlover TV
+http://213.59.136.29:55555/udp/239.254.2.50:1234
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img/2249.png" group-title="XXX",Blue hustler
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/1064/index.m3u8
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img/2249.png" group-title="XXX",Blue hustler 2
+http://37.192.145.48:81/udp/239.1.6.36:1234
+#EXTINF:0 tvg-logo="http://epg.it999.ru/img/2527.png" group-title="XXX",O-la-la
+http://37.192.145.48:81/udp/239.1.6.34:1234
+#EXTINF:0 tvg-id="724" tvg-logo="http://epg.cdntv.online/img/724.png" group-title="Adult", Brazzers TV Europe
+http://37.192.145.48:81/udp/239.1.6.40:1234
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2PyGuMcp5GrDEu-4QXwlHGzvwTGkZwnz8Q&usqp=CAU?.png" group-title="XXX",Шалун HD
+http://31.134.132.245:8080/shalun_hd/mpegts
+#EXTINF:0 tvg-logo="http://www.oreol.tv/img/russkaja_noch.jpg" group-title="XXX",Русская ночь (18+)
+http://93.189.224.117:9030/russkayanoch?wowzasessionid=941057740302&time=1463063123262
+#EXTINF:0 tvg-logo="http://www.oreol.tv/img/russkaja_noch.jpg" group-title="XXX",Русская ночь 2 (18+)
+http://37.192.145.48:81/udp/239.1.6.32:1234
+#EXTINF:0 tvg-logo="http://www.frocus.net/images/logotv/private-tv.jpg" group-title="XXX",Private TV HD
+http://213.59.136.29:55555/udp/239.254.2.231:1234
+#EXTINF:0 tvg-logo="http://only4.tv/ch/5506.png" group-title="XXX",Hustler HD
+http://37.192.145.48:81/udp/239.1.6.35:1234
+#EXTINF:0 tvg-logo="http://only4.tv/ch/5506.png" group-title="XXX",Hustler HD 2
+http://213.59.136.29:55555/udp/239.254.2.232:1234
+#EXTINF:0 tvg-logo="http://only4.tv/ch/5508.png" group-title="XXX",Redlight HD
+http://213.59.136.29:55555/udp/239.254.3.93:1234
+#EXTINF:0 tvg-logo="http://only4.tv/ch/5557.png" group-title="XXX",Vivid Red HD
+
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png" group-title="XXX",Pink Erotic
+http://91.212.150.248:80/PinkErotic1/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/erotic2-logo.png" group-title="XXX",Pink Erotic 2
+http://91.212.150.248:80/PinkErotic2/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic3.png" group-title="XXX",Pink Erotic 3
+http://91.212.150.248:80/PinkErotic3/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/erotic4.png" group-title="XXX",Pink Erotic 4
+http://91.212.150.248:80/PinkErotic4/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_5_logo.png" group-title="XXX",Pink Erotic 5
+http://91.212.150.248:80/PinkErotic5/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_6_logo.png" group-title="XXX",Pink Erotic 6
+http://91.212.150.248:80/PinkErotic6/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_7_logo.png" group-title="XXX",Pink Erotic 7
+http://91.212.150.248:80/PinkErotic7/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_8_logo.png" group-title="XXX",Pink Erotic 8
+http://91.212.150.248:80/PinkErotic8/index.m3u8?utcstart=941057740302&version=2
 #EXTINF:0 tvg-id="1063" tvg-logo="http://epg.cdntv.online/img/1063.png" group-title="Adult", Nuart TV
 #EXTGRP:Adult
 http://cdntv.online/low/9mlxywika2/1063.mpeg
