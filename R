@@ -803,6 +803,10 @@ http://200.95.184.42:8000/play/a07k
 http://200.95.184.42:8000/play/foxsports3hd
 #EXTINF:0 tvg-id="ext" group-title="Latino", TNT SPORTS HD
 http://200.95.184.42:8000/play/cdfhd
+#EXTINF:0 tvg-id="ext" group-title="Latino", ESPN DEPORTES
+http://177.52.221.214:8000/play/a0eq/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Latino", NESN
+http://177.52.221.214:8000/play/a0f1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UK", 4Music
 http://37.220.108.9:8000/play/a00v/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UK", 4seven
