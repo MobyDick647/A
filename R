@@ -1265,3 +1265,79 @@ http://212.200.108.8:8000/play/a05s/index.m3u8
 http://212.200.108.8:8000/play/a05x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="EX-YU", Crime & Investigation
 http://212.200.108.8:8000/play/a01m/index.m3u8
+#EXTINF:0 tvg-logo="http://only4.tv/ch/802.png" group-title="Kids",Cartoon Network (ENG)
+http://213.59.136.29:55555/udp/239.254.2.9:1234
+#EXTINF:0 group-title="Movies",VIP HIT SD (ENG)
+http://tv.cdn.xsg.ge/healthtv/mpegts
+#EXTINF:0 tvg-logo="http://only4.tv/ch/2103.png" group-title="Movies",AMEDIA Hit HD (ENG)
+http://212.79.122.24:7125/amedia_hit
+#EXTINF:0 tvg-logo="http://only4.tv/ch/2104.png" group-title="Movies",AMEDIA Premium HD (ENG)
+http://212.79.122.24:7126/amedia_premium
+#EXTINF:0 tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_agsQFvaN.png" group-title="Movies",Sony Turbo (ENG)
+http://212.79.122.24:7009/sony_turbo
+#EXTINF:0 tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_2dBwLv5v.png" group-title="Movies",Sony Sci-Fi (ENG)
+http://212.79.122.24:7173/sony_sci-Fi
+#EXTINF:0 tvg-logo="https://online-red.com/images/tv/retro-music-tv.png" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://teleon.tv/images/logos/novoe_radio.jpg" group-title="Music",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/336dc3965bbbca526b27bb3f6b7a2412.jpg" group-title="Music",1 Music Channel Romania
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.parsatv.com/index_files/channels/persianamusic.jpg" group-title="Music",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:0 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="Music",MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:0 tvg-logo="http://only4.tv/ch/1809.png" group-title="Music",MCM Top
+http://194.190.78.91:8080/mcm/index.m3u8?password=941057740302
+#EXTINF:0 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00312.png" group-title="Music",MTV Live HD
+http://92.119.251.239/udp_mtv_live/video.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_hits_us_global.png" group-title="Music",MTV Hits
+http://80.94.225.126:8080/MTVHits/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://i1.adis.ws/i/dna/CLUBMTV_LOGO_01062020?.jpg" group-title="Music",Club MTV
+http://92.119.251.239/udp_mtv_dance_sd/video.m3u8
+#EXTINF:0 tvg-logo="https://s.glaz.tv/images/logos/tv/big/mtv-russia.jpg" group-title="Music",MTV Russia
+http://212.79.122.24:7116/mtv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1121333969709076481/uCjhSCI6_200x200.jpg" group-title="Music",MTV HD FR
+http://190.2.155.162:8080/mtvfrance/mpegts
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/3f2e98e6821b16a552efe00891f9a118.png" group-title="Music",MTV HITS HD FR
+http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:0 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-viva.png" group-title="Music",VIVA Russia
+http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena1.png" group-title="Sports",Arena Sport 1
+http://212.200.127.243:80/ArenaSport1/index.m3u8
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/1bcf9e654e4ee10f2abedafa3c05e48c.png" group-title="Sports",Arena Sport 1 HD
+http://91.212.150.248:80/ArenaSport1/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena2.png" group-title="Sports",Arena Sport 2
+http://212.200.127.243:80/ArenaSport2/index.m3u8
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b87746579eba3e1f74eb03ba41eb43f9.png" group-title="Sports",Arena Sport 2 HD
+http://91.212.150.248:80/ArenaSport2/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena3.png" group-title="Sports",Arena Sport 3
+http://212.200.127.243:80/ArenaSport3/index.m3u8?bw941057740302.m3u8
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/4a2102a490bcc6d9f4fe765ce380e5dd.png" group-title="Sports",Arena Sport 3 HD
+http://91.212.150.248:80/ArenaSport3/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena4.png" group-title="Sports",Arena Sport 4
+http://212.200.127.243:80/ArenaSport4/index.m3u8
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fb5c198b50cbcb760954e6056fcc62e7.png" group-title="Sports",Arena Sport 4 HD
+http://91.212.150.248:80/ArenaSport4/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena5.png" group-title="Sports",Arena Sport 5
+http://212.200.127.243:80/ArenaSport5/index.m3u8
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/e747226f4ab081a7a42873016c4ed947.png" group-title="Sports",Arena Sport 5 HD
+http://91.212.150.248:80/ArenaSport5/index.m3u8?utcstart=941057740302&version=2
+#EXTINF:0 tvg-logo="http://only4.tv/ch/0162.png" group-title="Sports",Sports 1
+https://46-21-250-207.livesports24.online/sport1ua.m3u8?941586610453a
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/766257175597576192/vzFwXwps_200x200.jpg" group-title="Sports",KOK Fights TV
+http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD720.m3u8
+#EXTINF:0 tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Ffootball+hd+tjk.jpg" group-title="Sports",Футбол Таджикистан
+http://91.240.83.247:8101
+#EXTINF:0 tvg-logo="https://tv.nalench.com/uploads/screenshots/discovery_science.jpg" group-title="Nature",Discovery Science (ENG)
+http://212.79.122.24:7403/Discovery_Science
+#EXTINF:0 tvg-logo="http://only4.tv/ch/0203.png" group-title="Nature",National Geographic HD (ENG)
+http://213.59.136.29:55555/udp/239.254.2.136:1234
+#EXTINF:0 tvg-logo="https://tv.nalench.com/uploads/screenshots/History.jpg" group-title="Nature",History
+http://94.230.240.12:8080/history/index.m3u8
+#EXTINF:0 tvg-logo="https://kis.lt/wp-content/uploads/2020/12/468175cdcaf66214849404e0afb5812c.jpg" group-title="Nature",Viasat Explore CEE HD
+http://195.189.105.158:9050/067/index.m3u8
+#EXTINF:0 tvg-logo="https://kis.lt/wp-content/uploads/2020/12/e3a5231a398effae0ae93d6e5368293b.jpg" group-title="Nature",Viasat Nature CEE HD
+http://195.189.105.158:9050/068/index.m3u8
+#EXTINF:0 tvg-logo="http://only4.tv/ch/807.png" group-title="Crime",Investigation Discovery
+http://213.59.136.29:55555/udp/239.254.2.141:1234
