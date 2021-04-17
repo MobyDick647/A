@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:0 group-title="Adult",Babes TV HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/18
+#EXTINF:0 group-title="Adult",Blue Hustler HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/723
+#EXTINF:0 group-title="Adult",Dorcel HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/593
+#EXTINF:0 group-title="Adult",EXTASY 4K
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/712
+#EXTINF:0 group-title="Adult",Eromania 4K
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/822
+#EXTINF:0 group-title="Adult",Exxxotica HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/648
+#EXTINF:0 group-title="Adult",Jasmin TV HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/19
+#EXTINF:0 group-title="Adult",Penthouse Quickies HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/25
+#EXTINF:0 group-title="Adult",Private TV HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/24
+#EXTINF:0 group-title="Adult",Redlight HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/23
+#EXTINF:0 group-title="Adult",VIVID TV
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/713
+#EXTINF:0 group-title="Adult",Vivid Red TV HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/596
+#EXTINF:0 group-title="Adult",XXL
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/714
+#EXTINF:0 group-title="Adult",О-ля-ля
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/17
 #EXTINF:0 tvg-logo="http://only4.tv/ch/6271.png" group-title="XXX",Eroxxx HD
 http://189.204.177.124:8000/play/a002
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.prodomaines.com/files/08.png" group-title="XXX", Venus
