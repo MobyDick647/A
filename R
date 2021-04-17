@@ -1303,6 +1303,92 @@ http://190.2.155.162:8080/mtvfrance/mpegts
 http://190.2.155.162:8080/mtvhit/mpegts
 #EXTINF:0 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-viva.png" group-title="Music",VIVA Russia
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF:0 group-title="Music",1HD Music Television
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/100
+#EXTINF:0 group-title="Music",4Ever Music HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/639
+#EXTINF:0 group-title="Music",AIVA HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/766
+#EXTINF:0 group-title="Music",BRIDGE TV DELUXE
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/113
+#EXTINF:0 group-title="Music",Bridge TV
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/114
+#EXTINF:0 group-title="Music",Bridge TV Classic
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/627
+#EXTINF:0 group-title="Music",Bridge TV Hits
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/628
+#EXTINF:0 group-title="Music",Bridge TV Русский Хит
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/629
+#EXTINF:0 group-title="Music",Deluxe music HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/673
+#EXTINF:0 group-title="Music",EU Music HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/665
+#EXTINF:0 group-title="Music",Eurodance 90
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/823
+#EXTINF:0 group-title="Music",Europa plus TV HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/116
+#EXTINF:0 group-title="Music",Landscape HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/520
+#EXTINF:0 group-title="Music",MCM Top HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/680
+#EXTINF:0 group-title="Music",MTV 90's
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/519
+#EXTINF:0 group-title="Music",MTV Club
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/119
+#EXTINF:0 group-title="Music",MTV HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/120
+#EXTINF:0 group-title="Music",MTV Hits
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/121
+#EXTINF:0 group-title="Music",MTV Live HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/122
+#EXTINF:0 group-title="Music",Mezzo
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/185
+#EXTINF:0 group-title="Music",Mezzo Live HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/528
+#EXTINF:0 group-title="Music",MusicBox GOLD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/124
+#EXTINF:0 group-title="Music",MusicBox RU HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/129
+#EXTINF:0 group-title="Music",MusicBox UA HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/794
+#EXTINF:0 group-title="Music",O!2 HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/107
+#EXTINF:0 group-title="Music",RU.TV
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/127
+#EXTINF:0 group-title="Music",RU.TV HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/128
+#EXTINF:0 group-title="Music",SONG TV Russia HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/130
+#EXTINF:0 group-title="Music",Stingray CMusic
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/131
+#EXTINF:0 group-title="Music",VH1 European
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/133
+#EXTINF:0 group-title="Music",iConcerts HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/118
+#EXTINF:0 group-title="Music",Жара
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/101
+#EXTINF:0 group-title="Music",Жара HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/636
+#EXTINF:0 group-title="Music",М1 HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/103
+#EXTINF:0 group-title="Music",М2 HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/104
+#EXTINF:0 group-title="Music",Муз ТВ
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/105
+#EXTINF:0 group-title="Music",Музыка первого
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/106
+#EXTINF:0 group-title="Music",Первый Музыкальный RU
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/108
+#EXTINF:0 group-title="Music",Первый музыкальный UHD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/786
+#EXTINF:0 group-title="Music",Страна FM
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/571
+#EXTINF:0 group-title="Music",ТНТ MUSIC
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/109
+#EXTINF:0 group-title="Music",ТНТ MUSIC HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/110
+#EXTINF:0 group-title="Music",Шансон ТВ
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/112
 #EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena1.png" group-title="Sports",Arena Sport 1
 http://212.200.127.243:80/ArenaSport1/index.m3u8
 #EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/1bcf9e654e4ee10f2abedafa3c05e48c.png" group-title="Sports",Arena Sport 1 HD
@@ -1329,6 +1415,180 @@ https://46-21-250-207.livesports24.online/sport1ua.m3u8?941586610453a
 http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD720.m3u8
 #EXTINF:0 tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Ffootball+hd+tjk.jpg" group-title="Sports",Футбол Таджикистан
 http://91.240.83.247:8101
+#EXTINF:0 group-title="Sports",A21
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/721
+#EXTINF:0 group-title="Sports",Bein Sports 1 HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/233
+#EXTINF:0 group-title="Sports",Bein Sports 2 HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/682
+#EXTINF:0 group-title="Sports",Bein Sports 3 HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/813
+#EXTINF:0 group-title="Sports",C More Hockey HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/479
+#EXTINF:0 group-title="Sports",Canal+ Sport HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/568
+#EXTINF:0 group-title="Sports",DAZN 1 HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/686
+#EXTINF:0 group-title="Sports",DAZN 2 HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/687
+#EXTINF:0 group-title="Sports",Eleven Sports 1 HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/703
+#EXTINF:0 group-title="Sports",Eleven Sports 2 HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/704
+#EXTINF:0 group-title="Sports",Eleven Sports 3 HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/705
+#EXTINF:0 group-title="Sports",Eleven Sports 4 HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/706
+#EXTINF:0 group-title="Sports",Eurosport 1
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/333
+#EXTINF:0 group-title="Sports",Eurosport 1 HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/334
+#EXTINF:0 group-title="Sports",Eurosport 2
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/335
+#EXTINF:0 group-title="Sports",Eurosport 2 HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/336
+#EXTINF:0 group-title="Sports",Eurosport 2 North-East HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/674
+#EXTINF:0 group-title="Sports",Eurosport 4K
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/337
+#EXTINF:0 group-title="Sports",Extreme Sports
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/339
+#EXTINF:0 group-title="Sports",FS2 HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/825
+#EXTINF:0 group-title="Sports",Fast FunBox
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/340
+#EXTINF:0 group-title="Sports",Fast FunBox HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/675
+#EXTINF:0 group-title="Sports",Fight Box
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/341
+#EXTINF:0 group-title="Sports",FightBox HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/684
+#EXTINF:0 group-title="Sports",M-1 Global HD
+http://astr4-filmax.tk:8880/play/a001/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Movistar Formula 1 HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/829
+#EXTINF:0 group-title="Sports",NBA TV HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/650
+#EXTINF:0 group-title="Sports",Nova Sport 1 HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/795
+#EXTINF:0 group-title="Sports",Nova Sport 2 HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/796
+#EXTINF:0 group-title="Sports",ORF Sport + HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/707
+#EXTINF:0 group-title="Sports",Rai Sport+ HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/708
+#EXTINF:0 group-title="Sports",Real Madrid TV
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/342
+#EXTINF:0 group-title="Sports",Red Bull TV
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/343
+#EXTINF:0 group-title="Sports",Russian Extreme HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/344
+#EXTINF:0 group-title="Sports",Russian Extreme Ultra 4K
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/345
+#EXTINF:0 group-title="Sports",Setanta Qazaqstan HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/830
+#EXTINF:0 group-title="Sports",Setanta Sports 1 HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/347
+#EXTINF:0 group-title="Sports",Setanta Sports 2 HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/348
+#EXTINF:0 group-title="Sports",Setanta Sports UA HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/349
+#EXTINF:0 group-title="Sports",Setanta Sports+ UA HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/727
+#EXTINF:0 group-title="Sports",Sky Sport 1 HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/718
+#EXTINF:0 group-title="Sports",Sky Sport Bundesliga 1 HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/719
+#EXTINF:0 group-title="Sports",Sky Sport F1 HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/831
+#EXTINF:0 group-title="Sports",Sport 1 HD Lietuva
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/350
+#EXTINF:0 group-title="Sports",Sport Klub HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/709
+#EXTINF:0 group-title="Sports",Sport digital HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/808
+#EXTINF:0 group-title="Sports",SuperTennis HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/351
+#EXTINF:0 group-title="Sports",TV3 Sport 2 HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/353
+#EXTINF:0 group-title="Sports",TV3 Sport HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/352
+#EXTINF:0 group-title="Sports",TVP Sport HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/710
+#EXTINF:0 group-title="Sports",UFC ТВ
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/354
+#EXTINF:0 group-title="Sports",V Sport Hockey HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/799
+#EXTINF:0 group-title="Sports",Viasat Sport
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/355
+#EXTINF:0 group-title="Sports",Viasat Sport HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/356
+#EXTINF:0 group-title="Sports",nSport+ HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/809
+#EXTINF:0 group-title="Sports",Авто 24
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/516
+#EXTINF:0 group-title="Sports",Авто 24 HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/635
+#EXTINF:0 group-title="Sports",Авто плюс HD
+http://astr1-filmax.tk:8880/play/a006/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Belarus 5 HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/296
+#EXTINF:0 group-title="Sports",Бокс ТВ
+http://astr2-filmax.tk:8880/play/a007/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Драйв
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/298
+#EXTINF:0 group-title="Sports",КХЛ
+http://astr3-filmax.tk:8880/play/a04c/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",КХЛ HD
+http://astr4-filmax.tk:8880/play/a009/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",МАТЧ! Страна
+http://astr5-filmax.tk:8880/play/a00g/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",МИР БАСКЕТБОЛА
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/604
+#EXTINF:0 group-title="Sports",Матч!
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/301
+#EXTINF:0 group-title="Sports",Матч! HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/302
+#EXTINF:0 group-title="Sports",Матч! Арена
+http://astr1-filmax.tk:8880/play/a02l/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Арена HD
+http://astr2-filmax.tk:8880/play/a00b/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Игра
+http://astr3-filmax.tk:8880/play/a02m/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Игра HD
+http://astr4-filmax.tk:8880/play/a00d/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Премьер
+http://astr5-filmax.tk:8880/play/a00e/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Премьер HD
+http://astr1-filmax.tk:8880/play/a00f/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Футбол 1
+http://astr2-filmax.tk:8880/play/a00h/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Футбол 1 HD
+http://astr3-filmax.tk:8880/play/a00i/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Футбол 2
+http://astr4-filmax.tk:8880/play/a00j/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Футбол 2 HD
+http://astr5-filmax.tk:8880/play/a00k/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Футбол 3
+http://astr1-filmax.tk:8880/play/a00l/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Матч! Футбол 3 HD
+http://astr2-filmax.tk:8880/play/a00m/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Моторспорт ТВ
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/316
+#EXTINF:0 group-title="Sports",Старт HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/318
+#EXTINF:0 group-title="Sports",Футбол 1 HD
+http://astr3-filmax.tk:8880/play/a02o/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Футбол 2 HD
+http://astr4-filmax.tk:8880/play/a02p/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Футбол 3 HD
+http://astr5-filmax.tk:8880/play/a02r/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Sports",Футбол HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/323
+#EXTINF:0 group-title="Sports",Хоккейный HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/346
+#EXTINF:0 group-title="Sports",Шахтер ТВ
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/803
 #EXTINF:0 tvg-logo="https://tv.nalench.com/uploads/screenshots/discovery_science.jpg" group-title="Nature",Discovery Science (ENG)
 http://212.79.122.24:7403/Discovery_Science
 #EXTINF:0 tvg-logo="http://only4.tv/ch/0203.png" group-title="Nature",National Geographic HD (ENG)
@@ -1341,3 +1601,331 @@ http://195.189.105.158:9050/067/index.m3u8
 http://195.189.105.158:9050/068/index.m3u8
 #EXTINF:0 tvg-logo="http://only4.tv/ch/807.png" group-title="Crime",Investigation Discovery
 http://213.59.136.29:55555/udp/239.254.2.141:1234
+#EXTINF:0 group-title="Science",365 Дней ТВ HD
+http://astr1-filmax.tk:8880/play/a02v/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Science",Animal Planet
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/228
+#EXTINF:0 group-title="Science",Animal Planet HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/229
+#EXTINF:0 group-title="Science",DTX
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/235
+#EXTINF:0 group-title="Science",DTX HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/236
+#EXTINF:0 group-title="Science",Da Vinci
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/230
+#EXTINF:0 group-title="Science",Discovery Channel
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/655
+#EXTINF:0 group-title="Science",Discovery Channel CEE HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/817
+#EXTINF:0 group-title="Science",Discovery Channel HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/231
+#EXTINF:0 group-title="Science",Discovery Science
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/656
+#EXTINF:0 group-title="Science",Discovery Science HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/232
+#EXTINF:0 group-title="Science",Discovery Ultra 4K
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/802
+#EXTINF:0 group-title="Science",Docubox HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/683
+#EXTINF:0 group-title="Science",Food Network
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/239
+#EXTINF:0 group-title="Science",Food Network HD CEE
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/631
+#EXTINF:0 group-title="Science",HDL
+http://astr3-filmax.tk:8880/play/a02d/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 group-title="Science",HGTV HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/781
+#EXTINF:0 group-title="Science",Heritage 4K
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/206
+#EXTINF:0 group-title="Science",History
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/801
+#EXTINF:0 group-title="Science",History 2 HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/240
+#EXTINF:0 group-title="Science",History CEE HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/814
+#EXTINF:0 group-title="Science",History HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/242
+#EXTINF:0 group-title="Science",ID Xtra
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/243
+#EXTINF:0 group-title="Science",Insight UHD 4K
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/523
+#EXTINF:0 group-title="Science",Investigation Discovery CEE HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/815
+#EXTINF:0 group-title="Science",Investigation Discovery HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/245
+#EXTINF:0 group-title="Science",Love Nature 4K
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/632
+#EXTINF:0 group-title="Science",NASA 4K
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/722
+#EXTINF:0 group-title="Science",Nano HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/246
+#EXTINF:0 group-title="Science",National Geographic
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/658
+#EXTINF:0 group-title="Science",National Geographic HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/249
+#EXTINF:0 group-title="Science",National Geographic Wild
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/657
+#EXTINF:0 group-title="Science",National Geographic Wild HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/248
+#EXTINF:0 group-title="Science",Ocean-TV
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/659
+#EXTINF:0 group-title="Science",Outdoor Channel
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/681
+#EXTINF:0 group-title="Science",RTG
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/251
+#EXTINF:0 group-title="Science",RTG HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/252
+#EXTINF:0 group-title="Science",RTД HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/186
+#EXTINF:0 group-title="Science",TLC
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/663
+#EXTINF:0 group-title="Science",TLC HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/253
+#EXTINF:0 group-title="Science",Terra Incognita HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/522
+#EXTINF:0 group-title="Science",Travel Channel
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/255
+#EXTINF:0 group-title="Science",Travel Channel HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/256
+#EXTINF:0 group-title="Science",Travel Guide TV
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/569
+#EXTINF:0 group-title="Science",Travel and Adventure HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/254
+#EXTINF:0 group-title="Science",Viasat Explore
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/257
+#EXTINF:0 group-title="Science",Viasat Explore HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/575
+#EXTINF:0 group-title="Science",Viasat History
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/258
+#EXTINF:0 group-title="Science",Viasat History HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/574
+#EXTINF:0 group-title="Science",Viasat Nature
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/259
+#EXTINF:0 group-title="Science",Viasat Nature  History HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/260
+#EXTINF:0 group-title="Science",Viasat Nature HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/626
+#EXTINF:0 group-title="Science",WOW 4K
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/811
+#EXTINF:0 group-title="Science",Zоопарк
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/261
+#EXTINF:0 group-title="Films",A1
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/447
+#EXTINF:0 group-title="Films",A1 HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/448
+#EXTINF:0 group-title="Films",A2
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/449
+#EXTINF:0 group-title="Films",A2 HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/450
+#EXTINF:0 group-title="Films",AMC
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/606
+#EXTINF:0 group-title="Films",Akudji Tv
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/451
+#EXTINF:0 group-title="Films",Amedia HIT HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/453
+#EXTINF:0 group-title="Films",Amedia Premium HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/454
+#EXTINF:0 group-title="Films",Armenia Comedy
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/455
+#EXTINF:0 group-title="Films",BCUMEDIA HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/614
+#EXTINF:0 group-title="Films",BOLT HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/458
+#EXTINF:0 group-title="Films",Backus TV
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/820
+#EXTINF:0 group-title="Films",Backus TV Страшное
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/821
+#EXTINF:0 group-title="Films",Balticum Platinum HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/592
+#EXTINF:0 group-title="Films",Bollywood HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/457
+#EXTINF:0 group-title="Films",CINEMA
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/440
+#EXTINF:0 group-title="Films",Cinema HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/783
+#EXTINF:0 group-title="Films",Cineman ATV
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/459
+#EXTINF:0 group-title="Films",EPIC DRAMA HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/602
+#EXTINF:0 group-title="Films",ETV+ HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/462
+#EXTINF:0 group-title="Films",FAN HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/463
+#EXTINF:0 group-title="Films",FOX
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/608
+#EXTINF:0 group-title="Films",FOX HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/469
+#EXTINF:0 group-title="Films",FilmBox
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/464
+#EXTINF:0 group-title="Films",FilmBox Arthouse
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/465
+#EXTINF:0 group-title="Films",Filmzone ATV
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/467
+#EXTINF:0 group-title="Films",Filmzone HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/601
+#EXTINF:0 group-title="Films",Filmzone+ HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/468
+#EXTINF:0 group-title="Films",FlixSnip HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/711
+#EXTINF:0 group-title="Films",Flux HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/818
+#EXTINF:0 group-title="Films",Fox Life
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/609
+#EXTINF:0 group-title="Films",Fox Life HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/470
+#EXTINF:0 group-title="Films",Hollywood
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/471
+#EXTINF:0 group-title="Films",Hollywood HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/472
+#EXTINF:0 group-title="Films",KinoJam 1 HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/827
+#EXTINF:0 group-title="Films",KinoJam 2 HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/828
+#EXTINF:0 group-title="Films",Kinoman ATV
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/474
+#EXTINF:0 group-title="Films",Paramount Channel
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/475
+#EXTINF:0 group-title="Films",Paramount Channel HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/476
+#EXTINF:0 group-title="Films",Paramount Comedy
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/477
+#EXTINF:0 group-title="Films",Paramount Comedy HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/478
+#EXTINF:0 group-title="Films",SHOT TV
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/481
+#EXTINF:0 group-title="Films",Sony Channel
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/662
+#EXTINF:0 group-title="Films",Sony Channel Eesti HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/482
+#EXTINF:0 group-title="Films",Sony Channel HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/483
+#EXTINF:0 group-title="Films",Sony Channel Lietuva HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/789
+#EXTINF:0 group-title="Films",Sony Sci-Fi
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/484
+#EXTINF:0 group-title="Films",Sony Turbo
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/485
+#EXTINF:0 group-title="Films",Sony Turbo Eesti HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/486
+#EXTINF:0 group-title="Films",Sony Turbo Lietuva HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/790
+#EXTINF:0 group-title="Films",Spike
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/487
+#EXTINF:0 group-title="Films",Spike HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/488
+#EXTINF:0 group-title="Films",Star Cinema HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/489
+#EXTINF:0 group-title="Films",Star Family HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/490
+#EXTINF:0 group-title="Films",TV1000
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/497
+#EXTINF:0 group-title="Films",TV1000 Action
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/501
+#EXTINF:0 group-title="Films",TV1000 Action CEE HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/804
+#EXTINF:0 group-title="Films",TV1000 Action HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/502
+#EXTINF:0 group-title="Films",TV1000 HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/498
+#EXTINF:0 group-title="Films",TV1000 World Kino
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/503
+#EXTINF:0 group-title="Films",TV1000 Русское кино
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/499
+#EXTINF:0 group-title="Films",TV1000 Русское кино HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/500
+#EXTINF:0 group-title="Films",TV3 Film HD
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/504
+#EXTINF:0 group-title="Films",Trash HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/690
+#EXTINF:0 group-title="Films",UltraHD Cinema 4K
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/716
+#EXTINF:0 group-title="Films",VIP Serial HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/509
+#EXTINF:0 group-title="Films",ViP Comedy CEE HD
+http://ru4-filmax.tk:8080/filmax/chatoprovayderah12/805
+#EXTINF:0 group-title="Films",ViP Comedy HD
+http://ru1-filmax.tk:8080/filmax/chatoprovayderah12/506
+#EXTINF:0 group-title="Films",ViP Megahit CEE HD
+http://ru5-filmax.tk:8080/filmax/chatoprovayderah12/806
+#EXTINF:0 group-title="Films",ViP Megahit HD
+http://ru2-filmax.tk:8080/filmax/chatoprovayderah12/507
+#EXTINF:0 group-title="Films",ViP Premiere CEE HD
+http://ru6-filmax.tk:8080/filmax/chatoprovayderah12/807
+#EXTINF:0 group-title="Films",ViP Premiere HD
+http://ru3-filmax.tk:8080/filmax/chatoprovayderah12/508
+#EXTINF:0 group-title="Films",XX1
+http://ru7-filmax.tk:8080/filmax/chatoprovayderah12/510
+#EXTINF:0 group-title="Films",Zee TV
+http://astr2-filmax.tk:8880/play/a015/index.m3u8?auth=filmax:chatoprovayderah12
+#EXTINF:0 tvg-logo="https://d.top4top.net/p_665a9iax1.jpg" group-title="beIN Movie",beIN Movies1
+http://go.co:8080/avatar/fVkKAhhBlr/1454
+#EXTINF:0 tvg-logo="https://a.top4top.net/p_6652vj5w1.jpg" group-title="beIN Movie",beIN Movies 2
+http://go.co:8080/avatar/fVkKAhhBlr/1455
+#EXTINF:0 tvg-logo="https://f.top4top.net/p_6652hbjz3.jpg" group-title="beIN Movie",beIN Movies3
+http://go.co:8080/avatar/fVkKAhhBlr/1456
+#EXTINF:0 tvg-logo="https://e.top4top.net/p_6657981m2.gif" group-title="beIN Movie",beIN Movies4
+http://go.co:8080/avatar/fVkKAhhBlr/1457
+#EXTINF:0 tvg-logo="https://a.top4top.net/p_779idcah1.jpg" group-title="beIN Movie",beIN  DRAMA1
+http://go.co:8080/avatar/fVkKAhhBlr/3088
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149368339915511.jpg" group-title="beIN Movie",beIN Series
+http://go.co:8080/avatar/fVkKAhhBlr/1692
+#EXTINF:0 group-title="beIN Movie",beIN SERIE2
+http://go.co:8080/avatar/fVkKAhhBlr/3095
+#EXTINF:0 group-title="beIN Movie",beIN Star World  HD
+http://go.co:8080/avatar/fVkKAhhBlr/25896
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-06/149644775535453.png" group-title="beIN Movie",beIN AMC
+http://go.co:8080/avatar/fVkKAhhBlr/2053
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-06/149644877829025.jpg" group-title="beIN Movie",beIN Fox Family
+http://go.co:8080/avatar/fVkKAhhBlr/2054
+#EXTINF:0 group-title="beIN Movie",beIN FOX CRIME
+http://go.co:8080/avatar/fVkKAhhBlr/3562
+#EXTINF:0 group-title="beIN Movie",beIN FOX LIVE
+http://go.co:8080/avatar/fVkKAhhBlr/3561
+#EXTINF:0 tvg-logo="http://store1.up-00.com/2017-09/150608597162451.png" group-title="beIN Movie",MY  CINEMA
+http://go.co:8080/avatar/fVkKAhhBlr/2739
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149368305688031.png" group-title="beIN Movie",beIN Fox Movie
+http://go.co:8080/avatar/fVkKAhhBlr/2008
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-06/149644946780932.png" group-title="beIN Movie",beIN FOX
+http://go.co:8080/avatar/fVkKAhhBlr/2059
+#EXTINF:0 group-title="MBC HD ",AR: MBC IRAQ HD
+http://go.co:8080/avatar/fVkKAhhBlr/27580
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371924977223.jpg" group-title="MBC HD ",AR: MBC1
+http://go.co:8080/avatar/fVkKAhhBlr/19
+#EXTINF:0 group-title="MBC HD ",AR: MBC1 HD
+http://go.co:8080/avatar/fVkKAhhBlr/3536
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371895887164.jpg" group-title="MBC HD ",AR: MBC2
+http://go.co:8080/avatar/fVkKAhhBlr/20
+#EXTINF:0 group-title="MBC HD ",AR: MBC2 HD
+http://go.co:8080/avatar/fVkKAhhBlr/3537
+#EXTINF:0 group-title="MBC HD ",AR: MBC3 HD
+http://go.co:8080/avatar/fVkKAhhBlr/3538
+#EXTINF:0 group-title="MBC HD ",AR: MBC4 HD
+http://go.co:8080/avatar/fVkKAhhBlr/3539
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371924962072.jpg" group-title="MBC HD ",AR: MBC ACTION
+http://go.co:8080/avatar/fVkKAhhBlr/23
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371924962072.jpg" group-title="MBC HD ",AR: MBC ACTION HD
+http://go.co:8080/avatar/fVkKAhhBlr/1911
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371924951231.png" group-title="MBC HD ",AR: MBC DRAMA
+http://go.co:8080/avatar/fVkKAhhBlr/24
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371924951231.png" group-title="MBC HD ",AR: MBC DRAMA HD
+http://go.co:8080/avatar/fVkKAhhBlr/1912
+#EXTINF:0 group-title="MBC HD ",AR: MBC DRAMA HD+
+http://go.co:8080/avatar/fVkKAhhBlr/3542
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-07/150023618930481.jpg" group-title="MBC HD ",AR: MBC PLUS DRAMA
+http://go.co:8080/avatar/fVkKAhhBlr/2169
+#EXTINF:0 group-title="MBC HD ",AR: MBC VARIETY
+http://go.co:8080/avatar/fVkKAhhBlr/3545
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371925012486.png" group-title="MBC HD ",AR: MBC VARITY HD
+http://go.co:8080/avatar/fVkKAhhBlr/703
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371924997645.jpg" group-title="MBC HD ",AR: MBC MASR 1
+http://go.co:8080/avatar/fVkKAhhBlr/651
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/14937194998032.jpg" group-title="MBC HD ",AR: MBC MASR 2
+http://go.co:8080/avatar/fVkKAhhBlr/652
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/14937189589725.jpg" group-title="MBC HD ",AR: MBC bollywod
+http://go.co:8080/avatar/fVkKAhhBlr/1638
+#EXTINF:0 group-title="MBC HD ",AR: MBC bollywood  HD+
+http://go.co:8080/avatar/fVkKAhhBlr/3541
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371982838731.png" group-title="MBC HD ",AR: MBC MAX
+http://go.co:8080/avatar/fVkKAhhBlr/25
+#EXTINF:0 tvg-logo="http://store6.up-00.com/2017-05/149371982838731.png" group-title="MBC HD ",AR: MBC MAX HD
+http://go.co:8080/avatar/fVkKAhhBlr/1913
