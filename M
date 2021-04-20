@@ -507,6 +507,26 @@ http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/1108/index.m3u8
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/1109/index.m3u8
 #EXTINF:0 tvg-id="ftb-hd" group-title="Channels",futbol 2 SD
 http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/1110/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",VIASAT HISTORY HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9061/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",NATURE CHANNEL HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9061/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",A KIDS HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9062/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",CTC KIDS HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9063/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",DORCEL HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9064/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",HUSTLER HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9065/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",REDLIGHT HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9066/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",DORCEL HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9067/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",O-LA-LA HD
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9068/index.m3u8
+#EXTINF:0 tvg-id="ftb-hd" group-title="Channels",A1 AMEDIA
+http://xristo2121.amazzin.pw/iptv/YSZEBB3QYC3TXF/9069/index.m3u8
 #EXTINF:0 tvg-id="1063" tvg-logo="http://epg.cdntv.online/img/1063.png" group-title="Adult", Nuart TV
 #EXTGRP:Adult
 http://cdntv.online/low/9mlxywika2/1063.mpeg
