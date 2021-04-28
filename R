@@ -1,1867 +1,1867 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Comedy Central
+#EXTINF:0 tvg-id="ext" group-title="HUN", Comedy Central
 http://89.216.39.29:8003
-#EXTINF:0 tvg-id="ext" group-title="Hungary", NatGeo Wild
+#EXTINF:0 tvg-id="ext" group-title="HUN", NatGeo Wild
 http://89.216.39.29:8004
-#EXTINF:0 tvg-id="ext" group-title="Hungary", TV2 Comedy
+#EXTINF:0 tvg-id="ext" group-title="HUN", TV2 Comedy
 http://89.216.39.29:8005
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Film+
+#EXTINF:0 tvg-id="ext" group-title="HUN", Film+
 http://89.216.39.29:8006
-#EXTINF:0 tvg-id="ext" group-title="Hungary", TV Paprika
+#EXTINF:0 tvg-id="ext" group-title="HUN", TV Paprika
 http://89.216.39.29:8008
-#EXTINF:0 tvg-id="ext" group-title="Hungary", RTL+
+#EXTINF:0 tvg-id="ext" group-title="HUN", RTL+
 http://89.216.39.29:8009
-#EXTINF:0 tvg-id="ext" group-title="Hungary", RTL II
+#EXTINF:0 tvg-id="ext" group-title="HUN", RTL II
 http://89.216.39.29:8010
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Slager TV
+#EXTINF:0 tvg-id="ext" group-title="HUN", Slager TV
 http://89.216.39.29:8011
-#EXTINF:0 tvg-id="ext" group-title="Hungary", HBO (EN)
+#EXTINF:0 tvg-id="ext" group-title="HUN", HBO (EN)
 http://194.76.186.68:8000/play/a00d
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Hir TV
+#EXTINF:0 tvg-id="ext" group-title="HUN", Hir TV
 http://194.76.186.68:8000/play/a00e
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Jim Jam
+#EXTINF:0 tvg-id="ext" group-title="HUN", Jim Jam
 http://194.76.186.68:8000/play/a00u
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Jim Jam
+#EXTINF:0 tvg-id="ext" group-title="HUN", Jim Jam
 http://194.76.186.68:8000/play/a00f
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Jocky TV
+#EXTINF:0 tvg-id="ext" group-title="HUN", Jocky TV
 http://194.76.186.68:8000/play/a00o
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Jocky TV.
+#EXTINF:0 tvg-id="ext" group-title="HUN", Jocky TV.
 http://194.76.186.68:8000/play/a00r
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Moziverzum
+#EXTINF:0 tvg-id="ext" group-title="HUN", Moziverzum
 http://194.76.186.68:8000/play/a00q
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Moziverzum
+#EXTINF:0 tvg-id="ext" group-title="HUN", Moziverzum
 http://194.76.186.68:8000/play/a00s
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Pesti TV
+#EXTINF:0 tvg-id="ext" group-title="HUN", Pesti TV
 http://194.76.186.68:8000/play/a00k
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Spektrum
+#EXTINF:0 tvg-id="ext" group-title="HUN", Spektrum
 http://194.76.186.68:8000/play/a00l
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Spiler2
+#EXTINF:0 tvg-id="ext" group-title="HUN", Spiler2
 http://194.76.186.68:8000/play/a00t
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Spiler2
+#EXTINF:0 tvg-id="ext" group-title="HUN", Spiler2
 http://194.76.186.68:8000/play/a00p
-#EXTINF:0 tvg-id="ext" group-title="Hungary", Sport1
+#EXTINF:0 tvg-id="ext" group-title="HUN", Sport1
 http://194.76.186.68:8000/play/a00g
-#EXTINF:0 tvg-id="ext" group-title="Hungary", TV Paprika
+#EXTINF:0 tvg-id="ext" group-title="HUN", TV Paprika
 http://194.76.186.68:8000/play/a00m
-#EXTINF:0 tvg-id="ext" group-title="Hungary", TV1000
+#EXTINF:0 tvg-id="ext" group-title="HUN", TV1000
 http://194.76.186.68:8000/play/a00j
-#EXTINF:0 tvg-id="ext" group-title="Hungary", m1
+#EXTINF:0 tvg-id="ext" group-title="HUN", m1
 http://194.76.186.68:8000/play/a00h
-#EXTINF:0 tvg-id="ext" group-title="Hungary", m2 / Petofi
+#EXTINF:0 tvg-id="ext" group-title="HUN", m2 / Petofi
 http://194.76.186.68:8000/play/a00i
-#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="Poland",CANAL+ SPORT 3 HD
+#EXTINF:0 tvg-id="CanalPlusSport3.pl" group-title="PL",CANAL+ SPORT 3 HD
 http://89.160.178.236:8080/play/a042/index.m3u8
-#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="Poland",CANAL+ SPORT 4 HD
+#EXTINF:0 tvg-id="CanalPlusSport4.pl" group-title="PL",CANAL+ SPORT 4 HD
 http://89.160.178.236:8080/play/a044/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="Poland",Discovery Life
+#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="PL",Discovery Life
 http://89.160.178.236:8080/play/a03n/index.m3u8
-#EXTINF:0 tvg-id="hgtv" group-title="Poland",HGTV
+#EXTINF:0 tvg-id="hgtv" group-title="PL",HGTV
 http://89.160.178.236:8080/play/a03j/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Poland",NTL
+#EXTINF:0 tvg-id="ext" group-title="PL",NTL
 http://89.160.178.236:8080/play/a03f/index.m3u8
-#EXTINF:0 tvg-id="NutaTV.pl" group-title="Poland",NUTA TV
+#EXTINF:0 tvg-id="NutaTV.pl" group-title="PL",NUTA TV
 http://89.160.178.236:8080/play/a03c/index.m3u8
-#EXTINF:0 tvg-id="PowerTV.pl" group-title="Poland",POWER TV
+#EXTINF:0 tvg-id="PowerTV.pl" group-title="PL",POWER TV
 http://89.160.178.236:8080/play/a03g/index.m3u8
-#EXTINF:0 tvg-id="TO!TV.pl" group-title="Poland",TO!TV
+#EXTINF:0 tvg-id="TO!TV.pl" group-title="PL",TO!TV
 http://89.160.178.236:8080/play/a03h/index.m3u8
-#EXTINF:0 tvg-id="TVNCNBCBiznes.pl" group-title="Poland",TVN24 BiS
+#EXTINF:0 tvg-id="TVNCNBCBiznes.pl" group-title="PL",TVN24 BiS
 http://89.160.178.236:8080/play/a03y/index.m3u8
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="UK-US", SKY CINEMA PREMIERE
+#EXTINF:0 tvg-id="SkyRSPremiere.uk" group-title="ENG", SKY CINEMA PREMIERE
 http://62.182.80.153:80/Livetv/master/1
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="UK-US", SKY CINEMA ACTION
+#EXTINF:0 tvg-id="SkyRSActionThriller.uk" group-title="ENG", SKY CINEMA ACTION
 http://62.182.80.153:80/Livetv/master/2
-#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="UK-US", SKY CINEMA CRIME & THRILLER
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="ENG", SKY CINEMA CRIME & THRILLER
 http://62.182.80.153:80/Livetv/master/3
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="UK-US", SKY CINEMA FAMILY
+#EXTINF:0 tvg-id="SkyRSFamily.uk" group-title="ENG", SKY CINEMA FAMILY
 http://62.182.80.153:80/Livetv/master/4
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="UK-US", SKY CINEMA DISNEY
+#EXTINF:0 tvg-id="SkyRSDisney.uk" group-title="ENG", SKY CINEMA DISNEY
 http://62.182.80.153:80/Livetv/master/5
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="UK-US", SKY CINEMA DRAMA & ROMANCE
+#EXTINF:0 tvg-id="SkyRSDrama.uk" group-title="ENG", SKY CINEMA DRAMA & ROMANCE
 http://62.182.80.153:80/Livetv/master/6
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="UK-US", SKY CINEMA SCIFI & HORROR
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="ENG", SKY CINEMA SCIFI & HORROR
 http://62.182.80.153:80/Livetv/master/7
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="UK-US", SKY CINEMA COMEDY
+#EXTINF:0 tvg-id="SkyRSComedy.uk" group-title="ENG", SKY CINEMA COMEDY
 http://62.182.80.153:80/Livetv/master/8
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="UK-US", SKY ATLANTIC
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="ENG", SKY ATLANTIC
 http://62.182.80.153:80/Livetv/master/9
-#EXTINF:0 tvg-id="SkyArts1.uk" group-title="UK-US", SKY ARTS
+#EXTINF:0 tvg-id="SkyArts1.uk" group-title="ENG", SKY ARTS
 http://62.182.80.153:80/Livetv/master/10
-#EXTINF:0 tvg-id="ext" group-title="UK-US", SKY WITNESS
+#EXTINF:0 tvg-id="ext" group-title="ENG", SKY WITNESS
 http://62.182.80.153:80/Livetv/master/11
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="UK-US", BT SPORT 1
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="ENG", BT SPORT 1
 http://62.182.80.153:80/Livetv/master/12
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="UK-US", BT SPORT 2
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="ENG", BT SPORT 2
 http://62.182.80.153:80/Livetv/master/13
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="UK-US", BT SPORT ESPN
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="ENG", BT SPORT ESPN
 http://62.182.80.153:80/Livetv/master/14
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="UK-US", BOX NATION
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="ENG", BOX NATION
 http://62.182.80.153:80/Livetv/master/15
-#EXTINF:0 tvg-id="ext" group-title="UK-US", SKY SPORTS RACING
+#EXTINF:0 tvg-id="ext" group-title="ENG", SKY SP RACING
 http://62.182.80.153:80/Livetv/master/16
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="UK-US", SKY SPORTS NEWS
+#EXTINF:0 tvg-id="SkySPNews.uk" group-title="ENG", SKY SP NEWS
 http://62.182.80.153:80/Livetv/master/17
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="UK-US", SKY SPORTS MIX
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="ENG", SKY SP MIX
 http://62.182.80.153:80/Livetv/master/18
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="UK-US", SKY SPORTS GOLF
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="ENG", SKY SP GOLF
 http://62.182.80.153:80/Livetv/master/19
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="UK-US", SKY SPORTS F1
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="ENG", SKY SP F1
 http://62.182.80.153:80/Livetv/master/20
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="UK-US", SKY SPORTS CRICKET
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="ENG", SKY SP CRICKET
 http://62.182.80.153:80/Livetv/master/21
-#EXTINF:0 tvg-id="ext" group-title="UK-US", BEIN SPORT 11 (ENGLISH )
+#EXTINF:0 tvg-id="ext" group-title="ENG", BEIN SPORT 11 (ENGLISH )
 http://62.182.80.153:80/Livetv/master/22
-#EXTINF:0 tvg-id="ext" group-title="UK-US", BEIN SPORT 12 (ENGLISH)
+#EXTINF:0 tvg-id="ext" group-title="ENG", BEIN SPORT 12 (ENGLISH)
 http://62.182.80.153:80/Livetv/master/23
-#EXTINF:0 tvg-id="ext" group-title="UK-US", BEIN SPORT 13 (ENGLISH)
+#EXTINF:0 tvg-id="ext" group-title="ENG", BEIN SPORT 13 (ENGLISH)
 http://62.182.80.153:80/Livetv/master/24
-#EXTINF:0 tvg-id="Quest.uk" group-title="UK-US", QUEST
+#EXTINF:0 tvg-id="Quest.uk" group-title="ENG", QUEST
 http://62.182.80.153:80/Livetv/master/25
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="UK-US", NICKELODEON
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="ENG", NICKELODEON
 http://62.182.80.153:80/Livetv/master/26
-#EXTINF:0 tvg-id="tinypop.uk" group-title="UK-US", Tiny Pop
+#EXTINF:0 tvg-id="tinypop.uk" group-title="ENG", Tiny Pop
 http://62.182.80.153:80/Livetv/master/27
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="UK-US", BOOMERANG
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="ENG", BOOMERANG
 http://62.182.80.153:80/Livetv/master/28
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="UK-US", NICKTOONS
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="ENG", NICKTOONS
 http://62.182.80.153:80/Livetv/master/29
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="UK-US", NICKELODEON
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="ENG", NICKELODEON
 http://62.182.80.153:80/Livetv/master/30
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="UK-US", NICK JR
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="ENG", NICK JR
 http://62.182.80.153:80/Livetv/master/31
-#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="UK-US", NICK JR TOO
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="ENG", NICK JR TOO
 http://62.182.80.153:80/Livetv/master/32
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="UK-US", CARTOONITO
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="ENG", CARTOONITO
 http://62.182.80.153:80/Livetv/master/33
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="UK-US", CARTOON NETWORK
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="ENG", CARTOON NETWORK
 http://62.182.80.153:80/Livetv/master/34
-#EXTINF:0 tvg-id="ESPNHD.us" group-title="UK-US", ESPN
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="ENG", ESPN
 http://62.182.80.153:80/Livetv/master/35
-#EXTINF:0 tvg-id="ESPN2.us" group-title="UK-US", ESPN 2
+#EXTINF:0 tvg-id="ESPN2.us" group-title="ENG", ESPN 2
 http://62.182.80.153:80/Livetv/master/36
-#EXTINF:0 tvg-id="ESPNews.us" group-title="UK-US", ESPN NEWS
+#EXTINF:0 tvg-id="ESPNews.us" group-title="ENG", ESPN NEWS
 http://62.182.80.153:80/Livetv/master/37
-#EXTINF:0 tvg-id="ESPNU.us" group-title="UK-US", ESPN U
+#EXTINF:0 tvg-id="ESPNU.us" group-title="ENG", ESPN U
 http://62.182.80.153:80/Livetv/master/38
-#EXTINF:0 tvg-id="HBOEast.us" group-title="UK-US", HBO
+#EXTINF:0 tvg-id="HBOEast.us" group-title="ENG", HBO
 http://62.182.80.153:80/Livetv/master/39
-#EXTINF:0 tvg-id="ShowtimeE.us" group-title="UK-US", SHOWTIME
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="ENG", SHOWTIME
 http://62.182.80.153:80/Livetv/master/40
-#EXTINF:0 tvg-id="StarzEast.us" group-title="UK-US", STARZ
+#EXTINF:0 tvg-id="StarzEast.us" group-title="ENG", STARZ
 http://62.182.80.153:80/Livetv/master/41
-#EXTINF:0 tvg-id="ext" group-title="UK-US", SONY MOVIE CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="ENG", SONY MOVIE CHANNEL
 http://62.182.80.153:80/Livetv/master/42
-#EXTINF:0 tvg-id="ext" group-title="UK-US", EPIX HITS
+#EXTINF:0 tvg-id="ext" group-title="ENG", EPIX HITS
 http://62.182.80.153:80/Livetv/master/43
-#EXTINF:0 tvg-id="ComedyCentral.us" group-title="UK-US", COMEDY CENTRAL
+#EXTINF:0 tvg-id="ComedyCentral.us" group-title="ENG", COMEDY CENTRAL
 http://62.182.80.153:80/Livetv/master/44
-#EXTINF:0 tvg-id="Discovery.us" group-title="UK-US", DISCOVERY CHANNEL
+#EXTINF:0 tvg-id="Discovery.us" group-title="ENG", DISCOVERY CHANNEL
 http://62.182.80.153:80/Livetv/master/45
-#EXTINF:0 tvg-id="Freeform.us" group-title="UK-US", FREEFORM
+#EXTINF:0 tvg-id="Freeform.us" group-title="ENG", FREEFORM
 http://62.182.80.153:80/Livetv/master/46
-#EXTINF:0 tvg-id="FX.us" group-title="UK-US", FX
+#EXTINF:0 tvg-id="FX.us" group-title="ENG", FX
 http://62.182.80.153:80/Livetv/master/47
-#EXTINF:0 tvg-id="ext" group-title="UK-US", FXM
+#EXTINF:0 tvg-id="ext" group-title="ENG", FXM
 http://62.182.80.153:80/Livetv/master/48
-#EXTINF:0 tvg-id="FXX.us" group-title="UK-US", FXX
+#EXTINF:0 tvg-id="FXX.us" group-title="ENG", FXX
 http://62.182.80.153:80/Livetv/master/49
-#EXTINF:0 tvg-id="History.us" group-title="UK-US", HISTORY CHANNEL
+#EXTINF:0 tvg-id="History.us" group-title="ENG", HISTORY CHANNEL
 http://62.182.80.153:80/Livetv/master/50
-#EXTINF:0 tvg-id="ext" group-title="UK-US", PARAMOUNT CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="ENG", PARAMOUNT CHANNEL
 http://62.182.80.153:80/Livetv/master/51
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="UK-US", BT SPORT 3
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="ENG", BT SPORT 3
 http://62.182.80.153:80/Livetv/master/52
-#EXTINF:0 tvg-id="ext" group-title="Arabic", DUBAI RACING 1 HD
+#EXTINF:0 tvg-id="ext" group-title="AR", DUBAI RACING 1 HD
 http://185.234.111.19:8880/play/a01i
-#EXTINF:0 tvg-id="ext" group-title="Arabic", DUBAI SPORTS 1 HD
+#EXTINF:0 tvg-id="ext" group-title="AR", DUBAI SP 1 HD
 http://185.234.111.19:8880/play/a01g
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dalaa Banat
+#EXTINF:0 tvg-id="ext" group-title="AR", Dalaa Banat
 http://185.234.111.19:8880/play/a049
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dijlah TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Dijlah TV
 http://185.234.111.19:8880/play/a0fz
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Drama Al Badawya
+#EXTINF:0 tvg-id="ext" group-title="AR", Drama Al Badawya
 http://185.234.111.19:8880/play/a06x
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dream2
+#EXTINF:0 tvg-id="ext" group-title="AR", Dream2
 http://185.234.111.19:8880/play/a03r
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai One
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai One
 http://185.234.111.19:8880/play/a020
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai One HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai One HD
 http://185.234.111.19:8880/play/a027
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Racing 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai Racing 2
 http://185.234.111.19:8880/play/a023
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Racing 3
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai Racing 3
 http://185.234.111.19:8880/play/a024
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Sports 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai SP 2
 http://185.234.111.19:8880/play/a021
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Sports 3
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai SP 3
 http://185.234.111.19:8880/play/a022
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai TV
 http://185.234.111.19:8880/play/a01y
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai TV HD
 http://185.234.111.19:8880/play/a01h
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Zaman
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai Zaman
 http://185.234.111.19:8880/play/a026
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KARAMEESH
+#EXTINF:0 tvg-id="ext" group-title="AR", KARAMEESH
 http://185.234.111.19:8880/play/a0cj
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KSA SPORTS 2 HD
+#EXTINF:0 tvg-id="ext" group-title="AR", KSA SP 2 HD
 http://185.234.111.19:8880/play/a04w
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KSA SPORTS1 HD
+#EXTINF:0 tvg-id="ext" group-title="AR", KSA SP1 HD
 http://185.234.111.19:8880/play/a04p
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KSA SPOTS 4
+#EXTINF:0 tvg-id="ext" group-title="AR", KSA SPOTS 4
 http://185.234.111.19:8880/play/a04r
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KSA Sports 3
+#EXTINF:0 tvg-id="ext" group-title="AR", KSA SP 3
 http://185.234.111.19:8880/play/a04v
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC 2
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC 2
 http://185.234.111.19:8880/play/a0ag
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC 3
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC 3
 http://185.234.111.19:8880/play/a0ae
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC 4
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC 4
 http://185.234.111.19:8880/play/a0ad
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC 5
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC 5
 http://185.234.111.19:8880/play/a0ac
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC Action
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC Action
 http://185.234.111.19:8880/play/a0af
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC Bollywood
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC Bollywood
 http://185.234.111.19:8880/play/a0ai
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC Drama
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC Drama
 http://185.234.111.19:8880/play/a0aj
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC MAX
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC MAX
 http://185.234.111.19:8880/play/a0ah
-#EXTINF:0 tvg-id="2MMaroc.ma" group-title="Arabic", 2M Maroc
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="AR", 2M Maroc
 http://149.100.19.226:8001/play/2M_Maroc
-#EXTINF:0 tvg-id="ext" group-title="Arabic", 7BESHA
+#EXTINF:0 tvg-id="ext" group-title="AR", 7BESHA
 http://149.100.19.226:8001/play/7BESHA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", A ONE TV
+#EXTINF:0 tvg-id="ext" group-title="AR", A ONE TV
 http://149.100.19.226:8001/play/A_ONE_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AD DRAMA
+#EXTINF:0 tvg-id="ext" group-title="AR", AD DRAMA
 http://149.100.19.226:8001/play/AD_DRAMA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AD Nat Geo
+#EXTINF:0 tvg-id="ext" group-title="AR", AD Nat Geo
 http://149.100.19.226:8001/play/AD_Nat_Geo
-#EXTINF:0 tvg-id="ADSports1.net.net" group-title="Arabic", AD SPORT 1
+#EXTINF:0 tvg-id="ADSP1.net.net" group-title="AR", AD SPORT 1
 http://149.100.19.226:8001/play/AD_SPORT_1
-#EXTINF:0 tvg-id="ADSports2.net" group-title="Arabic", AD Sport 2
+#EXTINF:0 tvg-id="ADSP2.net" group-title="AR", AD Sport 2
 http://149.100.19.226:8001/play/AD_Sport_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic",AFAQ TV
+#EXTINF:0 tvg-id="ext" group-title="AR",AFAQ TV
 http://149.100.19.226:8001/play/AFAQ_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AFRAH TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AFRAH TV
 http://149.100.19.226:8001/play/AFRAH_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AGHAPY TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AGHAPY TV
 http://149.100.19.226:8001/play/AGHAPY_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AJMAN HD
+#EXTINF:0 tvg-id="ext" group-title="AR", AJMAN HD
 http://149.100.19.226:8001/play/AJMAN_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL AHAD HD
+#EXTINF:0 tvg-id="ext" group-title="AR", AL AHAD HD
 http://149.100.19.226:8001/play/AL_AHAD_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL ALAM
+#EXTINF:0 tvg-id="ext" group-title="AR", AL ALAM
 http://149.100.19.226:8001/play/AL_ALAM
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL ALAM SYRIA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL ALAM SYRIA TV
 http://149.100.19.226:8001/play/AL_ALAM_SYRIA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL Anwar
+#EXTINF:0 tvg-id="ext" group-title="AR", AL Anwar
 http://149.100.19.226:8001/play/AL_Anwar
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL BAIT BAITAK CINEMA
+#EXTINF:0 tvg-id="ext" group-title="AR", AL BAIT BAITAK CINEMA
 http://149.100.19.226:8001/play/AL_BAIT_BAITAK_CINEMA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL DAFRA HD
+#EXTINF:0 tvg-id="ext" group-title="AR", AL DAFRA HD
 http://149.100.19.226:8001/play/AL_DAFRA_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL EMARAT TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL EMARAT TV
 http://149.100.19.226:8001/play/AL_EMARAT_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL ESHRAQ TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL ESHRAQ TV
 http://149.100.19.226:8001/play/AL_ESHRAQ_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL HURRA IRAQ TV SD
+#EXTINF:0 tvg-id="ext" group-title="AR", AL HURRA IRAQ TV SD
 http://149.100.19.226:8001/play/AL_HURRA_IRAQ_TV_SD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL HURRA TV SD
+#EXTINF:0 tvg-id="ext" group-title="AR", AL HURRA TV SD
 http://149.100.19.226:8001/play/AL_HURRA_TV_SD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL JAMAHIRIA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL JAMAHIRIA TV
 http://149.100.19.226:8001/play/AL_JAMAHIRIA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL JANOUBIA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL JANOUBIA TV
 http://149.100.19.226:8001/play/a0sb
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL JANOUBIA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL JANOUBIA TV
 http://149.100.19.226:8001/play/AL_JANOUBIA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL KAWTHAR
+#EXTINF:0 tvg-id="ext" group-title="AR", AL KAWTHAR
 http://149.100.19.226:8001/play/AL_KAWTHAR
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL MAAREF
+#EXTINF:0 tvg-id="ext" group-title="AR", AL MAAREF
 http://149.100.19.226:8001/play/AL_MAAREF
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL MALAKOOT SAT-THE KINGDOM SAT
+#EXTINF:0 tvg-id="ext" group-title="AR", AL MALAKOOT SAT-THE KINGDOM SAT
 http://149.100.19.226:8001/play/THE_KINGDOM_SAT
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL MAYADEEN TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL MAYADEEN TV
 http://149.100.19.226:8001/play/AL_MAYADEEN_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL RAHMA
+#EXTINF:0 tvg-id="ext" group-title="AR", AL RAHMA
 http://149.100.19.226:8001/play/AL_RAHMA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL RASHEED TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", AL RASHEED TV HD
 http://149.100.19.226:8001/play/AL_RASHEED_TV_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL Resala
+#EXTINF:0 tvg-id="ext" group-title="AR", AL Resala
 http://149.100.19.226:8001/play/AL_Resala
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL SA3AA COMEDY
+#EXTINF:0 tvg-id="ext" group-title="AR", AL SA3AA COMEDY
 http://149.100.19.226:8001/play/AL_SA3AA_COMEDY
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL SHARQIYA
+#EXTINF:0 tvg-id="ext" group-title="AR", AL SHARQIYA
 http://149.100.19.226:8001/play/AL_SHARQIYA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL SHARQIYA HD
+#EXTINF:0 tvg-id="ext" group-title="AR", AL SHARQIYA HD
 http://149.100.19.226:8001/play/AL_SHARQIYA_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL SHARQIYA NEWS HD
+#EXTINF:0 tvg-id="ext" group-title="AR", AL SHARQIYA NEWS HD
 http://149.100.19.226:8001/play/AL_SHARQIYA_NEWS_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL SIRAT TV
+#EXTINF:0 tvg-id="ext" group-title="AR", AL SIRAT TV
 http://149.100.19.226:8001/play/a0rv
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL masriya
+#EXTINF:0 tvg-id="ext" group-title="AR", AL masriya
 http://149.100.19.226:8001/play/AL_masriya
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL oula
+#EXTINF:0 tvg-id="ext" group-title="AR", AL oula
 http://149.100.19.226:8001/play/AL_oula
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL-Anbar
+#EXTINF:0 tvg-id="ext" group-title="AR", AL-Anbar
 http://149.100.19.226:8001/play/AL-Anbar
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL-MUSTAKILA
+#EXTINF:0 tvg-id="ext" group-title="AR", AL-MUSTAKILA
 http://149.100.19.226:8001/play/AL-MUSTAKILA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AL-SHAREYYAH CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="AR", AL-SHAREYYAH CHANNEL
 http://149.100.19.226:8001/play/AL-SHAREYYAH_CHANNEL
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALAAN TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", ALAAN TV HD
 http://149.100.19.226:8001/play/a0st
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALBURHAN
+#EXTINF:0 tvg-id="ext" group-title="AR", ALBURHAN
 http://149.100.19.226:8001/play/BURHAN_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALHADATH HD
+#EXTINF:0 tvg-id="ext" group-title="AR", ALHADATH HD
 http://149.100.19.226:8001/play/ALHADATH_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALIMAN TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ALIMAN TV
 http://149.100.19.226:8001/play/ALIMAN_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALISTIQAMA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ALISTIQAMA TV
 http://149.100.19.226:8001/play/ALISTIQAMA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALKOFIYA
+#EXTINF:0 tvg-id="ext" group-title="AR", ALKOFIYA
 http://149.100.19.226:8001/play/ALKOFIYA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALNAEEM TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ALNAEEM TV
 http://149.100.19.226:8001/play/ALNAEEM_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALSIRAT
+#EXTINF:0 tvg-id="ext" group-title="AR", ALSIRAT
 http://149.100.19.226:8001/play/ALSIRAT
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALSahraa
+#EXTINF:0 tvg-id="ext" group-title="AR", ALSahraa
 http://149.100.19.226:8001/play/ALSahraa
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ALhayat
+#EXTINF:0 tvg-id="ext" group-title="AR", ALhayat
 http://149.100.19.226:8001/play/ALhayat
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ANN
+#EXTINF:0 tvg-id="ext" group-title="AR", ANN
 http://149.100.19.226:8001/play/ANN
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ASHARQ NEWS CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="AR", ASHARQ NEWS CHANNEL
 http://149.100.19.226:8001/play/a0sr
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ASIA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ASIA TV
 http://149.100.19.226:8001/play/ASIA_TV
-#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="Arabic", Abu Dhabi TV
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="AR", Abu Dhabi TV
 http://149.100.19.226:8001/play/Abu_Dhabi_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Aflam 1
+#EXTINF:0 tvg-id="ext" group-title="AR", Aflam 1
 http://149.100.19.226:8001/play/ART_Aflam_1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Aflam 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Aflam 2
 http://149.100.19.226:8001/play/ART_Aflam_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Ahlu Alquran
+#EXTINF:0 tvg-id="ext" group-title="AR", Ahlu Alquran
 http://149.100.19.226:8001/play/Ahlu_Alquran
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Ajial
+#EXTINF:0 tvg-id="ext" group-title="AR", Ajial
 http://149.100.19.226:8001/play/Ajial
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Ahly HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Ahly HD
 http://149.100.19.226:8001/play/a0r6
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Ahly SD
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Ahly SD
 http://149.100.19.226:8001/play/Al_Ahly_SD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Aoula inter
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Aoula inter
 http://149.100.19.226:8001/play/Al_Aoula_Inter_L
-#EXTINF:0 tvg-id="AlArabiya.nws" group-title="Arabic", Al Arabiya
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="AR", Al Arabiya
 http://149.100.19.226:8001/play/Al_Arabiya
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Forat
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Forat
 http://149.100.19.226:8001/play/Al_Forat
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Ghad SD
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Ghad SD
 http://149.100.19.226:8001/play/Al_Ghad_SD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Ghadeer
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Ghadeer
 http://149.100.19.226:8001/play/Al_Ghadeer
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Hadath
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Hadath
 http://149.100.19.226:8001/play/Al_Hadath
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Hayat
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Hayat
 http://149.100.19.226:8001/play/Al_Hayat
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Insen TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Insen TV
 http://149.100.19.226:8001/play/a0sd
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Insen TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Insen TV
 http://149.100.19.226:8001/play/a0qv
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Kahera Wal Nas
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Kahera Wal Nas
 http://149.100.19.226:8001/play/Al_Kahera_Wal_Nas
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Kahera Wal Nas +2
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Kahera Wal Nas +2
 http://149.100.19.226:8001/play/Al_Kahera_Wal_Nas_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Mawsleya
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Mawsleya
 http://149.100.19.226:8001/play/Al_Mawsleya
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Mergab
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Mergab
 http://149.100.19.226:8001/play/Al_Mergab
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Nas
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Nas
 http://149.100.19.226:8001/play/Al_Nas
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Rafidain TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Rafidain TV
 http://149.100.19.226:8001/play/Al_Rafiden
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al Sumaria TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Al Sumaria TV
 http://149.100.19.226:8001/play/Al_Sumaria_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al-EKhbaria
+#EXTINF:0 tvg-id="ext" group-title="AR", Al-EKhbaria
 http://149.100.19.226:8001/play/Al-EKhbaria
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al-Etejah TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Al-Etejah TV
 http://149.100.19.226:8001/play/Al-Etejah_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al-Khabar TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Al-Khabar TV
 http://149.100.19.226:8001/play/Al-Khabar_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al-Majd3
+#EXTINF:0 tvg-id="ext" group-title="AR", Al-Majd3
 http://149.100.19.226:8001/play/Al-Majd3
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al-Nahar Drama
+#EXTINF:0 tvg-id="ext" group-title="AR", Al-Nahar Drama
 http://149.100.19.226:8001/play/Al-Nahar_Drama
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Al-Nahar One
+#EXTINF:0 tvg-id="ext" group-title="AR", Al-Nahar One
 http://149.100.19.226:8001/play/Al-Nahar_One
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AlHadath Alyoum
+#EXTINF:0 tvg-id="ext" group-title="AR", AlHadath Alyoum
 http://149.100.19.226:8001/play/AlHadath_Alyoum
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AlHayat 3
+#EXTINF:0 tvg-id="ext" group-title="AR", AlHayat 3
 http://149.100.19.226:8001/play/a0oq
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AlHayat HD
+#EXTINF:0 tvg-id="ext" group-title="AR", AlHayat HD
 http://149.100.19.226:8001/play/AlHayat_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AlHayat Sport
+#EXTINF:0 tvg-id="ext" group-title="AR", AlHayat Sport
 http://149.100.19.226:8001/play/a0or
-#EXTINF:0 tvg-id="ext" group-title="Arabic", AlSaeedah
+#EXTINF:0 tvg-id="ext" group-title="AR", AlSaeedah
 http://149.100.19.226:8001/play/AlSaeedah
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Aleqtisadiah
+#EXTINF:0 tvg-id="ext" group-title="AR", Aleqtisadiah
 http://149.100.19.226:8001/play/Aleqtisadiah
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Alhayat 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Alhayat 2
 http://149.100.19.226:8001/play/Alhayat_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Alhayat Muslsalat
+#EXTINF:0 tvg-id="ext" group-title="AR", Alhayat Muslsalat
 http://149.100.19.226:8001/play/Alhayat_Muslsalat
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Alhayat We Alnas
+#EXTINF:0 tvg-id="ext" group-title="AR", Alhayat We Alnas
 http://149.100.19.226:8001/play/Alhayat_We_Alnas
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Alkass four HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Alkass four HD
 http://149.100.19.226:8001/play/Alkass_four_HD1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Alkass one HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Alkass one HD
 http://149.100.19.226:8001/play/Alkass_one_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Alkass two HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Alkass two HD
 http://149.100.19.226:8001/play/Alkass_two_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Almajd General
+#EXTINF:0 tvg-id="ext" group-title="AR", Almajd General
 http://149.100.19.226:8001/play/Almajd_General
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Almamlaka TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Almamlaka TV
 http://149.100.19.226:8001/play/Almamlaka_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Altaghier HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Altaghier HD
 http://149.100.19.226:8001/play/Altaghier_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Althanya
+#EXTINF:0 tvg-id="ext" group-title="AR", Althanya
 http://149.100.19.226:8001/play/Althanya
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Althaqafiah
+#EXTINF:0 tvg-id="ext" group-title="AR", Althaqafiah
 http://149.100.19.226:8001/play/Althaqafiah
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Amman TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Amman TV
 http://149.100.19.226:8001/play/Amman_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Angham 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Angham 2
 http://149.100.19.226:8001/play/Angham_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Attessia TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Attessia TV
 http://149.100.19.226:8001/play/a0s7
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Attessia TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Attessia TV
 http://149.100.19.226:8001/play/Attessia_TV
-#EXTINF:0 tvg-id="B4UAflam.net" group-title="Arabic", B4U AFLAM
+#EXTINF:0 tvg-id="B4UAflam.net" group-title="AR", B4U AFLAM
 http://149.100.19.226:8001/play/B4U_Aflam
-#EXTINF:0 tvg-id="B4UAflam.net" group-title="Arabic", B4U Aflam
+#EXTINF:0 tvg-id="B4UAflam.net" group-title="AR", B4U Aflam
 http://149.100.19.226:8001/play/B4U_Aflam1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", B4U PLUS
+#EXTINF:0 tvg-id="ext" group-title="AR", B4U PLUS
 http://149.100.19.226:8001/play/B4U_Plus
-#EXTINF:0 tvg-id="ext" group-title="Arabic", BABY CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="AR", BABY CHANNEL
 http://149.100.19.226:8001/play/BABY_CHANNEL
-#EXTINF:0 tvg-id="BBCArabic.net" group-title="Arabic", BBC Arabic
-http://149.100.19.226:8001/play/BBC_Arabic
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Baynounah TV HD
+#EXTINF:0 tvg-id="BBCAR.net" group-title="AR", BBC AR
+http://149.100.19.226:8001/play/BBC_AR
+#EXTINF:0 tvg-id="ext" group-title="AR", Baynounah TV HD
 http://149.100.19.226:8001/play/Baynounah_TV_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Bedaya
+#EXTINF:0 tvg-id="ext" group-title="AR", Bedaya
 http://149.100.19.226:8001/play/Bedaya
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Beity
+#EXTINF:0 tvg-id="ext" group-title="AR", Beity
 http://149.100.19.226:8001/play/Beity
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Beur TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Beur TV
 http://149.100.19.226:8001/play/Beur_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CAIRO CINEMA
+#EXTINF:0 tvg-id="ext" group-title="AR", CAIRO CINEMA
 http://149.100.19.226:8001/play/Cairo_cinema
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CAIRO DRAMA
+#EXTINF:0 tvg-id="ext" group-title="AR", CAIRO DRAMA
 http://149.100.19.226:8001/play/Cairo_Drama
-#EXTINF:0 tvg-id="cbc" group-title="Arabic", CBC
+#EXTINF:0 tvg-id="cbc" group-title="AR", CBC
 http://149.100.19.226:8001/play/CBC
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Arabic", CBC Drama
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="AR", CBC Drama
 http://149.100.19.226:8001/play/CBC_Drama
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CBC Sofra
+#EXTINF:0 tvg-id="ext" group-title="AR", CBC Sofra
 http://149.100.19.226:8001/play/CBC_Sofra
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CCTV-A
+#EXTINF:0 tvg-id="ext" group-title="AR", CCTV-A
 http://149.100.19.226:8001/play/CCTV-A
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CIMA ALI BABA
+#EXTINF:0 tvg-id="ext" group-title="AR", CIMA ALI BABA
 http://149.100.19.226:8001/play/CIMA_ALI_BABA
-#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Arabic", CINEMA 1
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="AR", CINEMA 1
 http://149.100.19.226:8001/play/CINEMA_1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CINEMA PRO
+#EXTINF:0 tvg-id="ext" group-title="AR", CINEMA PRO
 http://149.100.19.226:8001/play/CINEMA_PRO
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CIRA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", CIRA TV
 http://149.100.19.226:8001/play/CIRA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CN ARABIA
+#EXTINF:0 tvg-id="ext" group-title="AR", CN ARABIA
 http://149.100.19.226:8001/play/a0t0
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CN Arabia
+#EXTINF:0 tvg-id="ext" group-title="AR", CN Arabia
 http://149.100.19.226:8001/play/CN_Arabia
-#EXTINF:0 tvg-id="ext" group-title="Arabic", CNBC ARABIYA
+#EXTINF:0 tvg-id="ext" group-title="AR", CNBC ARABIYA
 http://149.100.19.226:8001/play/CNBC_ARABIYA
-#EXTINF:0 tvg-id="cnn" group-title="Arabic", CNN
+#EXTINF:0 tvg-id="cnn" group-title="AR", CNN
 http://149.100.19.226:8001/play/a0ss
-#EXTINF:0 tvg-id="cnn" group-title="Arabic", CNN
+#EXTINF:0 tvg-id="cnn" group-title="AR", CNN
 http://149.100.19.226:8001/play/CNN
-#EXTINF:0 tvg-id="ctv" group-title="Arabic", CTV
+#EXTINF:0 tvg-id="ctv" group-title="AR", CTV
 http://149.100.19.226:8001/play/CTV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Carthage+
+#EXTINF:0 tvg-id="ext" group-title="AR", Carthage+
 http://149.100.19.226:8001/play/a0sc
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Cima
+#EXTINF:0 tvg-id="ext" group-title="AR", Cima
 http://149.100.19.226:8001/play/Cima
-#EXTINF:0 tvg-id="park-razvlecheniy" group-title="Arabic", Cinema
+#EXTINF:0 tvg-id="park-razvlecheniy" group-title="AR", Cinema
 http://149.100.19.226:8001/play/ART_Cinema
-#EXTINF:0 tvg-id="ext" group-title="Arabic", DW Arabia
+#EXTINF:0 tvg-id="ext" group-title="AR", DW Arabia
 http://149.100.19.226:8001/play/DW_Arabia
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dijlah TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Dijlah TV
 http://149.100.19.226:8001/play/Dijlah_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dijlah TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Dijlah TV
 http://149.100.19.226:8001/play/Dijlah_TV1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dream2
+#EXTINF:0 tvg-id="ext" group-title="AR", Dream2
 http://149.100.19.226:8001/play/Dream2
-#EXTINF:0 tvg-id="DubaiOne.net" group-title="Arabic", Dubai One
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="AR", Dubai One
 http://149.100.19.226:8001/play/Dubai_One
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Sports 2
-http://149.100.19.226:8001/play/Dubai_Sports_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Sports 3
-http://149.100.19.226:8001/play/Dubai_Sports_3
-#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="Arabic", Dubai TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai SP 2
+http://149.100.19.226:8001/play/Dubai_SP_2
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai SP 3
+http://149.100.19.226:8001/play/Dubai_SP_3
+#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="AR", Dubai TV
 http://149.100.19.226:8001/play/Dubai_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Dubai Zaman
+#EXTINF:0 tvg-id="ext" group-title="AR", Dubai Zaman
 http://149.100.19.226:8001/play/Dubai_Zaman
-#EXTINF:0 tvg-id="ext" group-title="Arabic", EDUC 1
+#EXTINF:0 tvg-id="ext" group-title="AR", EDUC 1
 http://149.100.19.226:8001/play/EDUC_1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", EL BILAD
+#EXTINF:0 tvg-id="ext" group-title="AR", EL BILAD
 http://149.100.19.226:8001/play/EL_BILAD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", EL DJAZAIRIA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", EL DJAZAIRIA TV
 http://149.100.19.226:8001/play/EL_DJAZAIRIA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", EL FADJR TV DZ
+#EXTINF:0 tvg-id="ext" group-title="AR", EL FADJR TV DZ
 http://149.100.19.226:8001/play/EL_FADJR_TV_DZ
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ENNAHAR TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ENNAHAR TV
 http://149.100.19.226:8001/play/ENNAHAR_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ETIHAD TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ETIHAD TV
 http://149.100.19.226:8001/play/ETIHAD_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Echorouk NEWS
+#EXTINF:0 tvg-id="ext" group-title="AR", Echorouk NEWS
 http://149.100.19.226:8001/play/Echorouk_NEWS
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Echorouk TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Echorouk TV
 http://149.100.19.226:8001/play/Echorouk_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Elhiwar Ettounsi
+#EXTINF:0 tvg-id="ext" group-title="AR", Elhiwar Ettounsi
 http://149.100.19.226:8001/play/a0s5
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Elhiwar Ettounsi
+#EXTINF:0 tvg-id="ext" group-title="AR", Elhiwar Ettounsi
 http://149.100.19.226:8001/play/Elhiwar_Ettounsi_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Extra News
+#EXTINF:0 tvg-id="ext" group-title="AR", Extra News
 http://149.100.19.226:8001/play/Extra_News
-#EXTINF:0 tvg-id="france24" group-title="Arabic", France 24
+#EXTINF:0 tvg-id="france24" group-title="AR", France 24
 http://149.100.19.226:8001/play/France_24
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Free TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Free TV
 http://149.100.19.226:8001/play/Free_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Fujairah TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Fujairah TV HD
 http://149.100.19.226:8001/play/Fujairah_TV_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", HANNIBAL TV
+#EXTINF:0 tvg-id="ext" group-title="AR", HANNIBAL TV
 http://149.100.19.226:8001/play/a0se
-#EXTINF:0 tvg-id="ext" group-title="Arabic", HANNIBAL TV
+#EXTINF:0 tvg-id="ext" group-title="AR", HANNIBAL TV
 http://149.100.19.226:8001/play/HANNIBAL_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Hannibal
+#EXTINF:0 tvg-id="ext" group-title="AR", Hannibal
 http://149.100.19.226:8001/play/Hannibal
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Hekayat
+#EXTINF:0 tvg-id="ext" group-title="AR", Hekayat
 http://149.100.19.226:8001/play/ART_Hekayat
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Hekayat Kaman
+#EXTINF:0 tvg-id="ext" group-title="AR", Hekayat Kaman
 http://149.100.19.226:8001/play/ART_Hekayat_Kaman
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Hekayat2
+#EXTINF:0 tvg-id="ext" group-title="AR", Hekayat2
 http://149.100.19.226:8001/play/ART_Hekayat2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Hona Baghdad
+#EXTINF:0 tvg-id="ext" group-title="AR", Hona Baghdad
 http://149.100.19.226:8001/play/Hona_Baghdad
-#EXTINF:0 tvg-id="ext" group-title="Arabic", IFILM ARABIC
-http://149.100.19.226:8001/play/IFILM_ARABIC
-#EXTINF:0 tvg-id="Iqraa.net" group-title="Arabic", Iqraa
+#EXTINF:0 tvg-id="ext" group-title="AR", IFILM AR
+http://149.100.19.226:8001/play/IFILM_AR
+#EXTINF:0 tvg-id="Iqraa.net" group-title="AR", Iqraa
 http://149.100.19.226:8001/play/Iqraa
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Iraq Now
+#EXTINF:0 tvg-id="ext" group-title="AR", Iraq Now
 http://149.100.19.226:8001/play/Iraq_Now
-#EXTINF:0 tvg-id="ext" group-title="Arabic", JORDAN NOW
+#EXTINF:0 tvg-id="ext" group-title="AR", JORDAN NOW
 http://149.100.19.226:8001/play/a0rq
-#EXTINF:0 tvg-id="ext" group-title="Arabic", JORDAN NOW
+#EXTINF:0 tvg-id="ext" group-title="AR", JORDAN NOW
 http://149.100.19.226:8001/play/JORDAN_NOW
-#EXTINF:0 tvg-id="ext" group-title="Arabic", JORDAN SAMA
+#EXTINF:0 tvg-id="ext" group-title="AR", JORDAN SAMA
 http://149.100.19.226:8001/play/a0rr
-#EXTINF:0 tvg-id="ext" group-title="Arabic", JORDAN SAMA
+#EXTINF:0 tvg-id="ext" group-title="AR", JORDAN SAMA
 http://149.100.19.226:8001/play/JORDAN_SAMA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Jordan
+#EXTINF:0 tvg-id="ext" group-title="AR", Jordan
 http://149.100.19.226:8001/play/Jordan
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Jordan Sport
+#EXTINF:0 tvg-id="ext" group-title="AR", Jordan Sport
 http://149.100.19.226:8001/play/Jordan_Sport
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KANA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", KANA TV
 http://149.100.19.226:8001/play/KANA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KARAMEESH
+#EXTINF:0 tvg-id="ext" group-title="AR", KARAMEESH
 http://149.100.19.226:8001/play/KARAMEESH
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KARBALA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", KARBALA TV
 http://149.100.19.226:8001/play/KARBALA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KARBALA TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", KARBALA TV HD
 http://149.100.19.226:8001/play/KARBALA_TV_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", KOKKY TV
+#EXTINF:0 tvg-id="ext" group-title="AR", KOKKY TV
 http://149.100.19.226:8001/play/KOKKY_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Kaifa
+#EXTINF:0 tvg-id="ext" group-title="AR", Kaifa
 http://149.100.19.226:8001/play/Kaifa
-#EXTINF:0 tvg-id="ext" group-title="Arabic", LANA PLUS
+#EXTINF:0 tvg-id="ext" group-title="AR", LANA PLUS
 http://149.100.19.226:8001/play/LANA_PLUS
-#EXTINF:0 tvg-id="ext" group-title="Arabic", LANA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", LANA TV
 http://149.100.19.226:8001/play/LANA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", LANA TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", LANA TV HD
 http://149.100.19.226:8001/play/a0sy
-#EXTINF:0 tvg-id="ext" group-title="Arabic", LBC SAT
+#EXTINF:0 tvg-id="ext" group-title="AR", LBC SAT
 http://149.100.19.226:8001/play/LBC_SAT
-#EXTINF:0 tvg-id="ext" group-title="Arabic", LIBYA 218
+#EXTINF:0 tvg-id="ext" group-title="AR", LIBYA 218
 http://149.100.19.226:8001/play/LIBYA_218
-#EXTINF:0 tvg-id="ext" group-title="Arabic", LIBYA ALHADATH
+#EXTINF:0 tvg-id="ext" group-title="AR", LIBYA ALHADATH
 http://149.100.19.226:8001/play/LIBYA_ALHADATH
-#EXTINF:0 tvg-id="ext" group-title="Arabic", LIBYAS CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="AR", LIBYAS CHANNEL
 http://149.100.19.226:8001/play/LIBYAS_CHANNEL
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Lebanon TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Lebanon TV
 http://149.100.19.226:8001/play/a0ph
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Libya 218 News
+#EXTINF:0 tvg-id="ext" group-title="AR", Libya 218 News
 http://149.100.19.226:8001/play/Libya_218_News
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Libya 24 HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Libya 24 HD
 http://149.100.19.226:8001/play/Libya_24_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Libya Alrasmia
+#EXTINF:0 tvg-id="ext" group-title="AR", Libya Alrasmia
 http://149.100.19.226:8001/play/Libya_Alrasmia
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Libya Now
+#EXTINF:0 tvg-id="ext" group-title="AR", Libya Now
 http://149.100.19.226:8001/play/Libya_Now
-#EXTINF:0 tvg-id="ext" group-title="Arabic", M CINEMA
+#EXTINF:0 tvg-id="ext" group-title="AR", M CINEMA
 http://149.100.19.226:8001/play/M_CINEMA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", M CLASSIC
+#EXTINF:0 tvg-id="ext" group-title="AR", M CLASSIC
 http://149.100.19.226:8001/play/M_CLASSIC
-#EXTINF:0 tvg-id="ext" group-title="Arabic", M TUNISIA
+#EXTINF:0 tvg-id="ext" group-title="AR", M TUNISIA
 http://149.100.19.226:8001/play/M_TUNISIA
-#EXTINF:0 tvg-id="MBC2.net" group-title="Arabic", MBC 2
+#EXTINF:0 tvg-id="MBC2.net" group-title="AR", MBC 2
 http://149.100.19.226:8001/play/a0sq
-#EXTINF:0 tvg-id="MBC2.net" group-title="Arabic", MBC 2
+#EXTINF:0 tvg-id="MBC2.net" group-title="AR", MBC 2
 http://149.100.19.226:8001/play/MBC_2
-#EXTINF:0 tvg-id="MBC2.net" group-title="Arabic", MBC 2
+#EXTINF:0 tvg-id="MBC2.net" group-title="AR", MBC 2
 http://149.100.19.226:8001/play/MBC_2_
-#EXTINF:0 tvg-id="MBC3.net" group-title="Arabic", MBC 3
+#EXTINF:0 tvg-id="MBC3.net" group-title="AR", MBC 3
 http://149.100.19.226:8001/play/MBC_3
-#EXTINF:0 tvg-id="MBC4.net" group-title="Arabic", MBC 4
+#EXTINF:0 tvg-id="MBC4.net" group-title="AR", MBC 4
 http://149.100.19.226:8001/play/MBC_4
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC 5
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC 5
 http://149.100.19.226:8001/play/MBC_5
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Arabic", MBC Action
+#EXTINF:0 tvg-id="MBCAction.net" group-title="AR", MBC Action
 http://149.100.19.226:8001/play/MBC_Action
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Arabic", MBC Bollywood
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="AR", MBC Bollywood
 http://149.100.19.226:8001/play/MBC_Bollywood
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Arabic", MBC Bollywood
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="AR", MBC Bollywood
 http://149.100.19.226:8001/play/MBC_Bollywood_
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="Arabic", MBC Drama
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="AR", MBC Drama
 http://149.100.19.226:8001/play/MBC_Drama
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC IRAQ
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC IRAQ
 http://149.100.19.226:8001/play/MBC_IRAQ
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC MASR
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC MASR
 http://149.100.19.226:8001/play/MBC_MASR
-#EXTINF:0 tvg-id="MBCMax.net" group-title="Arabic", MBC MAX
+#EXTINF:0 tvg-id="MBCMax.net" group-title="AR", MBC MAX
 http://149.100.19.226:8001/play/MBC_MAX
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MBC Masr 2
+#EXTINF:0 tvg-id="ext" group-title="AR", MBC Masr 2
 http://149.100.19.226:8001/play/MBC_Masr_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MESAT HD
+#EXTINF:0 tvg-id="ext" group-title="AR", MESAT HD
 http://149.100.19.226:8001/play/MESAT_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", MODY KIDS
+#EXTINF:0 tvg-id="ext" group-title="AR", MODY KIDS
 http://149.100.19.226:8001/play/MODY_KIDS
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Maestro TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Maestro TV
 http://149.100.19.226:8001/play/Maestro_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Majid Kids TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Majid Kids TV
 http://149.100.19.226:8001/play/Majid_Kids_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Masar TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Masar TV
 http://149.100.19.226:8001/play/Al_Masar
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Maspero Zaman
+#EXTINF:0 tvg-id="ext" group-title="AR", Maspero Zaman
 http://149.100.19.226:8001/play/Maspero_Zaman
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Mazzika
+#EXTINF:0 tvg-id="ext" group-title="AR", Mazzika
 http://149.100.19.226:8001/play/Mazzika
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Mecca
+#EXTINF:0 tvg-id="ext" group-title="AR", Mecca
 http://149.100.19.226:8001/play/Mecca
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Medi1 TV Arabic
-http://149.100.19.226:8001/play/Medi1_TV_Arabic
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Mehwer
+#EXTINF:0 tvg-id="ext" group-title="AR", Medi1 TV AR
+http://149.100.19.226:8001/play/Medi1_TV_AR
+#EXTINF:0 tvg-id="ext" group-title="AR", Mehwer
 http://149.100.19.226:8001/play/Mehwer
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Music Alhanen
+#EXTINF:0 tvg-id="ext" group-title="AR", Music Alhanen
 http://149.100.19.226:8001/play/Music_Alhanen
-#EXTINF:0 tvg-id="ext" group-title="Arabic", NABA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", NABA TV
 http://149.100.19.226:8001/play/NABA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", NBN HD
+#EXTINF:0 tvg-id="ext" group-title="AR", NBN HD
 http://149.100.19.226:8001/play/NBN_HD
-#EXTINF:0 tvg-id="nhk-world" group-title="Arabic", NHK World
+#EXTINF:0 tvg-id="nhk-world" group-title="AR", NHK World
 http://149.100.19.226:8001/play/NHK_World
-#EXTINF:0 tvg-id="ext" group-title="Arabic", NUMIDIA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", NUMIDIA TV
 http://149.100.19.226:8001/play/NUMIDIA_TV
-#EXTINF:0 tvg-id="NESSMA.tn" group-title="Arabic", Nessma
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="AR", Nessma
 http://149.100.19.226:8001/play/Nessma
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile Cinema
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile Cinema
 http://149.100.19.226:8001/play/Nile_Cinema
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile Comedy
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile Comedy
 http://149.100.19.226:8001/play/Nile_Comedy
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile Culture
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile Culture
 http://149.100.19.226:8001/play/Nile_Culture
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile Drama
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile Drama
 http://149.100.19.226:8001/play/Nile_Drama
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile Family
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile Family
 http://149.100.19.226:8001/play/Nile_Family
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile Life
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile Life
 http://149.100.19.226:8001/play/Nile_Life
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile News
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile News
 http://149.100.19.226:8001/play/Nile_News
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile Sport
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile Sport
 http://149.100.19.226:8001/play/Nile_Sport
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nile TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Nile TV
 http://149.100.19.226:8001/play/Nile_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Nogoum FM TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Nogoum FM TV
 http://149.100.19.226:8001/play/Nogoum_FM_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Noor Dubai
+#EXTINF:0 tvg-id="ext" group-title="AR", Noor Dubai
 http://149.100.19.226:8001/play/Noor_Dubai
-#EXTINF:0 tvg-id="ext" group-title="Arabic", NourSat
+#EXTINF:0 tvg-id="ext" group-title="AR", NourSat
 http://149.100.19.226:8001/play/NourSat
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Noursat Alchabab
+#EXTINF:0 tvg-id="ext" group-title="AR", Noursat Alchabab
 http://149.100.19.226:8001/play/Noursat_Alchabab
-#EXTINF:0 tvg-id="ext" group-title="Arabic", OMAN TV Culture HD
+#EXTINF:0 tvg-id="ext" group-title="AR", OMAN TV Culture HD
 http://149.100.19.226:8001/play/a0qc
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ON Drama
+#EXTINF:0 tvg-id="ext" group-title="AR", ON Drama
 http://149.100.19.226:8001/play/ON_Drama
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ON E
+#EXTINF:0 tvg-id="ext" group-title="AR", ON E
 http://149.100.19.226:8001/play/ON_E
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ON Sport
+#EXTINF:0 tvg-id="ext" group-title="AR", ON Sport
 http://149.100.19.226:8001/play/ON_Sport
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ONTIME SPORTS
-http://149.100.19.226:8001/play/ONTIME_SPORTS
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Oman TV Culture HD
+#EXTINF:0 tvg-id="ext" group-title="AR", ONTIME SP
+http://149.100.19.226:8001/play/ONTIME_SP
+#EXTINF:0 tvg-id="ext" group-title="AR", Oman TV Culture HD
 http://149.100.19.226:8001/play/a0so
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Oman TV General SD
+#EXTINF:0 tvg-id="ext" group-title="AR", Oman TV General SD
 http://149.100.19.226:8001/play/Oman_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Oman TV Live HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Oman TV Live HD
 http://149.100.19.226:8001/play/Oman_TV_Live
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Oman TV Sport HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Oman TV Sport HD
 http://149.100.19.226:8001/play/Oman_TV_Sport
-#EXTINF:0 tvg-id="ext" group-title="Arabic", PALESTINE TODAY
+#EXTINF:0 tvg-id="ext" group-title="AR", PALESTINE TODAY
 http://149.100.19.226:8001/play/PALESTINE_TODAY
-#EXTINF:0 tvg-id="PressTV.uk" group-title="Arabic", PRESS TV
+#EXTINF:0 tvg-id="PressTV.uk" group-title="AR", PRESS TV
 http://149.100.19.226:8001/play/PRESS_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Palestine
+#EXTINF:0 tvg-id="ext" group-title="AR", Palestine
 http://149.100.19.226:8001/play/Palestine
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Palestine live
+#EXTINF:0 tvg-id="ext" group-title="AR", Palestine live
 http://149.100.19.226:8001/play/Palestine_live
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Panorama Drama
+#EXTINF:0 tvg-id="ext" group-title="AR", Panorama Drama
 http://149.100.19.226:8001/play/Panorama_Drama
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Panorama Drama 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Panorama Drama 2
 http://149.100.19.226:8001/play/Panorama_Drama_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Panorama Film
+#EXTINF:0 tvg-id="ext" group-title="AR", Panorama Film
 http://149.100.19.226:8001/play/Panorama_Film
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Panorama Food
+#EXTINF:0 tvg-id="ext" group-title="AR", Panorama Food
 http://149.100.19.226:8001/play/Panorama_Food
-#EXTINF:0 tvg-id="ext" group-title="Arabic", QATAR TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", QATAR TV HD
 http://149.100.19.226:8001/play/QATAR_TV_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", RO'YA
+#EXTINF:0 tvg-id="ext" group-title="AR", RO'YA
 http://149.100.19.226:8001/play/ROAYA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", RT ARABIC HD
-http://149.100.19.226:8001/play/RT_ARABIC_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Rotana Cinema EGY
+#EXTINF:0 tvg-id="ext" group-title="AR", RT AR HD
+http://149.100.19.226:8001/play/RT_AR_HD
+#EXTINF:0 tvg-id="ext" group-title="AR", Rotana Cinema EGY
 http://149.100.19.226:8001/play/Rotana_Cinema_EGY
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Rotana Classic
+#EXTINF:0 tvg-id="ext" group-title="AR", Rotana Classic
 http://149.100.19.226:8001/play/Rotana_Classic
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Rotana Clip
+#EXTINF:0 tvg-id="ext" group-title="AR", Rotana Clip
 http://149.100.19.226:8001/play/Rotana_Clip
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Rotana Drama
+#EXTINF:0 tvg-id="ext" group-title="AR", Rotana Drama
 http://149.100.19.226:8001/play/Rotana_Drama
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Rotana Khalijia
+#EXTINF:0 tvg-id="ext" group-title="AR", Rotana Khalijia
 http://149.100.19.226:8001/play/Rotana_Khalijia
-#EXTINF:0 tvg-id="RotanaMusic.il" group-title="Arabic", Rotana Music
+#EXTINF:0 tvg-id="RotanaMusic.il" group-title="AR", Rotana Music
 http://149.100.19.226:8001/play/Rotana_Music
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SAFA TV
+#EXTINF:0 tvg-id="ext" group-title="AR", SAFA TV
 http://149.100.19.226:8001/play/SAFA_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SAT-7 ARABIC
-http://149.100.19.226:8001/play/SAT-7_ARABIC
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SAT-7 KIDS
+#EXTINF:0 tvg-id="ext" group-title="AR", SAT-7 AR
+http://149.100.19.226:8001/play/SAT-7_AR
+#EXTINF:0 tvg-id="ext" group-title="AR", SAT-7 KIDS
 http://149.100.19.226:8001/play/SAT-7_KIDS
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SAUDI 24
+#EXTINF:0 tvg-id="ext" group-title="AR", SAUDI 24
 http://149.100.19.226:8001/play/SAUDI_24
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SHAMNA
+#EXTINF:0 tvg-id="ext" group-title="AR", SHAMNA
 http://149.100.19.226:8001/play/SHAMNA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SPACETOON ARABIC
-http://149.100.19.226:8001/play/SPACETOON_ARABIC
-#EXTINF:0 tvg-id="ext" group-title="Arabic", STAR CINEMA 1
+#EXTINF:0 tvg-id="ext" group-title="AR", SPACETOON AR
+http://149.100.19.226:8001/play/SPACETOON_AR
+#EXTINF:0 tvg-id="ext" group-title="AR", STAR CINEMA 1
 http://149.100.19.226:8001/play/STAR_CINEMA_1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", STAR CINEMA 2
+#EXTINF:0 tvg-id="ext" group-title="AR", STAR CINEMA 2
 http://149.100.19.226:8001/play/STAR_CINEMA_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SUHAIL TV
+#EXTINF:0 tvg-id="ext" group-title="AR", SUHAIL TV
 http://149.100.19.226:8001/play/SUHAIL_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SYRIA TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", SYRIA TV HD
 http://149.100.19.226:8001/play/SYRIA_TV_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SYRIAN EDUCATION
+#EXTINF:0 tvg-id="ext" group-title="AR", SYRIAN EDUCATION
 http://149.100.19.226:8001/play/SYRIAN_EDUCATION
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Sada El Balad
+#EXTINF:0 tvg-id="ext" group-title="AR", Sada El Balad
 http://149.100.19.226:8001/play/Sada_El-Balad
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Sada El Balad+
+#EXTINF:0 tvg-id="ext" group-title="AR", Sada El Balad+
 http://149.100.19.226:8001/play/Sada_El_Balad2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Sada ElBalad Drama
+#EXTINF:0 tvg-id="ext" group-title="AR", Sada ElBalad Drama
 http://149.100.19.226:8001/play/Sada_ElBalad_Drama
-#EXTINF:0 tvg-id="SamaDubai.net" group-title="Arabic", Sama Dubai
+#EXTINF:0 tvg-id="SamaDubai.net" group-title="AR", Sama Dubai
 http://149.100.19.226:8001/play/Sama_Dubai
-#EXTINF:0 tvg-id="ext" group-title="Arabic", SamiraTV
+#EXTINF:0 tvg-id="ext" group-title="AR", SamiraTV
 http://149.100.19.226:8001/play/SamiraTV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Saudi Ch. For Quran
+#EXTINF:0 tvg-id="ext" group-title="AR", Saudi Ch. For Quran
 http://149.100.19.226:8001/play/Saudi_Ch_For_Quran
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Saudi Ch. For Sunnah
+#EXTINF:0 tvg-id="ext" group-title="AR", Saudi Ch. For Sunnah
 http://149.100.19.226:8001/play/Saudi_Ch_For_Sunnah
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Saudi Sport
+#EXTINF:0 tvg-id="ext" group-title="AR", Saudi Sport
 http://149.100.19.226:8001/play/Saudi_Sport
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Saudi-1
+#EXTINF:0 tvg-id="ext" group-title="AR", Saudi-1
 http://149.100.19.226:8001/play/Saudi-1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Saudi-2
+#EXTINF:0 tvg-id="ext" group-title="AR", Saudi-2
 http://149.100.19.226:8001/play/Saudi-2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Sham TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Sham TV
 http://149.100.19.226:8001/play/Sham_TV
-#EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="Arabic", Sky News Arabia
+#EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="AR", Sky News Arabia
 http://149.100.19.226:8001/play/Sky_News_Arabia
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Sudan TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Sudan TV
 http://149.100.19.226:8001/play/a0q9
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Syria Medical TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Syria Medical TV
 http://149.100.19.226:8001/play/Syria_Medical_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Syria News
+#EXTINF:0 tvg-id="ext" group-title="AR", Syria News
 http://149.100.19.226:8001/play/AL_EKHBARIYA_AL_SORIYA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TAHA
+#EXTINF:0 tvg-id="ext" group-title="AR", TAHA
 http://149.100.19.226:8001/play/TAHA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TANASUH TV
+#EXTINF:0 tvg-id="ext" group-title="AR", TANASUH TV
 http://149.100.19.226:8001/play/TANASUH_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TIME SPORTS
-http://149.100.19.226:8001/play/TIME_SPORTS
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TIME SPORTS HD
-http://149.100.19.226:8001/play/TIME_SPORTS_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TOKTOK AFLAM
+#EXTINF:0 tvg-id="ext" group-title="AR", TIME SP
+http://149.100.19.226:8001/play/TIME_SP
+#EXTINF:0 tvg-id="ext" group-title="AR", TIME SP HD
+http://149.100.19.226:8001/play/TIME_SP_HD
+#EXTINF:0 tvg-id="ext" group-title="AR", TOKTOK AFLAM
 http://149.100.19.226:8001/play/TOKTOK_AFLAM
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TOKTOK CIMA
+#EXTINF:0 tvg-id="ext" group-title="AR", TOKTOK CIMA
 http://149.100.19.226:8001/play/TOKTOK_CIMA
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TRT_ELARABIYE
+#EXTINF:0 tvg-id="ext" group-title="AR", TRT_ELARABIYE
 http://149.100.19.226:8001/play/TRT_ELARABIYE
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TRT_KURDI
+#EXTINF:0 tvg-id="ext" group-title="AR", TRT_KURDI
 http://149.100.19.226:8001/play/TRT_KURDI
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TUNISNA
+#EXTINF:0 tvg-id="ext" group-title="AR", TUNISNA
 http://149.100.19.226:8001/play/a0s6
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TUNISNA
+#EXTINF:0 tvg-id="ext" group-title="AR", TUNISNA
 http://149.100.19.226:8001/play/TUNISNA
-#EXTINF:0 tvg-id="tv5" group-title="Arabic", TV5
+#EXTINF:0 tvg-id="tv5" group-title="AR", TV5
 http://149.100.19.226:8001/play/TV5
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Tayba TV School
+#EXTINF:0 tvg-id="ext" group-title="AR", Tayba TV School
 http://149.100.19.226:8001/play/Tayba_TV_School
-#EXTINF:0 tvg-id="ext" group-title="Arabic", TeN TV
+#EXTINF:0 tvg-id="ext" group-title="AR", TeN TV
 http://149.100.19.226:8001/play/TEN
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Telvza TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Telvza TV
 http://149.100.19.226:8001/play/a0sa
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Telvza TV
+#EXTINF:0 tvg-id="ext" group-title="AR", Telvza TV
 http://149.100.19.226:8001/play/a0qt
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Tunisia Educ 1
+#EXTINF:0 tvg-id="ext" group-title="AR", Tunisia Educ 1
 http://149.100.19.226:8001/play/a0s8
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Tunisia NAT 1
+#EXTINF:0 tvg-id="ext" group-title="AR", Tunisia NAT 1
 http://149.100.19.226:8001/play/Tunisia_Nat_1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Tunisia NAT 1
+#EXTINF:0 tvg-id="ext" group-title="AR", Tunisia NAT 1
 http://149.100.19.226:8001/play/a0qo
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Tunisia NAT 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Tunisia NAT 2
 http://149.100.19.226:8001/play/Tunisia_Nat_2
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Tunisia NAT 2
+#EXTINF:0 tvg-id="ext" group-title="AR", Tunisia NAT 2
 http://149.100.19.226:8001/play/a0qs
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Tunisie Televsion 1
+#EXTINF:0 tvg-id="ext" group-title="AR", Tunisie Televsion 1
 http://149.100.19.226:8001/play/Tunisie_Televsion_1
-#EXTINF:0 tvg-id="ext" group-title="Arabic", VOA 24
+#EXTINF:0 tvg-id="ext" group-title="AR", VOA 24
 http://149.100.19.226:8001/play/VOA_24
-#EXTINF:0 tvg-id="ext" group-title="Arabic", WAAR SD
+#EXTINF:0 tvg-id="ext" group-title="AR", WAAR SD
 http://149.100.19.226:8001/play/WAAR_SD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", WESAL TV
+#EXTINF:0 tvg-id="ext" group-title="AR", WESAL TV
 http://149.100.19.226:8001/play/WESAL_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Wanasah
+#EXTINF:0 tvg-id="ext" group-title="AR", Wanasah
 http://149.100.19.226:8001/play/Wanasah
-#EXTINF:0 tvg-id="ext" group-title="Arabic", YEMEN SHABAB
+#EXTINF:0 tvg-id="ext" group-title="AR", YEMEN SHABAB
 http://149.100.19.226:8001/play/YEMEN_SHABAB
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ZAD TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ZAD TV
 http://149.100.19.226:8001/play/a0sz
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ZAD TV
+#EXTINF:0 tvg-id="ext" group-title="AR", ZAD TV
 http://149.100.19.226:8001/play/ZAD_TV
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ZAGROS TV HD
+#EXTINF:0 tvg-id="ext" group-title="AR", ZAGROS TV HD
 http://149.100.19.226:8001/play/Zagros_TV_HD
-#EXTINF:0 tvg-id="ext" group-title="Arabic", ZAYTOONA
+#EXTINF:0 tvg-id="ext" group-title="AR", ZAYTOONA
 http://149.100.19.226:8001/play/ZAYTOONA
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="Arabic", ZEE AFLAM
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="AR", ZEE AFLAM
 http://149.100.19.226:8001/play/ZEE_AFLAM
-#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="Arabic", ZEE ALWAN
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="AR", ZEE ALWAN
 http://149.100.19.226:8001/play/ZEE_ALWAN
-#EXTINF:0 tvg-id="ext" group-title="Arabic", Zamalek Sports
-http://149.100.19.226:8001/play/Zamalek_Sports
-#EXTINF:0 tvg-id="ext" group-title="Arabic", anb
+#EXTINF:0 tvg-id="ext" group-title="AR", Zamalek SP
+http://149.100.19.226:8001/play/Zamalek_SP
+#EXTINF:0 tvg-id="ext" group-title="AR", anb
 http://149.100.19.226:8001/play/anb
-#EXTINF:0 tvg-id="ext" group-title="Arabic", dmc
+#EXTINF:0 tvg-id="ext" group-title="AR", dmc
 http://149.100.19.226:8001/play/dmc
-#EXTINF:0 tvg-id="ext" group-title="Arabic", dmc drama
+#EXTINF:0 tvg-id="ext" group-title="AR", dmc drama
 http://149.100.19.226:8001/play/dmc_drama
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", BNT 1
+#EXTINF:0 tvg-id="ext" group-title="BG", BNT 1
 http://46.10.218.219:8000/play/a046
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", bTV
+#EXTINF:0 tvg-id="ext" group-title="BG", bTV
 http://46.10.218.219:8000/play/a03w
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", NOVA
+#EXTINF:0 tvg-id="ext" group-title="BG", NOVA
 http://46.10.218.219:8000/play/a03l
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", BNT 2
+#EXTINF:0 tvg-id="ext" group-title="BG", BNT 2
 http://46.10.218.219:8000/play/a049
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", BNT 3
+#EXTINF:0 tvg-id="ext" group-title="BG", BNT 3
 http://46.10.218.219:8000/play/a03x
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", BNT 4
+#EXTINF:0 tvg-id="ext" group-title="BG", BNT 4
 http://46.10.218.219:8000/play/a04u
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", bTV Action
+#EXTINF:0 tvg-id="ext" group-title="BG", bTV Action
 http://46.10.218.219:8000/play/a04n
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", bTV Cinema
+#EXTINF:0 tvg-id="ext" group-title="BG", bTV Cinema
 http://46.10.218.219:8000/play/a04i
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", bTV Comedy
+#EXTINF:0 tvg-id="ext" group-title="BG", bTV Comedy
 http://46.10.218.219:8000/play/a04k
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", bTV Lady
+#EXTINF:0 tvg-id="ext" group-title="BG", bTV Lady
 http://46.10.218.219:8000/play/a05i
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", NovaNews
+#EXTINF:0 tvg-id="ext" group-title="BG", NovaNews
 http://46.10.218.219:8000/play/a063
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", The Voice
+#EXTINF:0 tvg-id="ext" group-title="BG", The Voice
 http://46.10.218.219:8000/play/a043
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Magic
+#EXTINF:0 tvg-id="ext" group-title="BG", Magic
 http://46.10.218.219:8000/play/a05p
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Evrokom
+#EXTINF:0 tvg-id="ext" group-title="BG", Evrokom
 http://46.10.218.219:8000/play/a053
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Bulgaria on Air
+#EXTINF:0 tvg-id="ext" group-title="BG", BG on Air
 http://46.10.218.219:8000/play/a05x
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Balkanika
+#EXTINF:0 tvg-id="ext" group-title="BG", Balkanika
 http://46.10.218.219:8000/play/a05h
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Ekids
+#EXTINF:0 tvg-id="ext" group-title="BG", Ekids
 http://46.10.218.219:8000/play/a06d
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Diema
+#EXTINF:0 tvg-id="ext" group-title="BG", Diema
 http://46.10.218.219:8000/play/a045
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", KinoNova
+#EXTINF:0 tvg-id="ext" group-title="BG", KinoNova
 http://46.10.218.219:8000/play/a041
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Diema Family
+#EXTINF:0 tvg-id="ext" group-title="BG", Diema Family
 http://46.10.218.219:8000/play/a047
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", NTV MIR
+#EXTINF:0 tvg-id="ext" group-title="BG", NTV MIR
 http://46.10.218.219:8000/play/a07b
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", ROSSIYA24
+#EXTINF:0 tvg-id="ext" group-title="BG", ROSSIYA24
 http://46.10.218.219:8000/play/a082
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", RTR
+#EXTINF:0 tvg-id="ext" group-title="BG", RTR
 http://46.10.218.219:8000/play/a079
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 8 TV RU
+#EXTINF:0 tvg-id="ext" group-title="BG", 8 TV RU
 http://46.10.218.219:8000/play/a083
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Euronews Russian
+#EXTINF:0 tvg-id="ext" group-title="BG", Euronews Russian
 http://46.10.218.219:8000/play/a077
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Ring HD
+#EXTINF:0 tvg-id="ext" group-title="BG", Ring HD
 http://46.10.218.219:8000/play/a06e
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TV Evropa
+#EXTINF:0 tvg-id="ext" group-title="BG", TV Evropa
 http://46.10.218.219:8000/play/a05e
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", AMC
+#EXTINF:0 tvg-id="ext" group-title="BG", AMC
 http://46.10.218.219:8000/play/a06f
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Bulgaria 24
+#EXTINF:0 tvg-id="ext" group-title="BG", BG 24
 http://46.10.218.219:8000/play/a06b
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TLC
+#EXTINF:0 tvg-id="ext" group-title="BG", TLC
 http://46.10.218.219:8000/play/a04m
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Animal Planet
+#EXTINF:0 tvg-id="ext" group-title="BG", Animal Planet
 http://46.10.218.219:8000/play/a05r
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Hobby TV
+#EXTINF:0 tvg-id="ext" group-title="BG", Hobby TV
 http://46.10.218.219:8000/play/a042
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Hobby Lov
+#EXTINF:0 tvg-id="ext" group-title="BG", Hobby Lov
 http://46.10.218.219:8000/play/a05q
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Viasat Explorer
+#EXTINF:0 tvg-id="ext" group-title="BG", Viasat Explorer
 http://46.10.218.219:8000/play/a058
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Viasat History
+#EXTINF:0 tvg-id="ext" group-title="BG", Viasat History
 http://46.10.218.219:8000/play/a03r
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Viasat Nature
+#EXTINF:0 tvg-id="ext" group-title="BG", Viasat Nature
 http://46.10.218.219:8000/play/a03s
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", History Channel
+#EXTINF:0 tvg-id="ext" group-title="BG", History Channel
 http://46.10.218.219:8000/play/a05u
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Travel Channel
+#EXTINF:0 tvg-id="ext" group-title="BG", Travel Channel
 http://46.10.218.219:8000/play/a04x
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", BBC World
+#EXTINF:0 tvg-id="ext" group-title="BG", BBC World
 http://46.10.218.219:8000/play/a08j
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", DW
+#EXTINF:0 tvg-id="ext" group-title="BG", DW
 http://46.10.218.219:8000/play/a08g
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TV5 Europe
+#EXTINF:0 tvg-id="ext" group-title="BG", TV5 Europe
 http://46.10.218.219:8000/play/a08i
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Docubox
+#EXTINF:0 tvg-id="ext" group-title="BG", Docubox
 http://46.10.218.219:8000/play/a05n
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", HGTV
+#EXTINF:0 tvg-id="ext" group-title="BG", HGTV
 http://46.10.218.219:8000/play/a04t
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", NG Wild
+#EXTINF:0 tvg-id="ext" group-title="BG", NG Wild
 http://46.10.218.219:8000/play/a06p
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", H2
+#EXTINF:0 tvg-id="ext" group-title="BG", H2
 http://46.10.218.219:8000/play/a06j
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", National Geographic
+#EXTINF:0 tvg-id="ext" group-title="BG", National Geographic
 http://46.10.218.219:8000/play/a048
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Discovery Channel
+#EXTINF:0 tvg-id="ext" group-title="BG", Discovery Channel
 http://46.10.218.219:8000/play/a044
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Planeta TV
+#EXTINF:0 tvg-id="ext" group-title="BG", Planeta TV
 http://46.10.218.219:8000/play/a03t
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Planeta Folk
+#EXTINF:0 tvg-id="ext" group-title="BG", Planeta Folk
 http://46.10.218.219:8000/play/a084
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", FEN TV
+#EXTINF:0 tvg-id="ext" group-title="BG", FEN TV
 http://46.10.218.219:8000/play/a05f
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Fen Folk TV
+#EXTINF:0 tvg-id="ext" group-title="BG", Fen Folk TV
 http://46.10.218.219:8000/play/a07d
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Folklor TV
+#EXTINF:0 tvg-id="ext" group-title="BG", Folklor TV
 http://46.10.218.219:8000/play/a07e
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", City TV
+#EXTINF:0 tvg-id="ext" group-title="BG", City TV
 http://46.10.218.219:8000/play/a06c
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 7/8 TV
+#EXTINF:0 tvg-id="ext" group-title="BG", 7/8 TV
 http://46.10.218.219:8000/play/a03u
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TV Plus
+#EXTINF:0 tvg-id="ext" group-title="BG", TV Plus
 http://46.10.218.219:8000/play/a03y
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", VH 1
+#EXTINF:0 tvg-id="ext" group-title="BG", VH 1
 http://46.10.218.219:8000/play/a03n
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", MTV 80s
+#EXTINF:0 tvg-id="ext" group-title="BG", MTV 80s
 http://46.10.218.219:8000/play/a06q
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", F Plus
+#EXTINF:0 tvg-id="ext" group-title="BG", F Plus
 http://46.10.218.219:8000/play/a03z
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Eurosport
+#EXTINF:0 tvg-id="ext" group-title="BG", Eurosport
 http://46.10.218.219:8000/play/a05y
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Eurosport 2
+#EXTINF:0 tvg-id="ext" group-title="BG", Eurosport 2
 http://46.10.218.219:8000/play/a04b
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Nova Sport
+#EXTINF:0 tvg-id="ext" group-title="BG", Nova Sport
 http://46.10.218.219:8000/play/a04a
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Start TV
+#EXTINF:0 tvg-id="ext" group-title="BG", Start TV
 http://46.10.218.219:8000/play/a07r
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", BBC World News
+#EXTINF:0 tvg-id="ext" group-title="BG", BBC World News
 http://46.10.218.219:8000/play/a080
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Football
+#EXTINF:0 tvg-id="ext" group-title="BG", Football
 http://46.10.218.219:8000/play/a08k
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", CTV
+#EXTINF:0 tvg-id="ext" group-title="BG", CTV
 http://46.10.218.219:8000/play/a08l
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 1TVRUS Europe
+#EXTINF:0 tvg-id="ext" group-title="BG", 1TVRUS Europe
 http://46.10.218.219:8000/play/a081
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", THT
+#EXTINF:0 tvg-id="ext" group-title="BG", THT
 http://46.10.218.219:8000/play/a076
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Nasha Tema
+#EXTINF:0 tvg-id="ext" group-title="BG", Nasha Tema
 http://46.10.218.219:8000/play/a07w
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 7D7
+#EXTINF:0 tvg-id="ext" group-title="BG", 7D7
 http://46.10.218.219:8000/play/a07a
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 2x2 Mpeg-4
+#EXTINF:0 tvg-id="ext" group-title="BG", 2x2 Mpeg-4
 http://46.10.218.219:8000/play/a07x
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TVRUS
+#EXTINF:0 tvg-id="ext" group-title="BG", TVRUS
 http://46.10.218.219:8000/play/a078
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", MIR
+#EXTINF:0 tvg-id="ext" group-title="BG", MIR
 http://46.10.218.219:8000/play/a07o
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", MIR 24
+#EXTINF:0 tvg-id="ext" group-title="BG", MIR 24
 http://46.10.218.219:8000/play/a07p
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Kinosat
+#EXTINF:0 tvg-id="ext" group-title="BG", Kinosat
 http://46.10.218.219:8000/play/a07t
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", RBC
+#EXTINF:0 tvg-id="ext" group-title="BG", RBC
 http://46.10.218.219:8000/play/a07l
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Super +0
+#EXTINF:0 tvg-id="ext" group-title="BG", Super +0
 http://46.10.218.219:8000/play/a07v
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TNT4
+#EXTINF:0 tvg-id="ext" group-title="BG", TNT4
 http://46.10.218.219:8000/play/a07u
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TPO
+#EXTINF:0 tvg-id="ext" group-title="BG", TPO
 http://46.10.218.219:8000/play/a07n
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Boomerang
+#EXTINF:0 tvg-id="ext" group-title="BG", Boomerang
 http://46.10.218.219:8000/play/a03o
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Nick Toons
+#EXTINF:0 tvg-id="ext" group-title="BG", Nick Toons
 http://46.10.218.219:8000/play/a04s
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Nickelodeon
+#EXTINF:0 tvg-id="ext" group-title="BG", Nickelodeon
 http://46.10.218.219:8000/play/a056
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Nick Jr
+#EXTINF:0 tvg-id="ext" group-title="BG", Nick Jr
 http://46.10.218.219:8000/play/a05k
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Cartoon Network
+#EXTINF:0 tvg-id="ext" group-title="BG", Cartoon Network
 http://46.10.218.219:8000/play/a05a
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Disney Channel
+#EXTINF:0 tvg-id="ext" group-title="BG", Disney Channel
 http://46.10.218.219:8000/play/a059
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Disney Junior
+#EXTINF:0 tvg-id="ext" group-title="BG", Disney Junior
 http://46.10.218.219:8000/play/a05m
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", STARS.TV
+#EXTINF:0 tvg-id="ext" group-title="BG", STARS.TV
 http://46.10.218.219:8000/play/a07g
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 4Fun.TV
+#EXTINF:0 tvg-id="ext" group-title="BG", 4Fun.TV
 http://46.10.218.219:8000/play/a07h
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 4Fun Dance
+#EXTINF:0 tvg-id="ext" group-title="BG", 4Fun Dance
 http://46.10.218.219:8000/play/a07j
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", 4Fun Kids
+#EXTINF:0 tvg-id="ext" group-title="BG", 4Fun Kids
 http://46.10.218.219:8000/play/a07i
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", ERT 2 HD
+#EXTINF:0 tvg-id="ext" group-title="BG", ERT 2 HD
 http://46.10.218.219:8000/play/a08e
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", ERT 3 HD
+#EXTINF:0 tvg-id="ext" group-title="BG", ERT 3 HD
 http://46.10.218.219:8000/play/a08f
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", FightBox
+#EXTINF:0 tvg-id="ext" group-title="BG", FightBox
 http://46.10.218.219:8000/play/a05o
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", ID Xtra
+#EXTINF:0 tvg-id="ext" group-title="BG", ID Xtra
 http://46.10.218.219:8000/play/a05g
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Discovery Science
+#EXTINF:0 tvg-id="ext" group-title="BG", Discovery Science
 http://46.10.218.219:8000/play/a04z
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Crime & Investigations
+#EXTINF:0 tvg-id="ext" group-title="BG", Crime & Investigations
 http://46.10.218.219:8000/play/a03p
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", DaVinci Learning
+#EXTINF:0 tvg-id="ext" group-title="BG", DaVinci Learning
 http://46.10.218.219:8000/play/a03q
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", AXN
+#EXTINF:0 tvg-id="ext" group-title="BG", AXN
 http://46.10.218.219:8000/play/a04d
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", AXN White
+#EXTINF:0 tvg-id="ext" group-title="BG", AXN White
 http://46.10.218.219:8000/play/a065
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", AXN Black
+#EXTINF:0 tvg-id="ext" group-title="BG", AXN Black
 http://46.10.218.219:8000/play/a066
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", FOX
+#EXTINF:0 tvg-id="ext" group-title="BG", FOX
 http://46.10.218.219:8000/play/a05c
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", FOX Life
+#EXTINF:0 tvg-id="ext" group-title="BG", FOX Life
 http://46.10.218.219:8000/play/a04f
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", FOX Crime
+#EXTINF:0 tvg-id="ext" group-title="BG", FOX Crime
 http://46.10.218.219:8000/play/a04h
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", FILMBOX
+#EXTINF:0 tvg-id="ext" group-title="BG", FILMBOX
 http://46.10.218.219:8000/play/a06i
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", FilmBox Start
+#EXTINF:0 tvg-id="ext" group-title="BG", FilmBox Start
 http://46.10.218.219:8000/play/a04r
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", Movie Star
+#EXTINF:0 tvg-id="ext" group-title="BG", Movie Star
 http://46.10.218.219:8000/play/a04y
-#EXTINF:0 tvg-id="ext" group-title="Bulgaria", TV1000
+#EXTINF:0 tvg-id="ext" group-title="BG", TV1000
 http://46.10.218.219:8000/play/a04w
-#EXTINF:0 tvg-id="ext" group-title="Portugal", BTV 1
+#EXTINF:0 tvg-id="ext" group-title="PT", BTV 1
 http://85.4.221.154:8000/play/a00n/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", BTV 1 HD
+#EXTINF:0 tvg-id="ext" group-title="PT", BTV 1 HD
 http://85.4.221.154:8000/play/a00x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", CBS Reality
+#EXTINF:0 tvg-id="ext" group-title="PT", CBS Reality
 http://85.4.221.154:8000/play/a00k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", CaĿavision
+#EXTINF:0 tvg-id="ext" group-title="PT", CaĿavision
 http://85.4.221.154:8000/play/a00i/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", Eleven 2 HD
+#EXTINF:0 tvg-id="ext" group-title="PT", Eleven 2 HD
 http://85.4.221.154:8000/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", Eleven 3
+#EXTINF:0 tvg-id="ext" group-title="PT", Eleven 3
 http://85.4.221.154:8000/play/a007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", Eleven 6
+#EXTINF:0 tvg-id="ext" group-title="PT", Eleven 6
 http://85.4.221.154:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", Eurosport 1
+#EXTINF:0 tvg-id="ext" group-title="PT", Eurosport 1
 http://85.4.221.154:8000/play/a01a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", Fox Comedy
+#EXTINF:0 tvg-id="ext" group-title="PT", Fox Comedy
 http://85.4.221.154:8000/play/a005/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", SPORT TV 1 HD
+#EXTINF:0 tvg-id="ext" group-title="PT", SPORT TV 1 HD
 http://85.4.221.154:8000/play/a00o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", SPORT TV 2 HD
+#EXTINF:0 tvg-id="ext" group-title="PT", SPORT TV 2 HD
 http://85.4.221.154:8000/play/a002/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", SPORT TV 3 HD
+#EXTINF:0 tvg-id="ext" group-title="PT", SPORT TV 3 HD
 http://85.4.221.154:8000/play/a003/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Portugal", Travel Channel HD
+#EXTINF:0 tvg-id="ext" group-title="PT", Travel Channel HD
 http://85.4.221.154:8000/play/a012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", AMC
+#EXTINF:0 tvg-id="ext" group-title="CZ", AMC
 http://82.197.212.210:8000/play/a12h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", AXN CZ
+#EXTINF:0 tvg-id="ext" group-title="CZ", AXN CZ
 http://82.197.212.210:8000/play/a11o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Boomerang CZ
+#EXTINF:0 tvg-id="ext" group-title="CZ", Boomerang CZ
 http://82.197.212.210:8000/play/a0yx/index. m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", CAZ
+#EXTINF:0 tvg-id="ext" group-title="CZ", CAZ
 http://82.197.212.210:8000/play/a10b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", CAZ2
+#EXTINF:0 tvg-id="ext" group-title="CZ", CAZ2
 http://82.197.212.210:8000/play/a107/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Canvas HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Canvas HD
 http://82.197.212.210:8000/play/a0yd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", DAJTO HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", DAJTO HD
 http://82.197.212.210:8000/play/a12t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", DOCUBOX
+#EXTINF:0 tvg-id="ext" group-title="CZ", DOCUBOX
 http://82.197.212.210:8000/play/a11v/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", DOMA HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", DOMA HD
 http://82.197.212.210:8000/play/a116/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Disney CZ
+#EXTINF:0 tvg-id="ext" group-title="CZ", Disney CZ
 http://82.197.212.210:8000/play/a12i/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Epic Drama HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Epic Drama HD
 http://82.197.212.210:8000/play/a130/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", FIGHTBOX
+#EXTINF:0 tvg-id="ext" group-title="CZ", FIGHTBOX
 http://82.197.212.210:8000/play/a0za/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", FOX Sports 2 HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", FOX SP 2 HD
 http://82.197.212.210:8000/play/a0zr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Filmbox
+#EXTINF:0 tvg-id="ext" group-title="CZ", Filmbox
 http://82.197.212.210:8000/play/a121/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", HBO HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", HBO HD
 http://82.197.212.210:8000/play/a11d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", JOJ Family HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", JOJ Family HD
 http://82.197.212.210:8000/play/a10u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", JOJ PLUS HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", JOJ PLUS HD
 http://82.197.212.210:8000/play/a12v/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", KetOp12
+#EXTINF:0 tvg-id="ext" group-title="CZ", KetOp12
 http://82.197.212.210:8000/play/a108/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Markiza +1 HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Markiza +1 HD
 http://82.197.212.210:8000/play/a113/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Markiza HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Markiza HD
 http://82.197.212.210:8000/play/a115/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Markiza International
+#EXTINF:0 tvg-id="ext" group-title="CZ", Markiza International
 http://82.197.212.210:8000/play/a10r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nat Geo HD CZ
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nat Geo HD CZ
 http://82.197.212.210:8000/play/a119/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", National Geographic Wild HD CZ
+#EXTINF:0 tvg-id="ext" group-title="CZ", National Geographic Wild HD CZ
 http://82.197.212.210:8000/play/a11b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nautical HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nautical HD
 http://82.197.212.210:8000/play/a0zs/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nick Jr Czech
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nick Jr CZ
 http://82.197.212.210:8000/play/a127/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova +1 HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova +1 HD
 http://82.197.212.210:8000/play/a112/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova 2
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova 2
 http://82.197.212.210:8000/play/a10t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova Action HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova Action HD
 http://82.197.212.210:8000/play/a12q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova Cinema HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova Cinema HD
 http://82.197.212.210:8000/play/a12r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova Gold
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova Gold
 http://82.197.212.210:8000/play/a10s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova HD
 http://82.197.212.210:8000/play/a12n/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova International
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova International
 http://82.197.212.210:8000/play/a12x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova Sport 1 HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova Sport 1 HD
 http://82.197.212.210:8000/play/a12p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Nova Sport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Nova Sport 2 HD
 http://82.197.212.210:8000/play/a10p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Play7
+#EXTINF:0 tvg-id="ext" group-title="CZ", Play7
 http://82.197.212.210:8000/play/a142/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Prima COOL HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Prima COOL HD
 http://82.197.212.210:8000/play/a12s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Prima Comedy Central
+#EXTINF:0 tvg-id="ext" group-title="CZ", Prima Comedy Central
 http://82.197.212.210:8000/play/a11w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Prima HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Prima HD
 http://82.197.212.210:8000/play/a12o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Prima Love
+#EXTINF:0 tvg-id="ext" group-title="CZ", Prima Love
 http://82.197.212.210:8000/play/a126/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Prima MAX HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Prima MAX HD
 http://82.197.212.210:8000/play/a11x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Prima ZOOM HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Prima ZOOM HD
 http://82.197.212.210:8000/play/a120/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Q2 HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Q2 HD
 http://82.197.212.210:8000/play/a0zm/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Sport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", Sport 2 HD
 http://82.197.212.210:8000/play/a11q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", Sport 5
+#EXTINF:0 tvg-id="ext" group-title="CZ", Sport 5
 http://82.197.212.210:8000/play/a11r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Czech", TV JOJ HD
+#EXTINF:0 tvg-id="ext" group-title="CZ", TV JOJ HD
 http://82.197.212.210:8000/play/a12u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Travel XP HD BNL
+#EXTINF:0 tvg-id="ext" group-title="HL", Travel XP HD BNL
 http://82.197.212.210:8000/play/a0z0/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", VIER HD
+#EXTINF:0 tvg-id="ext" group-title="HL", VIER HD
 http://82.197.212.210:8000/play/a0zn/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", VTM 2 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", VTM 2 HD
 http://82.197.212.210:8000/play/a13p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", VTM 3
+#EXTINF:0 tvg-id="ext" group-title="HL", VTM 3
 http://82.197.212.210:8000/play/a13n/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", VTM 4
+#EXTINF:0 tvg-id="ext" group-title="HL", VTM 4
 http://82.197.212.210:8000/play/a13o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", VTM HD
+#EXTINF:0 tvg-id="ext" group-title="HL", VTM HD
 http://82.197.212.210:8000/play/a0zi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Vitaya
+#EXTINF:0 tvg-id="ext" group-title="HL", Vitaya
 http://82.197.212.210:8000/play/a10a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", WAU HD
+#EXTINF:0 tvg-id="ext" group-title="HL", WAU HD
 http://82.197.212.210:8000/play/a10q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ZES
+#EXTINF:0 tvg-id="ext" group-title="HL", ZES
 http://82.197.212.210:8000/play/a0zq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", duck TV DUT
+#EXTINF:0 tvg-id="ext" group-title="HL", duck TV DUT
 http://82.197.212.210:8000/play/a12a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", een HD
+#EXTINF:0 tvg-id="ext" group-title="HL", een HD
 http://82.197.212.210:8000/play/a0yb/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", vtm KIDS
+#EXTINF:0 tvg-id="ext" group-title="HL", vtm KIDS
 http://82.197.212.210:8000/play/a109/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO 1
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO 1
 http://130.89.191.170:5000/udp/239.89.160.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO 2
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO 2
 http://130.89.191.170:5000/udp/239.89.160.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO 3
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO 3
 http://130.89.191.170:5000/udp/239.89.160.3:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 4
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 4
 http://130.89.191.170:5000/udp/239.89.160.4:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 5
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 5
 http://130.89.191.170:5000/udp/239.89.160.5:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 7
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 7
 http://130.89.191.170:5000/udp/239.89.160.7:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SBS6
+#EXTINF:0 tvg-id="ext" group-title="HL", SBS6
 http://130.89.191.170:5000/udp/239.89.160.6:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 8
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 8
 http://130.89.191.170:5000/udp/239.89.160.8:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Net5
+#EXTINF:0 tvg-id="ext" group-title="HL", Net5
 http://130.89.191.170:5000/udp/239.89.160.9:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SBS9
+#EXTINF:0 tvg-id="ext" group-title="HL", SBS9
 http://130.89.191.170:5000/udp/239.89.160.10:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Veronica / Disney 
+#EXTINF:0 tvg-id="ext" group-title="HL", Veronica / Disney 
 http://130.89.191.170:5000/udp/239.89.160.11:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Comedy Central
+#EXTINF:0 tvg-id="ext" group-title="HL", Comedy Central
 http://130.89.191.170:5000/udp/239.89.160.12:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", FOX
+#EXTINF:0 tvg-id="ext" group-title="HL", FOX
 http://130.89.191.170:5000/udp/239.89.160.13:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Ziggo Sport
+#EXTINF:0 tvg-id="ext" group-title="HL", Ziggo Sport
 http://130.89.191.170:5000/udp/239.89.160.14:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Eurosport 1
+#EXTINF:0 tvg-id="ext" group-title="HL", Eurosport 1
 http://130.89.191.170:5000/udp/239.89.160.15:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO Nieuws
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO Nieuws
 http://130.89.191.170:5000/udp/239.89.160.16:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO Politiek
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO Politiek
 http://130.89.191.170:5000/udp/239.89.160.17:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL Z
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL Z
 http://130.89.191.170:5000/udp/239.89.160.18:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC World News
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC World News
 http://130.89.191.170:5000/udp/239.89.160.19:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", CNN
+#EXTINF:0 tvg-id="ext" group-title="HL", CNN
 http://130.89.191.170:5000/udp/239.89.160.20:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Euronews
+#EXTINF:0 tvg-id="ext" group-title="HL", Euronews
 http://130.89.191.170:5000/udp/239.89.160.21:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Aljazeera English
+#EXTINF:0 tvg-id="ext" group-title="HL", Aljazeera English
 http://130.89.191.170:5000/udp/239.89.160.22:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", MTV
+#EXTINF:0 tvg-id="ext" group-title="HL", MTV
 http://130.89.191.170:5000/udp/239.89.160.23:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Sony Movies
+#EXTINF:0 tvg-id="ext" group-title="HL", Sony RS
 http://130.89.191.170:5000/udp/239.89.160.24:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Sony Movies+1
+#EXTINF:0 tvg-id="ext" group-title="HL", Sony RS+1
 http://130.89.191.170:5000/udp/239.89.160.25:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Discovery
+#EXTINF:0 tvg-id="ext" group-title="HL", Discovery
 http://130.89.191.170:5000/udp/239.89.160.28:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Stingray Classica
+#EXTINF:0 tvg-id="ext" group-title="HL", Stingray Classica
 http://130.89.191.170:5000/udp/239.89.160.27:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", XITE
+#EXTINF:0 tvg-id="ext" group-title="HL", XITE
 http://130.89.191.170:5000/udp/239.89.160.26:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", National Geographic Channel
+#EXTINF:0 tvg-id="ext" group-title="HL", National Geographic Channel
 http://130.89.191.170:5000/udp/239.89.160.29:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", HISTORY
+#EXTINF:0 tvg-id="ext" group-title="HL", HISTORY
 http://130.89.191.170:5000/udp/239.89.160.30:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ID
+#EXTINF:0 tvg-id="ext" group-title="HL", ID
 http://130.89.191.170:5000/udp/239.89.160.33:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC One
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC One
 http://130.89.191.170:5000/udp/239.89.160.34:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC Two
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC Two
 http://130.89.191.170:5000/udp/239.89.160.35:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Channel 4
+#EXTINF:0 tvg-id="ext" group-title="HL", Channel 4
 http://130.89.191.170:5000/udp/239.89.160.37:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", E4
+#EXTINF:0 tvg-id="ext" group-title="HL", E4
 http://130.89.191.170:5000/udp/239.89.160.38:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", 4seven
+#EXTINF:0 tvg-id="ext" group-title="HL", 4seven
 http://130.89.191.170:5000/udp/239.89.160.39:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Film4
+#EXTINF:0 tvg-id="ext" group-title="HL", Film4
 http://130.89.191.170:5000/udp/239.89.160.41:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC Four
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC Four
 http://130.89.191.170:5000/udp/239.89.160.36:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Sony Channel+1
+#EXTINF:0 tvg-id="ext" group-title="HL", Sony Channel+1
 http://130.89.191.170:5000/udp/239.89.160.43:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Sony Channel
+#EXTINF:0 tvg-id="ext" group-title="HL", Sony Channel
 http://130.89.191.170:5000/udp/239.89.160.44:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Sony Classic
+#EXTINF:0 tvg-id="ext" group-title="HL", Sony Classic
 http://130.89.191.170:5000/udp/239.89.160.45:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Sony Classic+1
+#EXTINF:0 tvg-id="ext" group-title="HL", Sony Classic+1
 http://130.89.191.170:5000/udp/239.89.160.46:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ONS
+#EXTINF:0 tvg-id="ext" group-title="HL", ONS
 http://130.89.191.170:5000/udp/239.89.160.48:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Cartoon Network
+#EXTINF:0 tvg-id="ext" group-title="HL", Cartoon Network
 http://130.89.191.170:5000/udp/239.89.160.49:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", 24Kitchen
+#EXTINF:0 tvg-id="ext" group-title="HL", 24Kitchen
 http://130.89.191.170:5000/udp/239.89.160.47:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO Zappelin extra
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO Zappelin extra
 http://130.89.191.170:5000/udp/239.89.160.51:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Family7
+#EXTINF:0 tvg-id="ext" group-title="HL", Family7
 http://130.89.191.170:5000/udp/239.89.160.52:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TLC
+#EXTINF:0 tvg-id="ext" group-title="HL", TLC
 http://130.89.191.170:5000/udp/239.89.160.53:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Spike
+#EXTINF:0 tvg-id="ext" group-title="HL", Spike
 http://130.89.191.170:5000/udp/239.89.160.54:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Fashion Tv
+#EXTINF:0 tvg-id="ext" group-title="HL", Fashion Tv
 http://130.89.191.170:5000/udp/239.89.160.56:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch",1Twente
+#EXTINF:0 tvg-id="ext" group-title="HL",1Twente
 http://130.89.191.170:5000/udp/239.89.160.61:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", AT5
+#EXTINF:0 tvg-id="ext" group-title="HL", AT5
 http://130.89.191.170:5000/udp/239.89.160.62:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", L1 TV
+#EXTINF:0 tvg-id="ext" group-title="HL", L1 TV
 http://130.89.191.170:5000/udp/239.89.160.63:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Omrop Fryslтn
+#EXTINF:0 tvg-id="ext" group-title="HL", Omrop Fryslтn
 http://130.89.191.170:5000/udp/239.89.160.64:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Omroep Flevoland
+#EXTINF:0 tvg-id="ext" group-title="HL", Omroep Flevoland
 http://130.89.191.170:5000/udp/239.89.160.65:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TV Gelderland
+#EXTINF:0 tvg-id="ext" group-title="HL", TV Gelderland
 http://130.89.191.170:5000/udp/239.89.160.66:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Omroep Zeeland
+#EXTINF:0 tvg-id="ext" group-title="HL", Omroep Zeeland
 http://130.89.191.170:5000/udp/239.89.160.67:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Omroep Brabant
+#EXTINF:0 tvg-id="ext" group-title="HL", Omroep Brabant
 http://130.89.191.170:5000/udp/239.89.160.68:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTV Utrecht
+#EXTINF:0 tvg-id="ext" group-title="HL", RTV Utrecht
 http://130.89.191.170:5000/udp/239.89.160.69:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TV Drenthe
+#EXTINF:0 tvg-id="ext" group-title="HL", TV Drenthe
 http://130.89.191.170:5000/udp/239.89.160.70:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TV Noord
+#EXTINF:0 tvg-id="ext" group-title="HL", TV Noord
 http://130.89.191.170:5000/udp/239.89.160.71:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NH Nieuws
+#EXTINF:0 tvg-id="ext" group-title="HL", NH Nieuws
 http://130.89.191.170:5000/udp/239.89.160.72:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TV Oost
+#EXTINF:0 tvg-id="ext" group-title="HL", TV Oost
 http://130.89.191.170:5000/udp/239.89.160.73:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TV Rijnmond
+#EXTINF:0 tvg-id="ext" group-title="HL", TV Rijnmond
 http://130.89.191.170:5000/udp/239.89.160.74:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TV West
+#EXTINF:0 tvg-id="ext" group-title="HL", TV West
 http://130.89.191.170:5000/udp/239.89.160.75:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Twente TV
+#EXTINF:0 tvg-id="ext" group-title="HL", Twente TV
 http://130.89.191.170:5000/udp/239.89.160.76:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ARD
+#EXTINF:0 tvg-id="ext" group-title="HL", ARD
 http://130.89.191.170:5000/udp/239.89.160.79:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ARD-alpha
+#EXTINF:0 tvg-id="ext" group-title="HL", ARD-alpha
 http://130.89.191.170:5000/udp/239.89.160.80:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", kabel eins
+#EXTINF:0 tvg-id="ext" group-title="HL", kabel eins
 http://130.89.191.170:5000/udp/239.89.160.81:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NDR
+#EXTINF:0 tvg-id="ext" group-title="HL", NDR
 http://130.89.191.170:5000/udp/239.89.160.82:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ProSieben
+#EXTINF:0 tvg-id="ext" group-title="HL", ProSieben
 http://130.89.191.170:5000/udp/239.89.160.83:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL2
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL2
 http://130.89.191.170:5000/udp/239.89.160.85:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch",RTL Television
+#EXTINF:0 tvg-id="ext" group-title="HL",RTL Television
 http://130.89.191.170:5000/udp/239.89.160.84:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SAT.1
+#EXTINF:0 tvg-id="ext" group-title="HL", SAT.1
 http://130.89.191.170:5000/udp/239.89.160.86:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SAT.1 Gold
+#EXTINF:0 tvg-id="ext" group-title="HL", SAT.1 Gold
 http://130.89.191.170:5000/udp/239.89.160.87:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SR Fernsehen
+#EXTINF:0 tvg-id="ext" group-title="HL", SR Fernsehen
 http://130.89.191.170:5000/udp/239.89.160.88:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SUPER RTL
+#EXTINF:0 tvg-id="ext" group-title="HL", SUPER RTL
 http://130.89.191.170:5000/udp/239.89.160.89:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SWR BW HD
+#EXTINF:0 tvg-id="ext" group-title="HL", SWR BW HD
 http://130.89.191.170:5000/udp/239.89.160.90:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", WDR
+#EXTINF:0 tvg-id="ext" group-title="HL", WDR
 http://130.89.191.170:5000/udp/239.89.160.91:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", WELT
+#EXTINF:0 tvg-id="ext" group-title="HL", WELT
 http://130.89.191.170:5000/udp/239.89.160.92:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ZDF
+#EXTINF:0 tvg-id="ext" group-title="HL", ZDF
 http://130.89.191.170:5000/udp/239.89.160.94:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", VOX
+#EXTINF:0 tvg-id="ext" group-title="HL", VOX
 http://130.89.191.170:5000/udp/239.89.160.93:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", щщn
+#EXTINF:0 tvg-id="ext" group-title="HL", щщn
 http://130.89.191.170:5000/udp/239.89.160.97:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", France 24 (In English)
+#EXTINF:0 tvg-id="ext" group-title="HL", France 24 (In English)
 http://130.89.191.170:5000/udp/239.89.160.100:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TV5MONDE EUROPE HD
+#EXTINF:0 tvg-id="ext" group-title="HL", TV5MONDE EUROPE HD
 http://130.89.191.170:5000/udp/239.89.160.101:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Mediaset Italia
+#EXTINF:0 tvg-id="ext" group-title="HL", Mediaset Italia
 http://130.89.191.170:5000/udp/239.89.160.103:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTV-7
+#EXTINF:0 tvg-id="ext" group-title="HL", RTV-7
 http://130.89.191.170:5000/udp/239.89.160.105:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", 2M
+#EXTINF:0 tvg-id="ext" group-title="HL", 2M
 http://130.89.191.170:5000/udp/239.89.160.106:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Canvas
+#EXTINF:0 tvg-id="ext" group-title="HL", Canvas
 http://130.89.191.170:5000/udp/239.89.160.98:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", CGTN
+#EXTINF:0 tvg-id="ext" group-title="HL", CGTN
 http://130.89.191.170:5000/udp/239.89.160.108:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", CGTN
+#EXTINF:0 tvg-id="ext" group-title="HL", CGTN
 http://130.89.191.170:5000/udp/239.89.160.109:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Al Jazeera
+#EXTINF:0 tvg-id="ext" group-title="HL", Al Jazeera
 http://130.89.191.170:5000/udp/239.89.160.111:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Al Jazeera Documentary
+#EXTINF:0 tvg-id="ext" group-title="HL", Al Jazeera Documentary
 http://130.89.191.170:5000/udp/239.89.160.112:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Ketnet
+#EXTINF:0 tvg-id="ext" group-title="HL", Ketnet
 http://130.89.191.170:5000/udp/239.89.160.114:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", CBeebies
+#EXTINF:0 tvg-id="ext" group-title="HL", CBeebies
 http://130.89.191.170:5000/udp/239.89.160.116:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", POP
+#EXTINF:0 tvg-id="ext" group-title="HL", POP
 http://130.89.191.170:5000/udp/239.89.160.118:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TVE
+#EXTINF:0 tvg-id="ext" group-title="HL", TVE
 http://130.89.191.170:5000/udp/239.89.160.102:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", POP Max
+#EXTINF:0 tvg-id="ext" group-title="HL", POP Max
 http://130.89.191.170:5000/udp/239.89.160.119:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", POP Max+1
+#EXTINF:0 tvg-id="ext" group-title="HL", POP Max+1
 http://130.89.191.170:5000/udp/239.89.160.120:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", POP+1
+#EXTINF:0 tvg-id="ext" group-title="HL", POP+1
 http://130.89.191.170:5000/udp/239.89.160.121:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Tiny Pop
+#EXTINF:0 tvg-id="ext" group-title="HL", Tiny Pop
 http://130.89.191.170:5000/udp/239.89.160.122:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Tiny Pop+1
+#EXTINF:0 tvg-id="ext" group-title="HL", Tiny Pop+1
 http://130.89.191.170:5000/udp/239.89.160.123:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Nickelodeon
+#EXTINF:0 tvg-id="ext" group-title="HL", Nickelodeon
 http://130.89.191.170:5000/udp/239.89.160.124:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Disney Channel
+#EXTINF:0 tvg-id="ext" group-title="HL", Disney Channel
 http://130.89.191.170:5000/udp/239.89.160.125:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO 1 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO 1 HD
 http://130.89.191.170:5000/udp/239.89.161.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO 2 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO 2 HD
 http://130.89.191.170:5000/udp/239.89.161.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO 3 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO 3 HD
 http://130.89.191.170:5000/udp/239.89.161.3:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 5 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 5 HD
 http://130.89.191.170:5000/udp/239.89.161.5:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SBS6 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", SBS6 HD
 http://130.89.191.170:5000/udp/239.89.161.6:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 7 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 7 HD
 http://130.89.191.170:5000/udp/239.89.161.7:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 8 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 8 HD
 http://130.89.191.170:5000/udp/239.89.161.8:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Net5 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Net5 HD
 http://130.89.191.170:5000/udp/239.89.161.9:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SBS9 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", SBS9 HD
 http://130.89.191.170:5000/udp/239.89.161.10:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Comedy Central HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Comedy Central HD
 http://130.89.191.170:5000/udp/239.89.161.12:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Eurosport 1 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Eurosport 1 HD
 http://130.89.191.170:5000/udp/239.89.161.15:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL Z HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL Z HD
 http://130.89.191.170:5000/udp/239.89.161.18:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", MTV HD
+#EXTINF:0 tvg-id="ext" group-title="HL", MTV HD
 http://130.89.191.170:5000/udp/239.89.161.23:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Ziggo Sport HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Ziggo Sport HD
 http://130.89.191.170:5000/udp/239.89.161.14:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", XITE HD
+#EXTINF:0 tvg-id="ext" group-title="HL", XITE HD
 http://130.89.191.170:5000/udp/239.89.161.26:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL 4
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL 4
 http://130.89.191.170:5000/udp/239.89.161.4:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Discovery HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Discovery HD
 http://130.89.191.170:5000/udp/239.89.161.28:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", National Geographic Channel HD
+#EXTINF:0 tvg-id="ext" group-title="HL", National Geographic Channel HD
 http://130.89.191.170:5000/udp/239.89.161.29:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", HISTORY HD
+#EXTINF:0 tvg-id="ext" group-title="HL", HISTORY HD
 http://130.89.191.170:5000/udp/239.89.161.30:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ID HD
+#EXTINF:0 tvg-id="ext" group-title="HL", ID HD
 http://130.89.191.170:5000/udp/239.89.161.33:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Veronica / Disney 
+#EXTINF:0 tvg-id="ext" group-title="HL", Veronica / Disney 
 http://130.89.191.170:5000/udp/239.89.161.11:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC One HD
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC One HD
 http://130.89.191.170:5000/udp/239.89.161.34:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC Two HD
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC Two HD
 http://130.89.191.170:5000/udp/239.89.161.35:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Channel 4 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Channel 4 HD
 http://130.89.191.170:5000/udp/239.89.161.37:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC Four HD
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC Four HD
 http://130.89.191.170:5000/udp/239.89.161.36:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC NEWS HD
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC NEWS HD
 http://130.89.191.170:5000/udp/239.89.161.40:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", 24Kitchen HD
+#EXTINF:0 tvg-id="ext" group-title="HL", 24Kitchen HD
 http://130.89.191.170:5000/udp/239.89.161.47:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", BBC First HD
+#EXTINF:0 tvg-id="ext" group-title="HL", BBC First HD
 http://130.89.191.170:5000/udp/239.89.161.42:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TLC HD
+#EXTINF:0 tvg-id="ext" group-title="HL", TLC HD
 http://130.89.191.170:5000/udp/239.89.161.53:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Spike HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Spike HD
 http://130.89.191.170:5000/udp/239.89.161.54:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", 3sat HD
+#EXTINF:0 tvg-id="ext" group-title="HL", 3sat HD
 http://130.89.191.170:5000/udp/239.89.161.77:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", arte HD
+#EXTINF:0 tvg-id="ext" group-title="HL", arte HD
 http://130.89.191.170:5000/udp/239.89.161.78:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ARD HD
+#EXTINF:0 tvg-id="ext" group-title="HL", ARD HD
 http://130.89.191.170:5000/udp/239.89.161.79:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ZDFinfo HD
+#EXTINF:0 tvg-id="ext" group-title="HL", ZDFinfo HD
 http://130.89.191.170:5000/udp/239.89.161.95:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", zdf_neo HD
+#EXTINF:0 tvg-id="ext" group-title="HL", zdf_neo HD
 http://130.89.191.170:5000/udp/239.89.161.96:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", ZDF HD
+#EXTINF:0 tvg-id="ext" group-title="HL", ZDF HD
 http://130.89.191.170:5000/udp/239.89.161.94:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Canvas HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Canvas HD
 http://130.89.191.170:5000/udp/239.89.161.98:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", щщn HD
+#EXTINF:0 tvg-id="ext" group-title="HL", щщn HD
 http://130.89.191.170:5000/udp/239.89.161.97:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", TRT World HD
+#EXTINF:0 tvg-id="ext" group-title="HL", TRT World HD
 http://130.89.191.170:5000/udp/239.89.161.99:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RT HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RT HD
 http://130.89.191.170:5000/udp/239.89.161.107:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Arirang TV HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Arirang TV HD
 http://130.89.191.170:5000/udp/239.89.161.110:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NHK World HD
+#EXTINF:0 tvg-id="ext" group-title="HL", NHK World HD
 http://130.89.191.170:5000/udp/239.89.161.113:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", KiKA HD
+#EXTINF:0 tvg-id="ext" group-title="HL", KiKA HD
 http://130.89.191.170:5000/udp/239.89.161.117:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", CBBC HD
+#EXTINF:0 tvg-id="ext" group-title="HL", CBBC HD
 http://130.89.191.170:5000/udp/239.89.161.115:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", CBeebies HD
+#EXTINF:0 tvg-id="ext" group-title="HL", CBeebies HD
 http://130.89.191.170:5000/udp/239.89.161.116:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Nickelodeon HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Nickelodeon HD
 http://130.89.191.170:5000/udp/239.89.161.124:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", New HD
+#EXTINF:0 tvg-id="ext" group-title="HL", New HD
 http://130.89.191.170:5000/udp/239.89.161.126:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", FreeSports HD
+#EXTINF:0 tvg-id="ext" group-title="HL", FreeSP HD
 http://130.89.191.170:5000/udp/239.89.161.134:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", QUEST HD
+#EXTINF:0 tvg-id="ext" group-title="HL", QUEST HD
 http://130.89.191.170:5000/udp/239.89.161.135:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", S4C HD
+#EXTINF:0 tvg-id="ext" group-title="HL", S4C HD
 http://130.89.191.170:5000/udp/239.89.161.136:1234
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery Science (NO/SE/DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",Discovery Science (NO/SE/DK)
 http://195.222.7.26:7001/play/a02d
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",ID (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",ID (SE)
 http://195.222.7.26:7001/play/a00a
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TV3 HD (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",TV3 HD (NO)
 http://195.222.7.26:7001/play/a015
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",ID (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",ID (DK)
 http://195.222.7.26:7001/play/a00v
-#EXTINF:0 tvg-id="cnbc" group-title="Scandinavia",CNBC
+#EXTINF:0 tvg-id="cnbc" group-title="SC",CNBC
 http://195.222.7.26:7001/play/a02c
-#EXTINF:0 tvg-id="dwelle" group-title="Scandinavia",DW English
+#EXTINF:0 tvg-id="dwelle" group-title="SC",DW English
 http://195.222.7.26:7001/play/a02b
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery HD (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",Discovery HD (NO)
 http://195.222.7.26:7001/play/a00c
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TLC HD (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",TLC HD (SE)
 http://195.222.7.26:7001/play/a00e
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Sport Live (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",Sport Live (DK)
 http://195.222.7.26:7001/play/a00t
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Kanal 4 HD (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",Kanal 4 HD (DK)
 http://195.222.7.26:7001/play/a018
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Paramount Network (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",Paramount Network (DK)
 http://195.222.7.26:7001/play/a00i
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",FEM HD (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",FEM HD (NO)
 http://195.222.7.26:7001/play/a016
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nickelodeon (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",Nickelodeon (NO)
 http://195.222.7.26:7001/play/a00k
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Rikstoto Direkte HD
+#EXTINF:0 tvg-id="ext" group-title="SC",Rikstoto Direkte HD
 http://195.222.7.26:7001/play/a01h
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Matkanalen (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",Matkanalen (NO)
 http://195.222.7.26:7001/play/a00o
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nickelodeon (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",Nickelodeon (SE)
 http://195.222.7.26:7001/play/a00j
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",NickToons (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",NickToons (NO)
 http://195.222.7.26:7001/play/a00p
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery HD (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",Discovery HD (DK)
 http://195.222.7.26:7001/play/a00d
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TLC (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",TLC (DK)
 http://195.222.7.26:7001/play/a00g
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",ID (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",ID (NO)
 http://195.222.7.26:7001/play/a00q
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",BBC BRIT HD (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",BBC BRIT HD (SE)
 http://195.222.7.26:7001/play/a029
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Paramount Network (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",Paramount Network (SE)
 http://195.222.7.26:7001/play/a00l
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",MTV (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",MTV (SE)
 http://195.222.7.26:7001/play/a00n
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nick Jr (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",Nick Jr (NO)
 http://195.222.7.26:7001/play/a00m
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",TLC HD (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",TLC HD (NO)
 http://195.222.7.26:7001/play/a00f
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Discovery HD (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",Discovery HD (SE)
 http://195.222.7.26:7001/play/a00b
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",BBC BRIT HD (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",BBC BRIT HD (NO)
 http://195.222.7.26:7001/play/a01g
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Kanal 11 HD (SE)
+#EXTINF:0 tvg-id="ext" group-title="SC",Kanal 11 HD (SE)
 http://195.222.7.26:7001/play/a019
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",VOX HD (NO)
+#EXTINF:0 tvg-id="ext" group-title="SC",VOX HD (NO)
 http://195.222.7.26:7001/play/a017
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",dk4 (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",dk4 (DK)
 http://195.222.7.26:7001/play/a00u
-#EXTINF:0 tvg-id="ext" group-title="Scandinavia",Nickelodeon (DK)
+#EXTINF:0 tvg-id="ext" group-title="SC",Nickelodeon (DK)
 http://195.222.7.26:7001/play/a00h
-#EXTINF:0 tvg-id="ext" group-title="Germany", 3sat
+#EXTINF:0 tvg-id="ext" group-title="DE", 3sat
 http://80.24.75.92:5555/udp/239.110.16.3:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", KiKA
+#EXTINF:0 tvg-id="ext" group-title="DE", KiKA
 http://80.24.75.92:5555/udp/239.110.16.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", ZDF
+#EXTINF:0 tvg-id="ext" group-title="DE", ZDF
 http://80.24.75.92:5555/udp/239.110.16.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", RTL  Television
+#EXTINF:0 tvg-id="ext" group-title="DE", RTL  Television
 http://80.24.75.92:5555/udp/239.110.17.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", RTL2
+#EXTINF:0 tvg-id="ext" group-title="DE", RTL2
 http://80.24.75.92:5555/udp/239.110.17.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", New
+#EXTINF:0 tvg-id="ext" group-title="DE", New
 http://80.24.75.92:5555/udp/239.110.17.3:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", arte
+#EXTINF:0 tvg-id="ext" group-title="DE", arte
 http://80.24.75.92:5555/udp/239.110.18.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", Das Erste
+#EXTINF:0 tvg-id="ext" group-title="DE", Das Erste
 http://80.24.75.92:5555/udp/239.110.19.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", New
+#EXTINF:0 tvg-id="ext" group-title="DE", New
 http://80.24.75.92:5555/udp/239.110.20.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", ProSieben
+#EXTINF:0 tvg-id="ext" group-title="DE", ProSieben
 http://80.24.75.92:5555/udp/239.110.20.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", arte
+#EXTINF:0 tvg-id="ext" group-title="DE", arte
 http://80.24.75.92:5555/udp/239.110.22.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany", New
+#EXTINF:0 tvg-id="ext" group-title="DE", New
 http://80.24.75.92:5555/udp/239.111.0.3:1234
-#EXTINF:0 tvg-id="ext" group-title="Germany",1-2-3.tv
+#EXTINF:0 tvg-id="ext" group-title="DE",1-2-3.tv
 http://185.234.111.37:8880/play/a02h
-#EXTINF:0 tvg-id="ext" group-title="Germany", 13th Street HD
+#EXTINF:0 tvg-id="ext" group-title="DE", 13th Street HD
 http://185.234.111.37:8880/play/a057
-#EXTINF:0 tvg-id="ext" group-title="Germany", 3sat HD
+#EXTINF:0 tvg-id="ext" group-title="DE", 3sat HD
 http://185.234.111.37:8880/play/a01u
-#EXTINF:0 tvg-id="ext" group-title="Germany", ANIXE HD
+#EXTINF:0 tvg-id="ext" group-title="DE", ANIXE HD
 http://185.234.111.37:8880/play/a02o
-#EXTINF:0 tvg-id="ext" group-title="Germany", ANIXE+
+#EXTINF:0 tvg-id="ext" group-title="DE", ANIXE+
 http://185.234.111.37:8880/play/a02i
-#EXTINF:0 tvg-id="ext" group-title="Germany", Beate Uhse HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Beate Uhse HD
 http://185.234.111.37:8880/play/a04g
-#EXTINF:0 tvg-id="ext" group-title="Germany", Boomerang
+#EXTINF:0 tvg-id="ext" group-title="DE", Boomerang
 http://185.234.111.37:8880/play/a04f
-#EXTINF:0 tvg-id="ext" group-title="Germany", CNBC HD
+#EXTINF:0 tvg-id="ext" group-title="DE", CNBC HD
 http://185.234.111.37:8880/play/a049
-#EXTINF:0 tvg-id="ext" group-title="Germany", Cartoon Network
+#EXTINF:0 tvg-id="ext" group-title="DE", Cartoon Network
 http://185.234.111.37:8880/play/a05p
-#EXTINF:0 tvg-id="ext" group-title="Germany", Channel21 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Channel21 HD
 http://185.234.111.37:8880/play/a03z
-#EXTINF:0 tvg-id="ext" group-title="Germany", Classica
+#EXTINF:0 tvg-id="ext" group-title="DE", Classica
 http://185.234.111.37:8880/play/a04l
-#EXTINF:0 tvg-id="ext" group-title="Germany", Comedy Central HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Comedy Central HD
 http://185.234.111.37:8880/play/a02r
-#EXTINF:0 tvg-id="ext" group-title="Germany", Crime + Investigation
+#EXTINF:0 tvg-id="ext" group-title="DE", Crime + Investigation
 http://185.234.111.37:8880/play/a05o
-#EXTINF:0 tvg-id="ext" group-title="Germany", DAZN 1 Bar HD
+#EXTINF:0 tvg-id="ext" group-title="DE", DAZN 1 Bar HD
 http://185.234.111.37:8880/play/a04a
-#EXTINF:0 tvg-id="ext" group-title="Germany", Das Erste HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Das Erste HD
 http://185.234.111.37:8880/play/a01y
-#EXTINF:0 tvg-id="ext" group-title="Germany", Discovery HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Discovery HD
 http://185.234.111.37:8880/play/a04x
-#EXTINF:0 tvg-id="ext" group-title="Germany", Disney Channel
+#EXTINF:0 tvg-id="ext" group-title="DE", Disney Channel
 http://185.234.111.37:8880/play/a02l
-#EXTINF:0 tvg-id="ext" group-title="Germany", E! Entertainm. HD
+#EXTINF:0 tvg-id="ext" group-title="DE", E! Entertainm. HD
 http://185.234.111.37:8880/play/a05k
-#EXTINF:0 tvg-id="ext" group-title="Germany", EWTN katholisches TV
+#EXTINF:0 tvg-id="ext" group-title="DE", EWTN katholisches TV
 http://185.234.111.37:8880/play/a02e
-#EXTINF:0 tvg-id="ext" group-title="Germany", Eurosport 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Eurosport 1 HD
 http://185.234.111.37:8880/play/a043
-#EXTINF:0 tvg-id="ext" group-title="Germany", Eurosport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Eurosport 2 HD
 http://185.234.111.37:8880/play/a05i
-#EXTINF:0 tvg-id="ext" group-title="Germany", Eurosport 2 HD Xtra
+#EXTINF:0 tvg-id="ext" group-title="DE", Eurosport 2 HD Xtra
 http://185.234.111.37:8880/play/a044
-#EXTINF:0 tvg-id="ext" group-title="Germany", Eurosport360HD 3
+#EXTINF:0 tvg-id="ext" group-title="DE", Eurosport360HD 3
 http://185.234.111.37:8880/play/a075
-#EXTINF:0 tvg-id="ext" group-title="Germany", Fox HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Fox HD
 http://185.234.111.37:8880/play/a071
-#EXTINF:0 tvg-id="ext" group-title="Germany", Genius Plus
+#EXTINF:0 tvg-id="ext" group-title="DE", Genius Plus
 http://185.234.111.37:8880/play/a02u
-#EXTINF:0 tvg-id="ext" group-title="Germany", HSE24 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", HSE24 HD
 http://185.234.111.37:8880/play/a02q
-#EXTINF:0 tvg-id="ext" group-title="Germany", Handystar TV HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Handystar TV HD
 http://185.234.111.37:8880/play/a03x
-#EXTINF:0 tvg-id="ext" group-title="Germany", Heimatkanal
+#EXTINF:0 tvg-id="ext" group-title="DE", Heimatkanal
 http://185.234.111.37:8880/play/a04k
-#EXTINF:0 tvg-id="ext" group-title="Germany", History HD
+#EXTINF:0 tvg-id="ext" group-title="DE", History HD
 http://185.234.111.37:8880/play/a05j
-#EXTINF:0 tvg-id="ext" group-title="Germany", Jukebox
+#EXTINF:0 tvg-id="ext" group-title="DE", Jukebox
 http://185.234.111.37:8880/play/a04b
-#EXTINF:0 tvg-id="ext" group-title="Germany", Junior
+#EXTINF:0 tvg-id="ext" group-title="DE", Junior
 http://185.234.111.37:8880/play/a04j
-#EXTINF:0 tvg-id="ext" group-title="Germany", Kabel Eins Doku HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Kabel Eins Doku HD
 http://185.234.111.37:8880/play/a03h
-#EXTINF:0 tvg-id="ext" group-title="Germany", KiKA HD
+#EXTINF:0 tvg-id="ext" group-title="DE", KiKA HD
 http://185.234.111.37:8880/play/a01v
-#EXTINF:0 tvg-id="ext" group-title="Germany", Kinowelt TV
+#EXTINF:0 tvg-id="ext" group-title="DE", Kinowelt TV
 http://185.234.111.37:8880/play/a04q
-#EXTINF:0 tvg-id="ext" group-title="Germany", MTV HD
+#EXTINF:0 tvg-id="ext" group-title="DE", MTV HD
 http://185.234.111.37:8880/play/a03y
-#EXTINF:0 tvg-id="ext" group-title="Germany", Motorvision TV
+#EXTINF:0 tvg-id="ext" group-title="DE", Motorvision TV
 http://185.234.111.37:8880/play/a05n
-#EXTINF:0 tvg-id="ext" group-title="Germany", N24 DOKU
+#EXTINF:0 tvg-id="ext" group-title="DE", N24 DOKU
 http://185.234.111.37:8880/play/a02d
-#EXTINF:0 tvg-id="ext" group-title="Germany", Nat Geo Wild HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Nat Geo Wild HD
 http://185.234.111.37:8880/play/a04v
-#EXTINF:0 tvg-id="ext" group-title="Germany", NatGeo HD
+#EXTINF:0 tvg-id="ext" group-title="DE", NatGeo HD
 http://185.234.111.37:8880/play/a055
-#EXTINF:0 tvg-id="ext" group-title="Germany", Nicer Dicer TV
+#EXTINF:0 tvg-id="ext" group-title="DE", Nicer Dicer TV
 http://185.234.111.37:8880/play/a02t
-#EXTINF:0 tvg-id="ext" group-title="Germany", Nicktoons
+#EXTINF:0 tvg-id="ext" group-title="DE", Nicktoons
 http://185.234.111.37:8880/play/a051
-#EXTINF:0 tvg-id="ext" group-title="Germany", Pro7 MAXX HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Pro7 MAXX HD
 http://185.234.111.37:8880/play/a03g
-#EXTINF:0 tvg-id="ext" group-title="Germany", ProSieben HD
+#EXTINF:0 tvg-id="ext" group-title="DE", ProSieben HD
 http://185.234.111.37:8880/play/a03d
-#EXTINF:0 tvg-id="ext" group-title="Germany", QVC
+#EXTINF:0 tvg-id="ext" group-title="DE", QVC
 http://185.234.111.37:8880/play/a02m
-#EXTINF:0 tvg-id="ext" group-title="Germany", QVC STYLE
+#EXTINF:0 tvg-id="ext" group-title="DE", QVC STYLE
 http://185.234.111.37:8880/play/a02f
-#EXTINF:0 tvg-id="ext" group-title="Germany", RTL HD
+#EXTINF:0 tvg-id="ext" group-title="DE", RTL HD
 http://185.234.111.37:8880/play/a03q
-#EXTINF:0 tvg-id="ext" group-title="Germany", RTLII HD
+#EXTINF:0 tvg-id="ext" group-title="DE", RTLII HD
 http://185.234.111.37:8880/play/a03t
-#EXTINF:0 tvg-id="ext" group-title="Germany", Romance TV
+#EXTINF:0 tvg-id="ext" group-title="DE", Romance TV
 http://185.234.111.37:8880/play/a04r
-#EXTINF:0 tvg-id="ext" group-title="Germany", SAT.1 Gold HD
+#EXTINF:0 tvg-id="ext" group-title="DE", SAT.1 Gold HD
 http://185.234.111.37:8880/play/a042
-#EXTINF:0 tvg-id="ext" group-title="Germany", SAT.1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", SAT.1 HD
 http://185.234.111.37:8880/play/a03c
-#EXTINF:0 tvg-id="ext" group-title="Germany", SIXX HD
+#EXTINF:0 tvg-id="ext" group-title="DE", SIXX HD
 http://185.234.111.37:8880/play/a03f
-#EXTINF:0 tvg-id="ext" group-title="Germany", SWR BW HD
+#EXTINF:0 tvg-id="ext" group-title="DE", SWR BW HD
 http://185.234.111.37:8880/play/a020
-#EXTINF:0 tvg-id="ext" group-title="Germany", SWR RP HD
+#EXTINF:0 tvg-id="ext" group-title="DE", SWR RP HD
 http://185.234.111.37:8880/play/a021
-#EXTINF:0 tvg-id="ext" group-title="Germany", SYFY HD
+#EXTINF:0 tvg-id="ext" group-title="DE", SYFY HD
 http://185.234.111.37:8880/play/a072
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Atlantic HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Atlantic HD
 http://185.234.111.37:8880/play/a053
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Action HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Action HD
 http://185.234.111.37:8880/play/a047
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Best Of HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Best Of HD
 http://185.234.111.37:8880/play/a06z
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Classics
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Classics
 http://185.234.111.37:8880/play/a04z
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Family HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Family HD
 http://185.234.111.37:8880/play/a04n
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Fun
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Fun
 http://185.234.111.37:8880/play/a04c
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Premieren +24 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Premieren +24 HD
 http://185.234.111.37:8880/play/a05l
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Premieren HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Premieren HD
 http://185.234.111.37:8880/play/a04y
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Special HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Special HD
 http://185.234.111.37:8880/play/a054
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Cinema Thriller HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Cinema Thriller HD
 http://185.234.111.37:8880/play/a05a
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Comedy HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Comedy HD
 http://185.234.111.37:8880/play/a04i
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Crime HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Crime HD
 http://185.234.111.37:8880/play/a04t
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Krimi HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Krimi HD
 http://185.234.111.37:8880/play/a05b
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky One HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky One HD
 http://185.234.111.37:8880/play/a04o
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 1
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 1
 http://185.234.111.37:8880/play/a05e
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 1 HD
 http://185.234.111.37:8880/play/a04w
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 11 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 11 HD
 http://185.234.111.37:8880/play/a066
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 12 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 12 HD
 http://185.234.111.37:8880/play/a060
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 13 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 13 HD
 http://185.234.111.37:8880/play/a061
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 14 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 14 HD
 http://185.234.111.37:8880/play/a068
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 2
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 2
 http://185.234.111.37:8880/play/a04p
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 2 HD
 http://185.234.111.37:8880/play/a056
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 3 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 3 HD
 http://185.234.111.37:8880/play/a06j
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 4 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 4 HD
 http://185.234.111.37:8880/play/a06a
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 5 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 5 HD
 http://185.234.111.37:8880/play/a074
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 6 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 6 HD
 http://185.234.111.37:8880/play/a06d
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 7 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 7 HD
 http://185.234.111.37:8880/play/a063
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport 8 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport 8 HD
 http://185.234.111.37:8880/play/a06g
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 1 HD
 http://185.234.111.37:8880/play/a06y
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 10 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 10 HD
 http://185.234.111.37:8880/play/a065
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 2 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 2 HD
 http://185.234.111.37:8880/play/a06i
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 3 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 3 HD
 http://185.234.111.37:8880/play/a069
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 4 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 4 HD
 http://185.234.111.37:8880/play/a073
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 5 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 5 HD
 http://185.234.111.37:8880/play/a06c
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 6 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 6 HD
 http://185.234.111.37:8880/play/a062
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport Bundesliga 7 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport Bundesliga 7 HD
 http://185.234.111.37:8880/play/a06f
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport F1 HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport F1 HD
 http://185.234.111.37:8880/play/a04e
-#EXTINF:0 tvg-id="ext" group-title="Germany", Sky Sport News HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Sky Sport News HD
 http://185.234.111.37:8880/play/a070
-#EXTINF:0 tvg-id="ext" group-title="Germany", Spiegel TV Wissen
+#EXTINF:0 tvg-id="ext" group-title="DE", Spiegel TV Wissen
 http://185.234.111.37:8880/play/a052
-#EXTINF:0 tvg-id="ext" group-title="Germany", TLC HD
+#EXTINF:0 tvg-id="ext" group-title="DE", TLC HD
 http://185.234.111.37:8880/play/a03v
-#EXTINF:0 tvg-id="ext" group-title="Germany", TNT Comedy HD
+#EXTINF:0 tvg-id="ext" group-title="DE", TNT Comedy HD
 http://185.234.111.37:8880/play/a05m
-#EXTINF:0 tvg-id="ext" group-title="Germany", TNT Film HD
+#EXTINF:0 tvg-id="ext" group-title="DE", TNT Film HD
 http://185.234.111.37:8880/play/a05d
-#EXTINF:0 tvg-id="ext" group-title="Germany", TNT Serie HD
+#EXTINF:0 tvg-id="ext" group-title="DE", TNT Serie HD
 http://185.234.111.37:8880/play/a048
-#EXTINF:0 tvg-id="ext" group-title="Germany", Universal TV HD
+#EXTINF:0 tvg-id="ext" group-title="DE", Universal TV HD
 http://185.234.111.37:8880/play/a046
-#EXTINF:0 tvg-id="ext" group-title="Germany", VOX HD
+#EXTINF:0 tvg-id="ext" group-title="DE", VOX HD
 http://185.234.111.37:8880/play/a03r
-#EXTINF:0 tvg-id="ext" group-title="Germany", WELT HD
+#EXTINF:0 tvg-id="ext" group-title="DE", WELT HD
 http://185.234.111.37:8880/play/a02s
-#EXTINF:0 tvg-id="ext" group-title="Germany", ZDFinfo HD
+#EXTINF:0 tvg-id="ext" group-title="DE", ZDFinfo HD
 http://185.234.111.37:8880/play/a01w
-#EXTINF:0 tvg-id="ext" group-title="Germany", arte HD
+#EXTINF:0 tvg-id="ext" group-title="DE", arte HD
 http://185.234.111.37:8880/play/a01z
-#EXTINF:0 tvg-id="ext" group-title="Germany", kabel eins HD
+#EXTINF:0 tvg-id="ext" group-title="DE", kabel eins HD
 http://185.234.111.37:8880/play/a03e
-#EXTINF:0 tvg-id="ext" group-title="Germany", n-tv HD
+#EXTINF:0 tvg-id="ext" group-title="DE", n-tv HD
 http://185.234.111.37:8880/play/a03s
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO1 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO1 HD
 http://80.24.75.92:5555/udp/239.111.0.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Veronica/DisneyXD HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Veronica/DisneyXD HD
 http://80.24.75.92:5555/udp/239.111.0.4:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NET5 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", NET5 HD
 http://80.24.75.92:5555/udp/239.111.0.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", Canvas HD
+#EXTINF:0 tvg-id="ext" group-title="HL", Canvas HD
 http://80.24.75.92:5555/udp/239.111.0.5:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", een HD
+#EXTINF:0 tvg-id="ext" group-title="HL", een HD
 http://80.24.75.92:5555/udp/239.111.0.6:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", NPO2 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", NPO2 HD
 http://80.24.75.92:5555/udp/239.111.1.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SBS6 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", SBS6 HD
 http://80.24.75.92:5555/udp/239.111.1.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", New
+#EXTINF:0 tvg-id="ext" group-title="HL", New
 http://80.24.75.92:5555/udp/239.111.2.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL8 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL8 HD
 http://80.24.75.92:5555/udp/239.111.2.4:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL4 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL4 HD
 http://80.24.75.92:5555/udp/239.111.2.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", VTM HD
+#EXTINF:0 tvg-id="ext" group-title="HL", VTM HD
 http://80.24.75.92:5555/udp/239.111.2.5:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", RTL7 HD
+#EXTINF:0 tvg-id="ext" group-title="HL", RTL7 HD
 http://80.24.75.92:5555/udp/239.111.2.3:1234
-#EXTINF:0 tvg-id="ext" group-title="Dutch", SBS9
+#EXTINF:0 tvg-id="ext" group-title="HL", SBS9
 http://80.24.75.92:5555/udp/239.111.3.1:1234
-#EXTINF:0 group-title="Movies",VIP HIT SD (ENG)
+#EXTINF:0 group-title="RS",VIP HIT SD (ENG)
 http://tv.cdn.xsg.ge/healthtv/mpegts
-#EXTINF:0 tvg-logo="http://only4.tv/ch/2103.png" group-title="Movies",AMEDIA Hit HD (ENG)
+#EXTINF:0 tvg-logo="http://only4.tv/ch/2103.png" group-title="RS",AMEDIA Hit HD (ENG)
 http://212.79.122.24:7125/amedia_hit
-#EXTINF:0 tvg-logo="http://only4.tv/ch/2104.png" group-title="Movies",AMEDIA Premium HD (ENG)
+#EXTINF:0 tvg-logo="http://only4.tv/ch/2104.png" group-title="RS",AMEDIA Premium HD (ENG)
 http://212.79.122.24:7126/amedia_premium
-#EXTINF:0 tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_agsQFvaN.png" group-title="Movies",Sony Turbo (ENG)
+#EXTINF:0 tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_agsQFvaN.png" group-title="RS",Sony Turbo (ENG)
 http://212.79.122.24:7009/sony_turbo
-#EXTINF:0 tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_2dBwLv5v.png" group-title="Movies",Sony Sci-Fi (ENG)
+#EXTINF:0 tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_2dBwLv5v.png" group-title="RS",Sony Sci-Fi (ENG)
 http://212.79.122.24:7173/sony_sci-Fi
 #EXTINF:0 tvg-logo="https://online-red.com/images/tv/retro-music-tv.png" group-title="Music",Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -1869,7 +1869,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/336dc3965bbbca526b27bb3f6b7a2412.jpg" group-title="Music",1 Music Channel Romania
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.parsatv.com/index_files/Poland/persianamusic.jpg" group-title="Music",Persiana Music
+#EXTINF:0 tvg-logo="https://www.parsatv.com/index_files/PL/persianamusic.jpg" group-title="Music",Persiana Music
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.diario26.com/images/musictop_logo.png" group-title="Music",MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
@@ -1889,29 +1889,29 @@ http://190.2.155.162:8080/mtvfrance/mpegts
 http://190.2.155.162:8080/mtvhit/mpegts
 #EXTINF:0 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-viva.png" group-title="Music",VIVA Russia
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena1.png" group-title="Sports",Arena Sport 1
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena1.png" group-title="SP",Arena Sport 1
 http://212.200.127.243:80/ArenaSport1/index.m3u8
-#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/1bcf9e654e4ee10f2abedafa3c05e48c.png" group-title="Sports",Arena Sport 1 HD
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/1bcf9e654e4ee10f2abedafa3c05e48c.png" group-title="SP",Arena Sport 1 HD
 http://91.212.150.248:80/ArenaSport1/index.m3u8?utcstart=941057740302&version=2
-#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena2.png" group-title="Sports",Arena Sport 2
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena2.png" group-title="SP",Arena Sport 2
 http://212.200.127.243:80/ArenaSport2/index.m3u8
-#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b87746579eba3e1f74eb03ba41eb43f9.png" group-title="Sports",Arena Sport 2 HD
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b87746579eba3e1f74eb03ba41eb43f9.png" group-title="SP",Arena Sport 2 HD
 http://91.212.150.248:80/ArenaSport2/index.m3u8?utcstart=941057740302&version=2
-#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena3.png" group-title="Sports",Arena Sport 3
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena3.png" group-title="SP",Arena Sport 3
 http://212.200.127.243:80/ArenaSport3/index.m3u8?bw941057740302.m3u8
-#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/4a2102a490bcc6d9f4fe765ce380e5dd.png" group-title="Sports",Arena Sport 3 HD
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/4a2102a490bcc6d9f4fe765ce380e5dd.png" group-title="SP",Arena Sport 3 HD
 http://91.212.150.248:80/ArenaSport3/index.m3u8?utcstart=941057740302&version=2
-#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena4.png" group-title="Sports",Arena Sport 4
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena4.png" group-title="SP",Arena Sport 4
 http://212.200.127.243:80/ArenaSport4/index.m3u8
-#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fb5c198b50cbcb760954e6056fcc62e7.png" group-title="Sports",Arena Sport 4 HD
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/fb5c198b50cbcb760954e6056fcc62e7.png" group-title="SP",Arena Sport 4 HD
 http://91.212.150.248:80/ArenaSport4/index.m3u8?utcstart=941057740302&version=2
-#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena5.png" group-title="Sports",Arena Sport 5
+#EXTINF:0 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena5.png" group-title="SP",Arena Sport 5
 http://212.200.127.243:80/ArenaSport5/index.m3u8
-#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/e747226f4ab081a7a42873016c4ed947.png" group-title="Sports",Arena Sport 5 HD
+#EXTINF:0 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/e747226f4ab081a7a42873016c4ed947.png" group-title="SP",Arena Sport 5 HD
 http://91.212.150.248:80/ArenaSport5/index.m3u8?utcstart=941057740302&version=2
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/766257175597576192/vzFwXwps_200x200.jpg" group-title="Sports",KOK Fights TV
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/766257175597576192/vzFwXwps_200x200.jpg" group-title="SP",KOK Fights TV
 http://dmitry-tv.my1.ru/his/ua/CH_SPORTHD720.m3u8
-#EXTINF:0 tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Ffootball+hd+tjk.jpg" group-title="Sports",Футбол Таджикистан
+#EXTINF:0 tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Ffootball+hd+tjk.jpg" group-title="SP",Футбол Таджикистан
 http://91.240.83.247:8101
 #EXTINF:0 tvg-logo="https://tv.nalench.com/uploads/screenshots/discovery_science.jpg" group-title="Nature",Discovery Science (ENG)
 http://212.79.122.24:7403/Discovery_Science
