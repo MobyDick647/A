@@ -67,6 +67,110 @@ http://89.160.178.236:8080/play/a03g/index.m3u8
 http://89.160.178.236:8080/play/a03h/index.m3u8
 #EXTINF:0 tvg-id="TVNCNBCBiznes.pl" group-title="Poland",TVN24 BiS
 http://89.160.178.236:8080/play/a03y/index.m3u8
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="UK-US",UK: SKY CINEMA PREMIERE
+http://62.182.80.153:80/Livetv/master/1
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="UK-US",UK: SKY CINEMA ACTION
+http://62.182.80.153:80/Livetv/master/2
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="UK-US",UK: SKY CINEMA CRIME & THRILLER
+http://62.182.80.153:80/Livetv/master/3
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="UK-US",UK: SKY CINEMA FAMILY
+http://62.182.80.153:80/Livetv/master/4
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="UK-US",UK: SKY CINEMA DISNEY
+http://62.182.80.153:80/Livetv/master/5
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="UK-US",UK: SKY CINEMA DRAMA & ROMANCE
+http://62.182.80.153:80/Livetv/master/6
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="UK-US",UK: SKY CINEMA SCIFI & HORROR
+http://62.182.80.153:80/Livetv/master/7
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="UK-US",UK: SKY CINEMA COMEDY
+http://62.182.80.153:80/Livetv/master/8
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="UK-US",UK: SKY ATLANTIC
+http://62.182.80.153:80/Livetv/master/9
+#EXTINF:0 tvg-id="SkyArts1.uk" group-title="UK-US",UK: SKY ARTS
+http://62.182.80.153:80/Livetv/master/10
+#EXTINF:0 tvg-id="ext" group-title="UK-US",UK: SKY WITNESS
+http://62.182.80.153:80/Livetv/master/11
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="UK-US",UK: BT SPORT 1
+http://62.182.80.153:80/Livetv/master/12
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="UK-US",UK: BT SPORT 2
+http://62.182.80.153:80/Livetv/master/13
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="UK-US",UK: BT SPORT ESPN
+http://62.182.80.153:80/Livetv/master/14
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="UK-US",UK: BOX NATION
+http://62.182.80.153:80/Livetv/master/15
+#EXTINF:0 tvg-id="ext" group-title="UK-US",UK: SKY SPORTS RACING
+http://62.182.80.153:80/Livetv/master/16
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="UK-US",UK: SKY SPORTS NEWS
+http://62.182.80.153:80/Livetv/master/17
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="UK-US",UK: SKY SPORTS MIX
+http://62.182.80.153:80/Livetv/master/18
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="UK-US",UK: SKY SPORTS GOLF
+http://62.182.80.153:80/Livetv/master/19
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="UK-US",UK: SKY SPORTS F1
+http://62.182.80.153:80/Livetv/master/20
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="UK-US",UK: SKY SPORTS CRICKET
+http://62.182.80.153:80/Livetv/master/21
+#EXTINF:0 tvg-id="ext" group-title="UK-US",UK: BEIN SPORT 11 (ENGLISH )
+http://62.182.80.153:80/Livetv/master/22
+#EXTINF:0 tvg-id="ext" group-title="UK-US",UK: BEIN SPORT 12 (ENGLISH)
+http://62.182.80.153:80/Livetv/master/23
+#EXTINF:0 tvg-id="ext" group-title="UK-US",UK: BEIN SPORT 13 (ENGLISH)
+http://62.182.80.153:80/Livetv/master/24
+#EXTINF:0 tvg-id="Quest.uk" group-title="UK-US",UK: QUEST
+http://62.182.80.153:80/Livetv/master/25
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="UK-US",UK: NICKELODEON
+http://62.182.80.153:80/Livetv/master/26
+#EXTINF:0 tvg-id="tinypop.uk" group-title="UK-US",UK: Tiny Pop
+http://62.182.80.153:80/Livetv/master/27
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="UK-US",UK: BOOMERANG
+http://62.182.80.153:80/Livetv/master/28
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="UK-US",UK: NICKTOONS
+http://62.182.80.153:80/Livetv/master/29
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="UK-US",UK: NICKELODEON
+http://62.182.80.153:80/Livetv/master/30
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="UK-US",UK: NICK JR
+http://62.182.80.153:80/Livetv/master/31
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="UK-US",UK: NICK JR TOO
+http://62.182.80.153:80/Livetv/master/32
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="UK-US",UK: CARTOONITO
+http://62.182.80.153:80/Livetv/master/33
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="UK-US",UK: CARTOON NETWORK
+http://62.182.80.153:80/Livetv/master/34
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="UK-US",US: ESPN
+http://62.182.80.153:80/Livetv/master/35
+#EXTINF:0 tvg-id="ESPN2.us" group-title="UK-US",US: ESPN 2
+http://62.182.80.153:80/Livetv/master/36
+#EXTINF:0 tvg-id="ESPNews.us" group-title="UK-US",US: ESPN NEWS
+http://62.182.80.153:80/Livetv/master/37
+#EXTINF:0 tvg-id="ESPNU.us" group-title="UK-US",US: ESPN U
+http://62.182.80.153:80/Livetv/master/38
+#EXTINF:0 tvg-id="HBOEast.us" group-title="UK-US",US: HBO
+http://62.182.80.153:80/Livetv/master/39
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="UK-US",US: SHOWTIME
+http://62.182.80.153:80/Livetv/master/40
+#EXTINF:0 tvg-id="StarzEast.us" group-title="UK-US",US: STARZ
+http://62.182.80.153:80/Livetv/master/41
+#EXTINF:0 tvg-id="ext" group-title="UK-US",US: SONY MOVIE CHANNEL
+http://62.182.80.153:80/Livetv/master/42
+#EXTINF:0 tvg-id="ext" group-title="UK-US",US: EPIX HITS
+http://62.182.80.153:80/Livetv/master/43
+#EXTINF:0 tvg-id="ComedyCentral.us" group-title="UK-US",US: COMEDY CENTRAL
+http://62.182.80.153:80/Livetv/master/44
+#EXTINF:0 tvg-id="Discovery.us" group-title="UK-US",US: DISCOVERY CHANNEL
+http://62.182.80.153:80/Livetv/master/45
+#EXTINF:0 tvg-id="Freeform.us" group-title="UK-US",US: FREEFORM
+http://62.182.80.153:80/Livetv/master/46
+#EXTINF:0 tvg-id="FX.us" group-title="UK-US",US: FX
+http://62.182.80.153:80/Livetv/master/47
+#EXTINF:0 tvg-id="ext" group-title="UK-US",US: FXM
+http://62.182.80.153:80/Livetv/master/48
+#EXTINF:0 tvg-id="FXX.us" group-title="UK-US",US: FXX
+http://62.182.80.153:80/Livetv/master/49
+#EXTINF:0 tvg-id="History.us" group-title="UK-US",US: HISTORY CHANNEL
+http://62.182.80.153:80/Livetv/master/50
+#EXTINF:0 tvg-id="ext" group-title="UK-US",US: PARAMOUNT CHANNEL
+http://62.182.80.153:80/Livetv/master/51
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="UK-US",UK: BT SPORT 3
+http://62.182.80.153:80/Livetv/master/52
 #EXTINF:0 tvg-id="ext" group-title="Arabic", DUBAI RACING 1 HD
 http://185.234.111.19:8880/play/a01i
 #EXTINF:0 tvg-id="ext" group-title="Arabic", DUBAI SPORTS 1 HD
@@ -123,6 +227,652 @@ http://185.234.111.19:8880/play/a0ai
 http://185.234.111.19:8880/play/a0aj
 #EXTINF:0 tvg-id="ext" group-title="Arabic", MBC MAX
 http://185.234.111.19:8880/play/a0ah
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="Arabic",2M Maroc
+http://149.100.19.226:8001/play/2M_Maroc
+#EXTINF:0 tvg-id="ext" group-title="Arabic",7BESHA
+http://149.100.19.226:8001/play/7BESHA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",A ONE TV
+http://149.100.19.226:8001/play/A_ONE_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AD DRAMA
+http://149.100.19.226:8001/play/AD_DRAMA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AD Nat Geo
+http://149.100.19.226:8001/play/AD_Nat_Geo
+#EXTINF:0 tvg-id="ADSports1.net.net" group-title="Arabic",AD SPORT 1
+http://149.100.19.226:8001/play/AD_SPORT_1
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Arabic",AD Sport 2
+http://149.100.19.226:8001/play/AD_Sport_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AFAQ TV
+http://149.100.19.226:8001/play/AFAQ_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AFRAH TV
+http://149.100.19.226:8001/play/AFRAH_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AGHAPY TV
+http://149.100.19.226:8001/play/AGHAPY_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AJMAN HD
+http://149.100.19.226:8001/play/AJMAN_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL AHAD HD
+http://149.100.19.226:8001/play/AL_AHAD_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL ALAM
+http://149.100.19.226:8001/play/AL_ALAM
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL ALAM SYRIA TV
+http://149.100.19.226:8001/play/AL_ALAM_SYRIA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL Anwar
+http://149.100.19.226:8001/play/AL_Anwar
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL BAIT BAITAK CINEMA
+http://149.100.19.226:8001/play/AL_BAIT_BAITAK_CINEMA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL DAFRA HD
+http://149.100.19.226:8001/play/AL_DAFRA_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL EMARAT TV
+http://149.100.19.226:8001/play/AL_EMARAT_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL ESHRAQ TV
+http://149.100.19.226:8001/play/AL_ESHRAQ_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL HURRA IRAQ TV SD
+http://149.100.19.226:8001/play/AL_HURRA_IRAQ_TV_SD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL HURRA TV SD
+http://149.100.19.226:8001/play/AL_HURRA_TV_SD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL JAMAHIRIA TV
+http://149.100.19.226:8001/play/AL_JAMAHIRIA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL JANOUBIA TV
+http://149.100.19.226:8001/play/a0sb
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL JANOUBIA TV
+http://149.100.19.226:8001/play/AL_JANOUBIA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL KAWTHAR
+http://149.100.19.226:8001/play/AL_KAWTHAR
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL MAAREF
+http://149.100.19.226:8001/play/AL_MAAREF
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL MALAKOOT SAT-THE KINGDOM SAT
+http://149.100.19.226:8001/play/THE_KINGDOM_SAT
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL MAYADEEN TV
+http://149.100.19.226:8001/play/AL_MAYADEEN_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL RAHMA
+http://149.100.19.226:8001/play/AL_RAHMA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL RASHEED TV HD
+http://149.100.19.226:8001/play/AL_RASHEED_TV_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL Resala
+http://149.100.19.226:8001/play/AL_Resala
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL SA3AA COMEDY
+http://149.100.19.226:8001/play/AL_SA3AA_COMEDY
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL SHARQIYA
+http://149.100.19.226:8001/play/AL_SHARQIYA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL SHARQIYA HD
+http://149.100.19.226:8001/play/AL_SHARQIYA_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL SHARQIYA NEWS HD
+http://149.100.19.226:8001/play/AL_SHARQIYA_NEWS_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL SIRAT TV
+http://149.100.19.226:8001/play/a0rv
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL masriya
+http://149.100.19.226:8001/play/AL_masriya
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL oula
+http://149.100.19.226:8001/play/AL_oula
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL-Anbar
+http://149.100.19.226:8001/play/AL-Anbar
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL-MUSTAKILA
+http://149.100.19.226:8001/play/AL-MUSTAKILA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AL-SHAREYYAH CHANNEL
+http://149.100.19.226:8001/play/AL-SHAREYYAH_CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALAAN TV HD
+http://149.100.19.226:8001/play/a0st
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALBURHAN
+http://149.100.19.226:8001/play/BURHAN_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALHADATH HD
+http://149.100.19.226:8001/play/ALHADATH_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALIMAN TV
+http://149.100.19.226:8001/play/ALIMAN_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALISTIQAMA TV
+http://149.100.19.226:8001/play/ALISTIQAMA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALKOFIYA
+http://149.100.19.226:8001/play/ALKOFIYA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALNAEEM TV
+http://149.100.19.226:8001/play/ALNAEEM_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALSIRAT
+http://149.100.19.226:8001/play/ALSIRAT
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALSahraa
+http://149.100.19.226:8001/play/ALSahraa
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ALhayat
+http://149.100.19.226:8001/play/ALhayat
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ANN
+http://149.100.19.226:8001/play/ANN
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ASHARQ NEWS CHANNEL
+http://149.100.19.226:8001/play/a0sr
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ASIA TV
+http://149.100.19.226:8001/play/ASIA_TV
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="Arabic",Abu Dhabi TV
+http://149.100.19.226:8001/play/Abu_Dhabi_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Aflam 1
+http://149.100.19.226:8001/play/ART_Aflam_1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Aflam 2
+http://149.100.19.226:8001/play/ART_Aflam_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Ahlu Alquran
+http://149.100.19.226:8001/play/Ahlu_Alquran
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Ajial
+http://149.100.19.226:8001/play/Ajial
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Ahly HD
+http://149.100.19.226:8001/play/a0r6
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Ahly SD
+http://149.100.19.226:8001/play/Al_Ahly_SD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Aoula inter
+http://149.100.19.226:8001/play/Al_Aoula_Inter_L
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="Arabic",Al Arabiya
+http://149.100.19.226:8001/play/Al_Arabiya
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Forat
+http://149.100.19.226:8001/play/Al_Forat
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Ghad SD
+http://149.100.19.226:8001/play/Al_Ghad_SD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Ghadeer
+http://149.100.19.226:8001/play/Al_Ghadeer
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Hadath
+http://149.100.19.226:8001/play/Al_Hadath
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Hayat
+http://149.100.19.226:8001/play/Al_Hayat
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Insen TV
+http://149.100.19.226:8001/play/a0sd
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Insen TV
+http://149.100.19.226:8001/play/a0qv
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Kahera Wal Nas
+http://149.100.19.226:8001/play/Al_Kahera_Wal_Nas
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Kahera Wal Nas +2
+http://149.100.19.226:8001/play/Al_Kahera_Wal_Nas_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Mawsleya
+http://149.100.19.226:8001/play/Al_Mawsleya
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Mergab
+http://149.100.19.226:8001/play/Al_Mergab
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Nas
+http://149.100.19.226:8001/play/Al_Nas
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Rafidain TV
+http://149.100.19.226:8001/play/Al_Rafiden
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al Sumaria TV
+http://149.100.19.226:8001/play/Al_Sumaria_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al-EKhbaria
+http://149.100.19.226:8001/play/Al-EKhbaria
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al-Etejah TV
+http://149.100.19.226:8001/play/Al-Etejah_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al-Khabar TV
+http://149.100.19.226:8001/play/Al-Khabar_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al-Majd3
+http://149.100.19.226:8001/play/Al-Majd3
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al-Nahar Drama
+http://149.100.19.226:8001/play/Al-Nahar_Drama
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Al-Nahar One
+http://149.100.19.226:8001/play/Al-Nahar_One
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AlHadath Alyoum
+http://149.100.19.226:8001/play/AlHadath_Alyoum
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AlHayat 3
+http://149.100.19.226:8001/play/a0oq
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AlHayat HD
+http://149.100.19.226:8001/play/AlHayat_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AlHayat Sport
+http://149.100.19.226:8001/play/a0or
+#EXTINF:0 tvg-id="ext" group-title="Arabic",AlSaeedah
+http://149.100.19.226:8001/play/AlSaeedah
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Aleqtisadiah
+http://149.100.19.226:8001/play/Aleqtisadiah
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Alhayat 2
+http://149.100.19.226:8001/play/Alhayat_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Alhayat Muslsalat
+http://149.100.19.226:8001/play/Alhayat_Muslsalat
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Alhayat We Alnas
+http://149.100.19.226:8001/play/Alhayat_We_Alnas
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Alkass four HD
+http://149.100.19.226:8001/play/Alkass_four_HD1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Alkass one HD
+http://149.100.19.226:8001/play/Alkass_one_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Alkass two HD
+http://149.100.19.226:8001/play/Alkass_two_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Almajd General
+http://149.100.19.226:8001/play/Almajd_General
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Almamlaka TV
+http://149.100.19.226:8001/play/Almamlaka_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Altaghier HD
+http://149.100.19.226:8001/play/Altaghier_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Althanya
+http://149.100.19.226:8001/play/Althanya
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Althaqafiah
+http://149.100.19.226:8001/play/Althaqafiah
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Amman TV
+http://149.100.19.226:8001/play/Amman_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Angham 2
+http://149.100.19.226:8001/play/Angham_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Attessia TV
+http://149.100.19.226:8001/play/a0s7
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Attessia TV
+http://149.100.19.226:8001/play/Attessia_TV
+#EXTINF:0 tvg-id="B4UAflam.net" group-title="Arabic",B4U AFLAM
+http://149.100.19.226:8001/play/B4U_Aflam
+#EXTINF:0 tvg-id="B4UAflam.net" group-title="Arabic",B4U Aflam
+http://149.100.19.226:8001/play/B4U_Aflam1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",B4U PLUS
+http://149.100.19.226:8001/play/B4U_Plus
+#EXTINF:0 tvg-id="ext" group-title="Arabic",BABY CHANNEL
+http://149.100.19.226:8001/play/BABY_CHANNEL
+#EXTINF:0 tvg-id="BBCArabic.net" group-title="Arabic",BBC Arabic
+http://149.100.19.226:8001/play/BBC_Arabic
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Baynounah TV HD
+http://149.100.19.226:8001/play/Baynounah_TV_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Bedaya
+http://149.100.19.226:8001/play/Bedaya
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Beity
+http://149.100.19.226:8001/play/Beity
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Beur TV
+http://149.100.19.226:8001/play/Beur_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CAIRO CINEMA
+http://149.100.19.226:8001/play/Cairo_cinema
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CAIRO DRAMA
+http://149.100.19.226:8001/play/Cairo_Drama
+#EXTINF:0 tvg-id="cbc" group-title="Arabic",CBC
+http://149.100.19.226:8001/play/CBC
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Arabic",CBC Drama
+http://149.100.19.226:8001/play/CBC_Drama
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CBC Sofra
+http://149.100.19.226:8001/play/CBC_Sofra
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CCTV-A
+http://149.100.19.226:8001/play/CCTV-A
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CIMA ALI BABA
+http://149.100.19.226:8001/play/CIMA_ALI_BABA
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Arabic",CINEMA 1
+http://149.100.19.226:8001/play/CINEMA_1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CINEMA PRO
+http://149.100.19.226:8001/play/CINEMA_PRO
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CIRA TV
+http://149.100.19.226:8001/play/CIRA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CN ARABIA
+http://149.100.19.226:8001/play/a0t0
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CN Arabia
+http://149.100.19.226:8001/play/CN_Arabia
+#EXTINF:0 tvg-id="ext" group-title="Arabic",CNBC ARABIYA
+http://149.100.19.226:8001/play/CNBC_ARABIYA
+#EXTINF:0 tvg-id="cnn" group-title="Arabic",CNN
+http://149.100.19.226:8001/play/a0ss
+#EXTINF:0 tvg-id="cnn" group-title="Arabic",CNN
+http://149.100.19.226:8001/play/CNN
+#EXTINF:0 tvg-id="ctv" group-title="Arabic",CTV
+http://149.100.19.226:8001/play/CTV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Carthage+
+http://149.100.19.226:8001/play/a0sc
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Cima
+http://149.100.19.226:8001/play/Cima
+#EXTINF:0 tvg-id="park-razvlecheniy" group-title="Arabic",Cinema
+http://149.100.19.226:8001/play/ART_Cinema
+#EXTINF:0 tvg-id="ext" group-title="Arabic",DW Arabia
+http://149.100.19.226:8001/play/DW_Arabia
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Dijlah TV
+http://149.100.19.226:8001/play/Dijlah_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Dijlah TV
+http://149.100.19.226:8001/play/Dijlah_TV1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Dream2
+http://149.100.19.226:8001/play/Dream2
+#EXTINF:0 tvg-id="DubaiOne.net" group-title="Arabic",Dubai One
+http://149.100.19.226:8001/play/Dubai_One
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Dubai Sports 2
+http://149.100.19.226:8001/play/Dubai_Sports_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Dubai Sports 3
+http://149.100.19.226:8001/play/Dubai_Sports_3
+#EXTINF:0 tvg-id="DubaiTVHD.net" group-title="Arabic",Dubai TV
+http://149.100.19.226:8001/play/Dubai_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Dubai Zaman
+http://149.100.19.226:8001/play/Dubai_Zaman
+#EXTINF:0 tvg-id="ext" group-title="Arabic",EDUC 1
+http://149.100.19.226:8001/play/EDUC_1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",EL BILAD
+http://149.100.19.226:8001/play/EL_BILAD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",EL DJAZAIRIA TV
+http://149.100.19.226:8001/play/EL_DJAZAIRIA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",EL FADJR TV DZ
+http://149.100.19.226:8001/play/EL_FADJR_TV_DZ
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ENNAHAR TV
+http://149.100.19.226:8001/play/ENNAHAR_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ETIHAD TV
+http://149.100.19.226:8001/play/ETIHAD_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Echorouk NEWS
+http://149.100.19.226:8001/play/Echorouk_NEWS
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Echorouk TV
+http://149.100.19.226:8001/play/Echorouk_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Elhiwar Ettounsi
+http://149.100.19.226:8001/play/a0s5
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Elhiwar Ettounsi
+http://149.100.19.226:8001/play/Elhiwar_Ettounsi_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Extra News
+http://149.100.19.226:8001/play/Extra_News
+#EXTINF:0 tvg-id="france24" group-title="Arabic",France 24
+http://149.100.19.226:8001/play/France_24
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Free TV
+http://149.100.19.226:8001/play/Free_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Fujairah TV HD
+http://149.100.19.226:8001/play/Fujairah_TV_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",HANNIBAL TV
+http://149.100.19.226:8001/play/a0se
+#EXTINF:0 tvg-id="ext" group-title="Arabic",HANNIBAL TV
+http://149.100.19.226:8001/play/HANNIBAL_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Hannibal
+http://149.100.19.226:8001/play/Hannibal
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Hekayat
+http://149.100.19.226:8001/play/ART_Hekayat
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Hekayat Kaman
+http://149.100.19.226:8001/play/ART_Hekayat_Kaman
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Hekayat2
+http://149.100.19.226:8001/play/ART_Hekayat2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Hona Baghdad
+http://149.100.19.226:8001/play/Hona_Baghdad
+#EXTINF:0 tvg-id="ext" group-title="Arabic",IFILM ARABIC
+http://149.100.19.226:8001/play/IFILM_ARABIC
+#EXTINF:0 tvg-id="Iqraa.net" group-title="Arabic",Iqraa
+http://149.100.19.226:8001/play/Iqraa
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Iraq Now
+http://149.100.19.226:8001/play/Iraq_Now
+#EXTINF:0 tvg-id="ext" group-title="Arabic",JORDAN NOW
+http://149.100.19.226:8001/play/a0rq
+#EXTINF:0 tvg-id="ext" group-title="Arabic",JORDAN NOW
+http://149.100.19.226:8001/play/JORDAN_NOW
+#EXTINF:0 tvg-id="ext" group-title="Arabic",JORDAN SAMA
+http://149.100.19.226:8001/play/a0rr
+#EXTINF:0 tvg-id="ext" group-title="Arabic",JORDAN SAMA
+http://149.100.19.226:8001/play/JORDAN_SAMA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Jordan
+http://149.100.19.226:8001/play/Jordan
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Jordan Sport
+http://149.100.19.226:8001/play/Jordan_Sport
+#EXTINF:0 tvg-id="ext" group-title="Arabic",KANA TV
+http://149.100.19.226:8001/play/KANA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",KARAMEESH
+http://149.100.19.226:8001/play/KARAMEESH
+#EXTINF:0 tvg-id="ext" group-title="Arabic",KARBALA TV
+http://149.100.19.226:8001/play/KARBALA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",KARBALA TV HD
+http://149.100.19.226:8001/play/KARBALA_TV_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",KOKKY TV
+http://149.100.19.226:8001/play/KOKKY_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Kaifa
+http://149.100.19.226:8001/play/Kaifa
+#EXTINF:0 tvg-id="ext" group-title="Arabic",LANA PLUS
+http://149.100.19.226:8001/play/LANA_PLUS
+#EXTINF:0 tvg-id="ext" group-title="Arabic",LANA TV
+http://149.100.19.226:8001/play/LANA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",LANA TV HD
+http://149.100.19.226:8001/play/a0sy
+#EXTINF:0 tvg-id="ext" group-title="Arabic",LBC SAT
+http://149.100.19.226:8001/play/LBC_SAT
+#EXTINF:0 tvg-id="ext" group-title="Arabic",LIBYA 218
+http://149.100.19.226:8001/play/LIBYA_218
+#EXTINF:0 tvg-id="ext" group-title="Arabic",LIBYA ALHADATH
+http://149.100.19.226:8001/play/LIBYA_ALHADATH
+#EXTINF:0 tvg-id="ext" group-title="Arabic",LIBYAS CHANNEL
+http://149.100.19.226:8001/play/LIBYAS_CHANNEL
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Lebanon TV
+http://149.100.19.226:8001/play/a0ph
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Libya 218 News
+http://149.100.19.226:8001/play/Libya_218_News
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Libya 24 HD
+http://149.100.19.226:8001/play/Libya_24_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Libya Alrasmia
+http://149.100.19.226:8001/play/Libya_Alrasmia
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Libya Now
+http://149.100.19.226:8001/play/Libya_Now
+#EXTINF:0 tvg-id="ext" group-title="Arabic",M CINEMA
+http://149.100.19.226:8001/play/M_CINEMA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",M CLASSIC
+http://149.100.19.226:8001/play/M_CLASSIC
+#EXTINF:0 tvg-id="ext" group-title="Arabic",M TUNISIA
+http://149.100.19.226:8001/play/M_TUNISIA
+#EXTINF:0 tvg-id="MBC2.net" group-title="Arabic",MBC 2
+http://149.100.19.226:8001/play/a0sq
+#EXTINF:0 tvg-id="MBC2.net" group-title="Arabic",MBC 2
+http://149.100.19.226:8001/play/MBC_2
+#EXTINF:0 tvg-id="MBC2.net" group-title="Arabic",MBC 2
+http://149.100.19.226:8001/play/MBC_2_
+#EXTINF:0 tvg-id="MBC3.net" group-title="Arabic",MBC 3
+http://149.100.19.226:8001/play/MBC_3
+#EXTINF:0 tvg-id="MBC4.net" group-title="Arabic",MBC 4
+http://149.100.19.226:8001/play/MBC_4
+#EXTINF:0 tvg-id="ext" group-title="Arabic",MBC 5
+http://149.100.19.226:8001/play/MBC_5
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Arabic",MBC Action
+http://149.100.19.226:8001/play/MBC_Action
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Arabic",MBC Bollywood
+http://149.100.19.226:8001/play/MBC_Bollywood
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Arabic",MBC Bollywood
+http://149.100.19.226:8001/play/MBC_Bollywood_
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Arabic",MBC Drama
+http://149.100.19.226:8001/play/MBC_Drama
+#EXTINF:0 tvg-id="ext" group-title="Arabic",MBC IRAQ
+http://149.100.19.226:8001/play/MBC_IRAQ
+#EXTINF:0 tvg-id="ext" group-title="Arabic",MBC MASR
+http://149.100.19.226:8001/play/MBC_MASR
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Arabic",MBC MAX
+http://149.100.19.226:8001/play/MBC_MAX
+#EXTINF:0 tvg-id="ext" group-title="Arabic",MBC Masr 2
+http://149.100.19.226:8001/play/MBC_Masr_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",MESAT HD
+http://149.100.19.226:8001/play/MESAT_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",MODY KIDS
+http://149.100.19.226:8001/play/MODY_KIDS
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Maestro TV
+http://149.100.19.226:8001/play/Maestro_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Majid Kids TV
+http://149.100.19.226:8001/play/Majid_Kids_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Masar TV
+http://149.100.19.226:8001/play/Al_Masar
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Maspero Zaman
+http://149.100.19.226:8001/play/Maspero_Zaman
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Mazzika
+http://149.100.19.226:8001/play/Mazzika
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Mecca
+http://149.100.19.226:8001/play/Mecca
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Medi1 TV Arabic
+http://149.100.19.226:8001/play/Medi1_TV_Arabic
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Mehwer
+http://149.100.19.226:8001/play/Mehwer
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Music Alhanen
+http://149.100.19.226:8001/play/Music_Alhanen
+#EXTINF:0 tvg-id="ext" group-title="Arabic",NABA TV
+http://149.100.19.226:8001/play/NABA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",NBN HD
+http://149.100.19.226:8001/play/NBN_HD
+#EXTINF:0 tvg-id="nhk-world" group-title="Arabic",NHK World
+http://149.100.19.226:8001/play/NHK_World
+#EXTINF:0 tvg-id="ext" group-title="Arabic",NUMIDIA TV
+http://149.100.19.226:8001/play/NUMIDIA_TV
+#EXTINF:0 tvg-id="NESSMA.tn" group-title="Arabic",Nessma
+http://149.100.19.226:8001/play/Nessma
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile Cinema
+http://149.100.19.226:8001/play/Nile_Cinema
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile Comedy
+http://149.100.19.226:8001/play/Nile_Comedy
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile Culture
+http://149.100.19.226:8001/play/Nile_Culture
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile Drama
+http://149.100.19.226:8001/play/Nile_Drama
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile Family
+http://149.100.19.226:8001/play/Nile_Family
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile Life
+http://149.100.19.226:8001/play/Nile_Life
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile News
+http://149.100.19.226:8001/play/Nile_News
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile Sport
+http://149.100.19.226:8001/play/Nile_Sport
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nile TV
+http://149.100.19.226:8001/play/Nile_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Nogoum FM TV
+http://149.100.19.226:8001/play/Nogoum_FM_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Noor Dubai
+http://149.100.19.226:8001/play/Noor_Dubai
+#EXTINF:0 tvg-id="ext" group-title="Arabic",NourSat
+http://149.100.19.226:8001/play/NourSat
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Noursat Alchabab
+http://149.100.19.226:8001/play/Noursat_Alchabab
+#EXTINF:0 tvg-id="ext" group-title="Arabic",OMAN TV Culture HD
+http://149.100.19.226:8001/play/a0qc
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ON Drama
+http://149.100.19.226:8001/play/ON_Drama
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ON E
+http://149.100.19.226:8001/play/ON_E
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ON Sport
+http://149.100.19.226:8001/play/ON_Sport
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ONTIME SPORTS
+http://149.100.19.226:8001/play/ONTIME_SPORTS
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Oman TV Culture HD
+http://149.100.19.226:8001/play/a0so
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Oman TV General SD
+http://149.100.19.226:8001/play/Oman_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Oman TV Live HD
+http://149.100.19.226:8001/play/Oman_TV_Live
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Oman TV Sport HD
+http://149.100.19.226:8001/play/Oman_TV_Sport
+#EXTINF:0 tvg-id="ext" group-title="Arabic",PALESTINE TODAY
+http://149.100.19.226:8001/play/PALESTINE_TODAY
+#EXTINF:0 tvg-id="PressTV.uk" group-title="Arabic",PRESS TV
+http://149.100.19.226:8001/play/PRESS_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Palestine
+http://149.100.19.226:8001/play/Palestine
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Palestine live
+http://149.100.19.226:8001/play/Palestine_live
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Panorama Drama
+http://149.100.19.226:8001/play/Panorama_Drama
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Panorama Drama 2
+http://149.100.19.226:8001/play/Panorama_Drama_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Panorama Film
+http://149.100.19.226:8001/play/Panorama_Film
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Panorama Food
+http://149.100.19.226:8001/play/Panorama_Food
+#EXTINF:0 tvg-id="ext" group-title="Arabic",QATAR TV HD
+http://149.100.19.226:8001/play/QATAR_TV_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",RO'YA
+http://149.100.19.226:8001/play/ROAYA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",RT ARABIC HD
+http://149.100.19.226:8001/play/RT_ARABIC_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Rotana Cinema EGY
+http://149.100.19.226:8001/play/Rotana_Cinema_EGY
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Rotana Classic
+http://149.100.19.226:8001/play/Rotana_Classic
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Rotana Clip
+http://149.100.19.226:8001/play/Rotana_Clip
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Rotana Drama
+http://149.100.19.226:8001/play/Rotana_Drama
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Rotana Khalijia
+http://149.100.19.226:8001/play/Rotana_Khalijia
+#EXTINF:0 tvg-id="RotanaMusic.il" group-title="Arabic",Rotana Music
+http://149.100.19.226:8001/play/Rotana_Music
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SAFA TV
+http://149.100.19.226:8001/play/SAFA_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SAT-7 ARABIC
+http://149.100.19.226:8001/play/SAT-7_ARABIC
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SAT-7 KIDS
+http://149.100.19.226:8001/play/SAT-7_KIDS
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SAUDI 24
+http://149.100.19.226:8001/play/SAUDI_24
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SHAMNA
+http://149.100.19.226:8001/play/SHAMNA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SPACETOON ARABIC
+http://149.100.19.226:8001/play/SPACETOON_ARABIC
+#EXTINF:0 tvg-id="ext" group-title="Arabic",STAR CINEMA 1
+http://149.100.19.226:8001/play/STAR_CINEMA_1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",STAR CINEMA 2
+http://149.100.19.226:8001/play/STAR_CINEMA_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SUHAIL TV
+http://149.100.19.226:8001/play/SUHAIL_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SYRIA TV HD
+http://149.100.19.226:8001/play/SYRIA_TV_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SYRIAN EDUCATION
+http://149.100.19.226:8001/play/SYRIAN_EDUCATION
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Sada El Balad
+http://149.100.19.226:8001/play/Sada_El-Balad
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Sada El Balad+
+http://149.100.19.226:8001/play/Sada_El_Balad2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Sada ElBalad Drama
+http://149.100.19.226:8001/play/Sada_ElBalad_Drama
+#EXTINF:0 tvg-id="SamaDubai.net" group-title="Arabic",Sama Dubai
+http://149.100.19.226:8001/play/Sama_Dubai
+#EXTINF:0 tvg-id="ext" group-title="Arabic",SamiraTV
+http://149.100.19.226:8001/play/SamiraTV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Saudi Ch. For Quran
+http://149.100.19.226:8001/play/Saudi_Ch_For_Quran
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Saudi Ch. For Sunnah
+http://149.100.19.226:8001/play/Saudi_Ch_For_Sunnah
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Saudi Sport
+http://149.100.19.226:8001/play/Saudi_Sport
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Saudi-1
+http://149.100.19.226:8001/play/Saudi-1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Saudi-2
+http://149.100.19.226:8001/play/Saudi-2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Sham TV
+http://149.100.19.226:8001/play/Sham_TV
+#EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="Arabic",Sky News Arabia
+http://149.100.19.226:8001/play/Sky_News_Arabia
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Sudan TV
+http://149.100.19.226:8001/play/a0q9
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Syria Medical TV
+http://149.100.19.226:8001/play/Syria_Medical_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Syria News
+http://149.100.19.226:8001/play/AL_EKHBARIYA_AL_SORIYA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TAHA
+http://149.100.19.226:8001/play/TAHA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TANASUH TV
+http://149.100.19.226:8001/play/TANASUH_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TIME SPORTS
+http://149.100.19.226:8001/play/TIME_SPORTS
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TIME SPORTS HD
+http://149.100.19.226:8001/play/TIME_SPORTS_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TOKTOK AFLAM
+http://149.100.19.226:8001/play/TOKTOK_AFLAM
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TOKTOK CIMA
+http://149.100.19.226:8001/play/TOKTOK_CIMA
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TRT_ELARABIYE
+http://149.100.19.226:8001/play/TRT_ELARABIYE
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TRT_KURDI
+http://149.100.19.226:8001/play/TRT_KURDI
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TUNISNA
+http://149.100.19.226:8001/play/a0s6
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TUNISNA
+http://149.100.19.226:8001/play/TUNISNA
+#EXTINF:0 tvg-id="tv5" group-title="Arabic",TV5
+http://149.100.19.226:8001/play/TV5
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Tayba TV School
+http://149.100.19.226:8001/play/Tayba_TV_School
+#EXTINF:0 tvg-id="ext" group-title="Arabic",TeN TV
+http://149.100.19.226:8001/play/TEN
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Telvza TV
+http://149.100.19.226:8001/play/a0sa
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Telvza TV
+http://149.100.19.226:8001/play/a0qt
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Tunisia Educ 1
+http://149.100.19.226:8001/play/a0s8
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Tunisia NAT 1
+http://149.100.19.226:8001/play/Tunisia_Nat_1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Tunisia NAT 1
+http://149.100.19.226:8001/play/a0qo
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Tunisia NAT 2
+http://149.100.19.226:8001/play/Tunisia_Nat_2
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Tunisia NAT 2
+http://149.100.19.226:8001/play/a0qs
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Tunisie Televsion 1
+http://149.100.19.226:8001/play/Tunisie_Televsion_1
+#EXTINF:0 tvg-id="ext" group-title="Arabic",VOA 24
+http://149.100.19.226:8001/play/VOA_24
+#EXTINF:0 tvg-id="ext" group-title="Arabic",WAAR SD
+http://149.100.19.226:8001/play/WAAR_SD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",WESAL TV
+http://149.100.19.226:8001/play/WESAL_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Wanasah
+http://149.100.19.226:8001/play/Wanasah
+#EXTINF:0 tvg-id="ext" group-title="Arabic",YEMEN SHABAB
+http://149.100.19.226:8001/play/YEMEN_SHABAB
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ZAD TV
+http://149.100.19.226:8001/play/a0sz
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ZAD TV
+http://149.100.19.226:8001/play/ZAD_TV
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ZAGROS TV HD
+http://149.100.19.226:8001/play/Zagros_TV_HD
+#EXTINF:0 tvg-id="ext" group-title="Arabic",ZAYTOONA
+http://149.100.19.226:8001/play/ZAYTOONA
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="Arabic",ZEE AFLAM
+http://149.100.19.226:8001/play/ZEE_AFLAM
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="Arabic",ZEE ALWAN
+http://149.100.19.226:8001/play/ZEE_ALWAN
+#EXTINF:0 tvg-id="ext" group-title="Arabic",Zamalek Sports
+http://149.100.19.226:8001/play/Zamalek_Sports
+#EXTINF:0 tvg-id="ext" group-title="Arabic",anb
+http://149.100.19.226:8001/play/anb
+#EXTINF:0 tvg-id="ext" group-title="Arabic",dmc
+http://149.100.19.226:8001/play/dmc
+#EXTINF:0 tvg-id="ext" group-title="Arabic",dmc drama
+http://149.100.19.226:8001/play/dmc_drama
 #EXTINF:0 tvg-id="ext" group-title="Bulgaria", 101_BNT 1
 http://46.10.218.219:8000/play/a046
 #EXTINF:0 tvg-id="ext" group-title="Bulgaria", 102_bTV
